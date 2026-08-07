@@ -1,0 +1,192 @@
+Name,Id,IconIdx,Subtype,Quality,BasePrice,PriceRate,FieldItemId,Weight,NeedAbility,NeedValue,AddAbility,AddValue,StatusId,StatusType,StatusPerSec,UseEffect,UseSound,CooldownType,CooldownSec,ScriptIdx,TypeName,StlKey,DisplayName,Description
+gem_301,301,1409,411,60,10200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM301,Garnet [1],Jewel of truth and friendship.
+gem_302,302,1410,411,70,21400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM302,Garnet [2],Jewel of truth and friendship.
+gem_303,303,1411,411,80,37000,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM303,Garnet [3],Jewel of truth and friendship.
+gem_304,304,1412,411,90,64500,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM304,Garnet [4],Jewel of truth and friendship.
+gem_305,305,1413,411,100,110300,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM305,Garnet [5],Jewel of truth and friendship.
+gem_306,306,1414,411,110,170550,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM306,Garnet [6],Jewel of truth and friendship.
+gem_307,307,1415,411,120,326500,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM307,Garnet [7],Jewel of truth and friendship.
+gem_308,308,6690,411,160,667600,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM308,Wicked Garnet,A wicked Jewel.
+gem_309,309,2384,411,160,667600,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM309,Purified Garnet,A Purified Jewel.
+gem_311,311,1435,411,60,10200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM311,Ruby [1],Jewel of passion and dignity.
+gem_312,312,1436,411,70,21400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM312,Ruby [2],Jewel of passion and dignity.
+gem_313,313,1437,411,80,37000,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM313,Ruby [3],Jewel of passion and dignity.
+gem_314,314,1438,411,90,64500,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM314,Ruby [4],Jewel of passion and dignity.
+gem_315,315,1439,411,100,110300,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM315,Ruby [5],Jewel of passion and dignity.
+gem_316,316,1440,411,110,170550,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM316,Ruby [6],Jewel of passion and dignity.
+gem_317,317,1441,411,120,326500,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM317,Ruby [7],Jewel of passion and dignity.
+gem_318,318,6687,411,160,667600,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM318,Wicked Ruby,A wicked Jewel.
+gem_319,319,2380,411,160,667600,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM319,Purified Ruby,A Purified Jewel.
+gem_321,321,1461,411,60,10200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM321,Sapphire [1],Jewel of truth and eternity.
+gem_322,322,1462,411,70,21400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM322,Sapphire [2],Jewel of truth and eternity.
+gem_323,323,1463,411,80,37000,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM323,Sapphire [3],Jewel of truth and eternity.
+gem_324,324,1464,411,90,64500,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM324,Sapphire [4],Jewel of truth and eternity.
+gem_325,325,1465,411,100,110300,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM325,Sapphire [5],Jewel of truth and eternity.
+gem_326,326,1466,411,110,170550,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM326,Sapphire [6],Jewel of truth and eternity.
+gem_327,327,1467,411,120,326500,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM327,Sapphire [7],Jewel of truth and eternity.
+gem_328,328,6700,411,160,667600,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM328,Wicked Sapphire,A wicked Jewel.
+gem_329,329,2388,411,160,667600,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM329,Purified Sapphire,A Purified Jewel.
+gem_331,331,1448,411,60,10200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM331,Topaz [1],Jewel of wisdom and courage.
+gem_332,332,1449,411,70,21400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM332,Topaz [2],Jewel of wisdom and courage.
+gem_333,333,1450,411,80,37000,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM333,Topaz [3],Jewel of wisdom and courage.
+gem_334,334,1451,411,90,64500,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM334,Topaz [4],Jewel of wisdom and courage.
+gem_335,335,1452,411,100,110300,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM335,Topaz [5],Jewel of wisdom and courage.
+gem_336,336,1453,411,110,170550,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM336,Topaz [6],Jewel of wisdom and courage.
+gem_337,337,1454,411,120,326500,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM337,Topaz [7],Jewel of wisdom and courage.
+gem_338,338,6693,411,160,667600,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM338,Wicked Topaz,A wicked Jewel.
+gem_339,339,2386,411,160,667600,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM339,Purified Topaz,A Purified Jewel.
+gem_341,341,1487,411,60,10200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM341,Emerald [1],Jewel of honesty and immortality.
+gem_342,342,1488,411,70,21400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM342,Emerald [2],Jewel of honesty and immortality.
+gem_343,343,1489,411,80,37000,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM343,Emerald [3],Jewel of honesty and immortality.
+gem_344,344,1490,411,90,64500,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM344,Emerald [4],Jewel of honesty and immortality.
+gem_345,345,1491,411,100,110300,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM345,Emerald [5],Jewel of honesty and immortality.
+gem_346,346,1492,411,110,170550,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM346,Emerald [6],Jewel of honesty and immortality.
+gem_347,347,1493,411,120,326500,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM347,Emerald [7],Jewel of honesty and immortality.
+gem_348,348,6706,411,160,667600,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM348,Wicked Emerald,A wicked Jewel.
+gem_349,349,2401,411,160,667600,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM349,Purified Emerald,A Purified Jewel.
+gem_351,351,1474,411,60,10500,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM351,Peridot [1],Jewel which represents liberation from darkness.
+gem_352,352,1475,411,70,24450,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM352,Peridot [2],Jewel which represents liberation from darkness.
+gem_353,353,1476,411,80,44400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM353,Peridot [3],Jewel which represents liberation from darkness.
+gem_354,354,1477,411,90,44400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM354,Peridot [4],Jewel which represents liberation from darkness.
+gem_355,355,1478,411,100,105250,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM355,Peridot [5],Jewel which represents liberation from darkness.
+gem_356,356,1479,411,110,161200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM356,Peridot [6],Jewel which represents liberation from darkness.
+gem_357,357,1480,411,120,161200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM357,Peridot [7],Jewel which represents liberation from darkness.
+gem_358,358,2403,411,160,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM358,Wicked Peridot,A wicked Jewel.
+gem_359,359,2403,411,160,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM359,Purified Peridot,A Purified Jewel.
+gem_361,361,1404,411,60,13300,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM361,Diamond [1],Jewel of purity and nobility.
+gem_362,362,1405,411,70,24200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM362,Diamond [2],Jewel of purity and nobility.
+gem_363,363,1406,411,80,43900,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM363,Diamond [3],Jewel of purity and nobility.
+gem_364,364,1407,411,90,43900,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM364,Diamond [4],Jewel of purity and nobility.
+gem_365,365,1408,411,100,140200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM365,Diamond [5],Jewel of purity and nobility.
+gem_366,366,1401,411,110,212850,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM366,Diamond [6],Jewel of purity and nobility.
+gem_367,367,1402,411,120,212850,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM367,Diamond [7],Jewel of purity and nobility.
+gem_368,368,2381,411,140,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM368,Diamond [8],Jewel of purity and nobility.
+gem_369,369,2382,411,160,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM369,Diamond [9],Jewel of purity and nobility.
+gem_371,371,1734,411,60,10500,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM371,Pink Opal [1],Jewel that is said to be created from Arua's tears.
+gem_372,372,1735,411,70,24450,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM372,Pink Opal [2],Jewel that is said to be created from Arua's tears.
+gem_373,373,1736,411,80,44400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM373,Pink Opal [3],Jewel that is said to be created from Arua's tears.
+gem_374,374,1737,411,90,44400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM374,Pink Opal [4],Jewel that is said to be created from Arua's tears.
+gem_375,375,1738,411,100,105250,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM375,Pink Opal [5],Jewel that is said to be created from Arua's tears.
+gem_376,376,1739,411,110,161200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM376,Pink Opal [6],Jewel that is said to be created from Arua's tears.
+gem_377,377,1740,411,120,161200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM377,Pink Opal [7],Jewel that is said to be created from Arua's tears.
+gem_378,378,2375,411,140,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM378,Pink Opal [8],Jewel that is said to be created from Arua's tears.
+gem_379,379,2376,411,160,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM379,Pink Opal [9],Jewel that is said to be created from Arua's tears.
+gem_381,381,3224,411,60,10500,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM381,Amethyst [1],Jewel of truth and Eternity.
+gem_382,382,3225,411,70,25000,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM382,Amethyst [2],Jewel of truth and Eternity.
+gem_383,383,3226,411,80,47000,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM383,Amethyst [3],Jewel of Truth and Eternity.
+gem_384,384,3227,411,90,47000,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM384,Amethyst [4],Jewel of Truth and Eternity.
+gem_385,385,3228,411,100,105250,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM385,Amethyst [5],Jewel of Truth and Eternity.
+gem_386,386,3229,411,110,161200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM386,Amethyst [6],Jewel of Truth and Eternity.
+gem_387,387,3230,411,120,161200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM387,Amethyst [7],Jewel of Truth and Eternity.
+gem_388,388,3231,411,140,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM388,Amethyst [8],Jewel of Truth and Eternity.
+gem_389,389,3232,411,160,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM389,Amethyst [9],Jewel of Truth and Eternity.
+gem_391,391,3237,411,60,10500,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM391,Aquamarine [1],Jewel of truth and Brilliance
+gem_392,392,3238,411,70,25000,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM392,Aquamarine [2],Jewel of Truth and Brilliance
+gem_393,393,3239,411,80,44400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM393,Aquamarine [3],Jewel of Truth and Brilliance
+gem_394,394,3240,411,90,44400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM394,Aquamarine [4],Jewel of Truth and Brilliance
+gem_395,395,3241,411,100,105250,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM395,Aquamarine [5],Jewel of Truth and Brilliance
+gem_396,396,3242,411,110,161200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM396,Aquamarine [6],Jewel of Truth and Brilliance
+gem_397,397,3243,411,120,161200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM397,Aquamarine [7],Jewel of Truth and Brilliance
+gem_398,398,3244,411,140,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM398,Aquamarine [8],Jewel of Truth and Brilliance
+gem_399,399,3245,411,160,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM399,Aquamarine [9],Jewel of Truth and Brilliance
+gem_401,401,3315,411,60,10500,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM401,Pearl [1],Jewel of Purity and Nobility.
+gem_402,402,3316,411,70,25000,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM402,Pearl [2],Jewel of Purity and Nobility.
+gem_403,403,3317,411,80,44400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM403,Pearl [3],Jewel of Purity and Nobility.
+gem_404,404,3318,411,90,44400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM404,Pearl [4],Jewel of Purity and Nobility.
+gem_405,405,3319,411,100,105250,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM405,Pearl [5],Jewel of Purity and Nobility.
+gem_406,406,3320,411,110,161200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM406,Pearl [6],Jewel of Purity and Nobility.
+gem_407,407,3321,411,120,161200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM407,Pearl [7],Jewel of Purity and Nobility.
+gem_408,408,3322,411,140,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM408,Pearl [8],Jewel of Purity and Nobility.
+gem_409,409,3323,411,160,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM409,Pearl [9],Jewel of Purity and Nobility.
+gem_411,411,3328,411,60,10500,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM411,Turquoise [1],Jewel of Passion and Dignity.
+gem_412,412,3329,411,70,25000,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM412,Turquoise [2],Jewel of Passion and Dignity.
+gem_413,413,3330,411,80,44400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM413,Turquoise [3],Jewel of Passion and Dignity.
+gem_414,414,3331,411,90,44400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM414,Turquoise [4],Jewel of Passion and Dignity.
+gem_415,415,3332,411,100,105250,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM415,Turquoise [5],Jewel of Passion and Dignity.
+gem_416,416,3333,411,110,161200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM416,Turquoise [6],Jewel of Passion and Dignity.
+gem_417,417,3334,411,120,161200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM417,Turquoise [7],Jewel of Passion and Dignity.
+gem_418,418,3335,411,140,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM418,Turquoise [8],Jewel of Passion and Dignity.
+gem_419,419,3336,411,160,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM419,Turquoise [9],Jewel of Passion and Dignity.
+gem_421,421,3250,411,60,10500,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM421,Benitoite [1],Jewel of Concentration and Accuracy
+gem_422,422,3251,411,70,25000,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM422,Benitoite [2],Jewel of Concentration and Accuracy
+gem_423,423,3252,411,80,44400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM423,Benitoite [3],Jewel of Concentration and Accuracy
+gem_424,424,3253,411,90,44400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM424,Benitoite [4],Jewel of Concentration and Accuracy
+gem_425,425,3254,411,100,105250,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM425,Benitoite [5],Jewel of Concentration and Accuracy
+gem_426,426,3255,411,110,161200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM426,Benitoite [6],Jewel of Concentration and Accuracy
+gem_427,427,3256,411,120,161200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM427,Benitoite [7],Jewel of Concentration and Accuracy
+gem_428,428,3257,411,140,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM428,Benitoite [8],Jewel of Concentration and Accuracy
+gem_429,429,3258,411,160,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM429,Benitoite [9],Jewel of Concentration and Accuracy
+gem_431,431,3276,411,60,10500,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM431,Citrine [1],A Jewel of Evasion
+gem_432,432,3277,411,70,25000,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM432,Citrine [2],A Jewel of Evasion
+gem_433,433,3278,411,80,44400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM433,Citrine [3],A Jewel of Evasion
+gem_434,434,3279,411,90,44400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM434,Citrine [4],A Jewel of Evasion
+gem_435,435,3280,411,100,105250,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM435,Citrine [5],A Jewel of Evasion
+gem_436,436,3281,411,110,161200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM436,Citrine [6],A Jewel of Evasion
+gem_437,437,3282,411,120,161200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM437,Citrine [7],A Jewel of Evasion
+gem_438,438,3283,411,80,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM438,Citrine [8],A Jewel of Evasion
+gem_439,439,3284,411,90,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM439,Citrine [9],A Jewel of Evasion
+gem_441,441,3211,411,60,10500,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM441,Alexandrite [1],A Jewel of Magic Defense
+gem_442,442,3212,411,70,25000,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM442,Alexandrite [2],A Jewel of Magic Defense
+gem_443,443,3213,411,80,44400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM443,Alexandrite [3],A Jewel of Magic Defense
+gem_444,444,3214,411,90,44400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM444,Alexandrite [4],A Jewel of Magic Defense
+gem_445,445,3215,411,100,105250,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM445,Alexandrite [5],A Jewel of Magic Defense
+gem_446,446,3216,411,110,161200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM446,Alexandrite [6],A Jewel of Magic Defense
+gem_447,447,3217,411,120,161200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM447,Alexandrite [7],A Jewel of Magic Defense
+gem_448,448,3218,411,140,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM448,Alexandrite [8],A Jewel of Magic Defense
+gem_449,449,3219,411,160,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM449,Alexandrite [9],A Jewel of Magic Defense
+gem_451,451,3302,411,60,10500,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM451,Onyx [1],Jewel of Strength and Concentration
+gem_452,452,3303,411,70,25000,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM452,Onyx [2],Jewel of Strength and Concentration
+gem_453,453,3304,411,80,44400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM453,Onyx [3],Jewel of Strength and Concentration
+gem_454,454,3305,411,90,44400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM454,Onyx [4],Jewel of Strength and Concentration
+gem_455,455,3306,411,100,105250,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM455,Onyx [5],Jewel of Strength and Concentration
+gem_456,456,3307,411,110,161200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM456,Onyx [6],Jewel of Strength and Concentration
+gem_457,457,3308,411,120,161200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM457,Onyx [7],Jewel of Strength and Concentration
+gem_458,458,3309,411,140,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM458,Onyx [8],Jewel of Strength and Concentration
+gem_459,459,3310,411,140,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM459,Onyx [9],Jewel of Strength and Concentration
+gem_461,461,3263,411,60,10500,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM461,BlueDiamond [1],Jewel of Intelligence and Power
+gem_462,462,3264,411,70,25000,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM462,BlueDiamond [2],Jewel of Intelligence and Power
+gem_463,463,3265,411,80,44400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM463,BlueDiamond [3],Jewel of Intelligence and Power
+gem_464,464,3266,411,90,44400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM464,BlueDiamond [4],Jewel of Intelligence and Power
+gem_465,465,3267,411,100,105250,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM465,BlueDiamond [5],Jewel of Intelligence and Power
+gem_466,466,3268,411,110,161200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM466,BlueDiamond [6],Jewel of Intelligence and Power
+gem_467,467,3269,411,120,161200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM467,BlueDiamond [7],Jewel of Intelligence and Power
+gem_468,468,3270,411,140,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM468,BlueDiamond [8],Jewel of Intelligence and Power
+gem_469,469,3271,411,160,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM469,BlueDiamond [9],Jewel of Intelligence and Power
+gem_471,471,3341,411,60,10500,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM471,Ultimyx [1],Jewel of Intelligence and Sensibility.
+gem_472,472,3342,411,70,25000,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM472,Ultimyx [2],Jewel of Intelligence and Sensibility.
+gem_473,473,3343,411,80,44400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM473,Ultimyx [3],Jewel of Intelligence and Sensibility.
+gem_474,474,3344,411,90,44400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM474,Ultimyx [4],Jewel of Intelligence and Sensibility.
+gem_475,475,3345,411,100,105250,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM475,Ultimyx [5],Jewel of Intelligence and Sensibility.
+gem_476,476,3346,411,110,161200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM476,Ultimyx [6],Jewel of Intelligence and Sensibility.
+gem_477,477,3347,411,120,161200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM477,Ultimyx [7],Jewel of Intelligence and Sensibility.
+gem_478,478,3348,411,140,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM478,Ultimyx [8],Jewel of Intelligence and Sensibility.
+gem_479,479,3349,411,160,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM479,Ultimyx [9],Jewel of Intelligence and Sensibility.
+gem_481,481,3289,411,60,10500,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM481,Jade [1],Jewel of Dexterity and Sensibility.
+gem_482,482,3290,411,70,25000,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM482,Jade [2],Jewel of Dexterity and Sensibility.
+gem_483,483,3291,411,80,44400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM483,Jade [3],Jewel of Dexterity and Sensibility.
+gem_484,484,3292,411,90,44400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM484,Jade [4],Jewel of Dexterity and Sensibility.
+gem_485,485,3293,411,100,105250,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM485,Jade [5],Jewel of Dexterity and Sensibility.
+gem_486,486,3294,411,110,161200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM486,Jade [6],Jewel of Dexterity and Sensibility.
+gem_487,487,3295,411,120,161200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM487,Jade [7],Jewel of Dexterity and Sensibility.
+gem_488,488,3296,411,140,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM488,Jade [8],Jewel of Dexterity and Sensibility.
+gem_489,489,3297,411,160,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM489,Jade [9],Jewel of Dexterity and Sensibility.
+gem_491,491,3220,411,60,10500,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM491,Quartz [1],Jewel of Strength and Sensibility.
+gem_492,492,3233,411,70,25000,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM492,Quartz [2],Jewel of Strength and Sensibility.
+gem_493,493,3246,411,80,44400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM493,Quartz [3],Jewel of Strength and Sensibility.
+gem_494,494,3259,411,90,44400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM494,Quartz [4],Jewel of Strength and Sensibility.
+gem_495,495,3272,411,100,105250,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM495,Quartz [5],Jewel of Strength and Sensibility.
+gem_496,496,3285,411,110,161200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM496,Quartz [6],Jewel of Strength and Sensibility.
+gem_497,497,3298,411,120,161200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM497,Quartz [7],Jewel of Strength and Sensibility.
+gem_498,498,3311,411,140,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM498,Quartz [8],Jewel of Strength and Sensibility.
+gem_499,499,3324,411,160,161200,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM499,Quartz [9],Jewel of Strength and Sensibility.
+gem_501,501,3354,411,60,10500,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM501,Zircon [1],Jewel of Concentration and Intelligence.
+gem_502,502,3355,411,70,25000,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM502,Zircon [2],Jewel of Concentration and Intelligence.
+gem_503,503,3356,411,80,44400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM503,Zircon [3],Jewel of Concentration and Intelligence.
+gem_504,504,3357,411,90,44400,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM504,Zircon [4],Jewel of Concentration and Intelligence.
+gem_505,505,3358,411,100,105250,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM505,Zircon [5],Jewel of Concentration and Intelligence.
+gem_506,506,3359,411,110,248800,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM506,Zircon [6],Jewel of Concentration and Intelligence.
+gem_507,507,3360,411,120,248800,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM507,Zircon [7],Jewel of Concentration and Intelligence.
+gem_508,508,3361,411,140,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM508,Zircon [8],Jewel of Concentration and Intelligence.
+gem_509,509,3362,411,160,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM509,Zircon [9],Jewel of Concentration and Intelligence.
+gem_510,510,3362,411,160,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM310,Wolf Fang,Jewel enchanted with the fang of a wolf.
+gem_511,511,3362,411,160,497050,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Jewel,LJEM320,Dragon Breath,Jewel enchanted with the breath of a dragon.

@@ -1,0 +1,364 @@
+Name,Id,IconIdx,Subtype,Quality,BasePrice,PriceRate,FieldItemId,Weight,NeedAbility,NeedValue,AddAbility,AddValue,StatusId,StatusType,StatusPerSec,UseEffect,UseSound,CooldownType,CooldownSec,ScriptIdx,TypeName,StlKey,DisplayName,Description
+material_1,1,1755,421,30,105,5,186,1,0,0,0,0,0,0,0,0,0,0,0,0,Metal,LNAT001,Rusted Iron,Iron covered in corroded rust. Touching it makes you feel icky.
+material_2,2,1756,421,34,140,5,186,1,0,0,0,0,0,0,0,0,0,0,0,0,Metal,LNAT002,Tin,A metal with a silvery white luster.
+material_3,3,1757,421,38,180,5,186,1,0,0,0,0,0,0,0,0,0,0,0,0,Metal,LNAT003,Copper,A metal with a reddish luster that melts easily.
+material_4,4,1758,421,42,225,5,186,1,0,0,0,0,0,0,0,0,0,0,0,0,Metal,LNAT004,Bronze,"A metal made from melting copper and tin, making it much more durable."
+material_5,5,1759,421,46,285,5,186,1,0,0,0,0,0,0,0,0,0,0,0,0,Metal,LNAT005,Iron,"Pure iron, one of the most common metals."
+material_6,6,1760,421,50,345,5,186,1,0,0,0,0,0,0,0,0,0,0,0,0,Metal,LNAT006,Silver Iron,Iron that has been tempered so that it fully gleams with a silver luster.
+material_7,7,1761,421,56,460,5,186,1,0,0,0,0,0,0,0,0,0,0,0,0,Metal,LNAT007,Steel,Iron tempered to the point that it now has a black luster.
+material_8,8,1762,421,62,595,5,186,1,0,0,0,0,0,0,0,0,0,0,0,0,Metal,LNAT008,Chromium,"A strange metal with a silvery white gloss. Though strong, it sometimes crumbles quite easily."
+material_9,9,1763,421,68,750,5,186,1,0,0,0,0,0,0,0,0,0,0,0,0,Metal,LNAT009,Tiar,Deteriorated diamond that can barely be seen because of its transparency.
+material_10,10,1764,421,75,970,5,186,1,0,0,0,0,0,0,0,0,0,0,0,0,Metal,LNAT010,Damascus,A mythical metal that actually exists.
+material_11,11,1768,422,30,440,5,186,1,0,0,0,0,0,0,0,0,0,0,0,0,Metal from Outside World,LNAT011,Unprocessed Metal,A metal that doesn't seem to really be metal. It's soft when you touch it.
+material_12,12,1769,422,34,580,5,186,1,0,0,0,0,0,0,0,0,0,0,0,0,Metal from Outside World,LNAT012,Demon Metal,"Metal, containing a small amount of Mana, that is said to be made by demons."
+material_13,13,1770,422,38,750,5,186,1,0,0,0,0,0,0,0,0,0,0,0,0,Metal from Outside World,LNAT013,Wolf Steel,"Metal shaped like a wolf's claw. Infused with the spirit of the wolf, howls can be heard from it every night."
+material_14,14,1771,422,42,945,5,186,1,0,0,0,0,0,0,0,0,0,0,0,0,Metal from Outside World,LNAT014,Molive,"Metal that emits a white, transparent light."
+material_15,15,1772,422,46,1180,5,186,1,0,0,0,0,0,0,0,0,0,0,0,0,Metal from Outside World,LNAT015,Mythril,"The purest silver, Mythril is harder than diamond."
+material_16,16,1773,422,50,1445,5,186,1,0,0,0,0,0,0,0,0,0,0,0,0,Metal from Outside World,LNAT016,Orihalcon,The legendary metal that is said to be unbreakable.
+material_17,17,1774,422,54,1910,5,186,1,0,0,0,0,0,0,0,0,0,0,0,0,Metal from Outside World,LNAT017,Adamantium,A fantasy metal that almost defies the natural laws.
+material_18,18,1775,422,58,2470,5,186,1,0,0,0,0,0,0,0,0,0,0,0,0,Metal from Outside World,LNAT018,Otherworldly Metal,Metal from beyond the physical realm. Its true form is secret.
+material_19,19,1776,422,62,3130,5,186,1,0,0,0,0,0,0,0,0,0,0,0,0,Metal from Outside World,LNAT019,Philosopher Stone,The greatest metal that all alchemists hope to create. It greatly increases Mana amount.
+material_20,20,1777,422,68,4040,5,186,1,0,0,0,0,0,0,0,0,0,0,0,0,Metal from Outside World,LNAT020,Mercury,"Although it's a true metal, mercury doesn't retain its shape like the other metals."
+material_21,21,1781,423,30,70,10,189,1,0,0,0,0,0,0,0,0,0,0,0,0,Stone Material,LNAT021,Pebble,A common pebble that can be found anywhere.
+material_22,22,1782,423,34,95,10,189,1,0,0,0,0,0,0,0,0,0,0,0,0,Stone Material,LNAT022,Yellowish Stone,A stone made of yellow sand. Can be used in manufacturing.
+material_23,23,1783,423,38,120,10,189,1,0,0,0,0,0,0,0,0,0,0,0,0,Stone Material,LNAT023,Sandstone,"A stone made of fine sand. It's not suitable for construction, but can be good if used carefully."
+material_24,24,1784,423,42,150,10,189,1,0,0,0,0,0,0,0,0,0,0,0,0,Stone Material,LNAT024,Gravel Stone,Stone made of sand and pebbles.
+material_25,25,1785,423,46,190,5,189,1,0,0,0,0,0,0,0,0,0,0,0,0,Stone Material,LNAT025,Granite,Stone created from a volcanic eruption. It's hard and coarse to the touch.
+material_26,26,1786,423,50,230,5,189,1,0,0,0,0,0,0,0,0,0,0,0,0,Stone Material,LNAT026,Marble,A beautiful white stone that reflects light brilliantly. Usually a material used in high class buildings.
+material_27,27,1787,423,56,305,5,189,1,0,0,0,0,0,0,0,0,0,0,0,0,Stone Material,LNAT027,Air Stone,A stone that floats through the air which can be difficult to get.
+material_28,28,1788,423,62,395,5,189,1,0,0,0,0,0,0,0,0,0,0,0,0,Stone Material,LNAT028,Shining Stone,"A mysterious stone that shines with white light at night, but appears black during the day."
+material_29,29,1789,423,68,500,5,189,1,0,0,0,0,0,0,0,0,0,0,0,0,Stone Material,LNAT029,Otherworldly Stone,A stone that is not of this mortal realm.
+material_30,30,1790,423,70,645,5,189,1,0,0,0,0,0,0,0,0,0,0,0,0,Stone Material,LNAT030,Meteorite,A stone that's fallen from the sky and crashed into the ground.
+material_31,31,1794,424,30,70,10,191,1,0,0,0,0,0,0,0,0,0,0,0,0,Wooden Material,LNAT031,Twig,A common twig. Most of them come from trees.
+material_32,32,1795,424,34,95,10,191,1,0,0,0,0,0,0,0,0,0,0,0,0,Wooden Material,LNAT032,Maple Wood,"Commonly found in most places, maple wood is usually used to make furniture."
+material_33,33,1796,424,38,120,10,191,1,0,0,0,0,0,0,0,0,0,0,0,0,Wooden Material,LNAT033,Aromatic Wood,Aromatic timber used to make furniture and garden fences.
+material_34,34,1797,424,42,150,10,191,1,0,0,0,0,0,0,0,0,0,0,0,0,Wooden Material,LNAT034,Oak Wood,A very solid and durable wood that has various uses. It's an especially popular material in the creation of wine barrels.
+material_35,35,1798,424,46,190,10,191,1,0,0,0,0,0,0,0,0,0,0,0,0,Wooden Material,LNAT035,Paulownia Wood,Wood that can be used to make furniture and instruments.
+material_36,36,1799,424,50,230,10,191,1,0,0,0,0,0,0,0,0,0,0,0,0,Wooden Material,LNAT036,Pine Wood,"Wood that's tough enough to make barrels, boats and buildings, with a beautiful grain that makes it ideal for furniture."
+material_37,37,1800,424,56,305,10,191,1,0,0,0,0,0,0,0,0,0,0,0,0,Wooden Material,LNAT037,Cinnamon Wood,"A pleasant looking wood that isn't very tough, but can be easily shaped."
+material_38,38,1801,424,62,395,10,191,1,0,0,0,0,0,0,0,0,0,0,0,0,Wooden Material,LNAT038,Red Sandalwood,"Wood that is widely used to create buildings, boats and furniture."
+material_39,39,1802,424,68,500,10,191,1,0,0,0,0,0,0,0,0,0,0,0,0,Wooden Material,LNAT039,Otherworldly Wood,Wood from a tree that is not of this world. Its fluctuating wood grain is fascinating.
+material_40,40,1803,424,75,645,10,191,1,0,0,0,0,0,0,0,0,0,0,0,0,Wooden Material,LNAT040,Sephiroth Wood,"Wood from the Sephiroth Tree. Tougher than metal, but very easily shaped, it's said to be the best crafting material."
+material_41,41,1807,425,30,115,10,193,1,0,0,0,0,0,0,0,0,0,0,0,0,Leather,LNAT041,Worn-out Leather,"Old and worn out, but you can probably use this leather for something."
+material_42,42,1808,425,34,150,10,193,1,0,0,0,0,0,0,0,0,0,0,0,0,Leather,LNAT042,Thin Leather,Thin leather that might be useful as a covering.
+material_43,43,1809,425,38,195,10,193,1,0,0,0,0,0,0,0,0,0,0,0,0,Leather,LNAT043,Sleek Leather,"Smooth, silky leather that may be put to good use in making a belt."
+material_44,44,1810,425,42,245,10,193,1,0,0,0,0,0,0,0,0,0,0,0,0,Leather,LNAT044,Tough Leather,"Although rough and coarse, this leather might be handy for bundling slippery or viscous materials."
+material_45,45,1811,425,46,305,10,193,1,0,0,0,0,0,0,0,0,0,0,0,0,Leather,LNAT045,Tender Leather,Leather that's soft as silk.
+material_46,46,1812,425,50,375,10,193,1,0,0,0,0,0,0,0,0,0,0,0,0,Leather,LNAT046,Gorgeous Leather,Ridiculously showy leather that has various uses.
+material_47,47,1813,425,56,495,10,193,1,0,0,0,0,0,0,0,0,0,0,0,0,Leather,LNAT047,Thick Leather,Leather that is so thick that it can't be cut with a knife.
+material_48,48,1814,425,62,645,10,193,1,0,0,0,0,0,0,0,0,0,0,0,0,Leather,LNAT048,Hard Leather,Leather that is solid as stone and can be used to craft armor.
+material_49,49,1815,425,68,815,10,193,1,0,0,0,0,0,0,0,0,0,0,0,0,Leather,LNAT049,Transparent Leather,"Expensive, transparent leather that is best put to use for lewd purposes."
+material_50,50,1816,425,75,1050,10,193,1,0,0,0,0,0,0,0,0,0,0,0,0,Leather,LNAT050,Patterned Leather,Leather with a natural pattern that even artists would admire.
+material_51,51,1820,426,30,80,10,195,1,0,0,0,0,0,0,0,0,0,0,0,0,Cloth,LNAT051,Tough Cloth,"Seems useless because of its coarseness, but it does make a handy cleaning cloth."
+material_52,52,1821,426,34,105,10,195,1,0,0,0,0,0,0,0,0,0,0,0,0,Cloth,LNAT052,Cotton,Soft cloth used to make clothing and underwear.
+material_53,53,1822,426,38,135,10,195,1,0,0,0,0,0,0,0,0,0,0,0,0,Cloth,LNAT053,Linen,"Excelling in absorption and ventilation, this cloth makes good summer clothing."
+material_54,54,1823,426,42,170,10,195,1,0,0,0,0,0,0,0,0,0,0,0,0,Cloth,LNAT054,Felt,"A cloth made of lightly stretched fibers that, although durable, isn't suited for making normal clothing."
+material_55,55,1824,426,46,210,10,195,1,0,0,0,0,0,0,0,0,0,0,0,0,Cloth,LNAT055,Silk,"A sleek, soft cloth with beautiful colors that is popular among women."
+material_56,56,1825,426,50,260,10,195,1,0,0,0,0,0,0,0,0,0,0,0,0,Cloth,LNAT056,Wool,It's soft and great at keeping someone warm.
+material_57,57,1826,426,56,345,10,195,1,0,0,0,0,0,0,0,0,0,0,0,0,Cloth,LNAT057,Denim,"Fabric made out of blue paper. Although it seems that it can be easily torn, it's actually very durable and feels nice when worn."
+material_58,58,1827,426,62,445,10,195,1,0,0,0,0,0,0,0,0,0,0,0,0,Cloth,LNAT058,Plain Weave,Strong and practical fabric.
+material_59,59,1828,426,68,565,10,195,1,0,0,0,0,0,0,0,0,0,0,0,0,Cloth,LNAT059,Twill,"Although relatively weak, twill rarely wrinkles, is soft and has a nice texture."
+material_60,60,1829,426,75,500,10,195,1,0,0,0,0,0,0,0,0,0,0,0,0,Cloth,LNAT060,Lace,Decorative cloth made of countless interwoven fibers that allow air to flow freely through them.
+material_61,61,1833,427,30,1000,5,185,1,0,0,0,0,0,0,0,0,0,0,0,0,Material for Refinement,LNAT061,Low Essence,Material to which Mana has been artificially added.
+material_62,62,1834,427,34,2000,5,185,1,0,0,0,0,0,0,0,0,0,0,0,0,Material for Refinement,LNAT062,Essence,Material infused with Mana from an eminent Muse.
+material_63,63,1835,427,38,2000,5,185,1,0,0,0,0,0,0,0,0,0,0,0,0,Material for Refinement,LNAT063,Low Ether,Material infused with Mana from a Mage.
+material_64,64,1836,427,42,2000,5,185,1,0,0,0,0,0,0,0,0,0,0,0,0,Material for Refinement,LNAT064,Ether,"Material infused with Mana from a Mage, and amplified with an Eye of Moth."
+material_65,65,1837,427,46,5000,5,185,1,0,0,0,0,0,0,0,0,0,0,0,0,Material for Refinement,LNAT065,High Ether,"Material infused with Mana from a Mage, and amplified with an Eye of Moth and a Lizard's Tongue."
+material_66,66,1838,427,50,10000,5,185,1,0,0,0,0,0,0,0,0,0,0,0,0,Material for Refinement,LNAT066,Elixir,Juice from a mysterious fruit that is said to restore one's youth.
+material_67,67,1839,427,56,20000,5,185,1,0,0,0,0,0,0,0,0,0,0,0,0,Material for Refinement,LNAT067,Hime,Material that can only be seen by pure virgins. Some tribes use it to determine the presence of virginity.
+material_68,68,1840,427,60,30000,5,185,1,0,0,0,0,0,0,0,0,0,0,0,0,Material for Refinement,LNAT068,Low Enthiric,"Water containing strong Mana. It is very clear, transparent and cool."
+material_69,69,1841,427,64,50000,5,185,1,0,0,0,0,0,0,0,0,0,0,0,0,Material for Refinement,LNAT069,Enthiric,It is said that an Enthiric is cold enough to freeze your hand if you touch it.
+material_70,70,1842,427,68,1505,10,185,1,0,0,0,0,0,0,0,0,0,0,0,0,Material for Refinement,LNAT070,Hermes,"Water that is mysteriously hot as fire, but turns to crystal once it is sprinkled on the ground."
+material_71,71,1859,428,6,55,8,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Chemical Material,LNAT071,Gray Powder,Material used to refine weapons.
+material_72,72,1860,428,8,80,8,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Chemical Material,LNAT072,Black Powder,Material used to refine weapons.
+material_73,73,1861,428,10,105,8,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Chemical Material,LNAT073,Green Powder,Material used to refine weapons.
+material_74,74,1862,428,13,150,8,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Chemical Material,LNAT074,Blue Powder,Material used to refine weapons.
+material_75,75,1863,428,16,205,8,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Chemical Material,LNAT075,Pink Powder,Material used to refine weapons.
+material_76,76,1864,428,19,270,8,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Chemical Material,LNAT076,Orange Powder,Material used to refine weapons.
+material_77,77,1865,428,23,375,8,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Chemical Material,LNAT077,Red Powder,Material used to refine weapons.
+material_78,78,1866,428,27,500,5,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Chemical Material,LNAT078,Golden Powder,Material used to refine weapons.
+material_79,79,1894,428,31,640,5,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Chemical Material,LNAT079,Transparent Powder,Material used to refine weapons.
+material_80,80,1895,428,35,790,5,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Chemical Material,LNAT080,Rainbow Powder,Material used to refine weapons.
+material_81,81,1014,428,40,1015,5,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Chemical Material,LNAT081,Lisent (Fe),Material called Lisent that contains Fe and is used in refining weapons
+material_82,82,1015,428,45,1275,5,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Chemical Material,LNAT082,Lisent (Cu),Material called Lisent that contains Cu and is used in refining weapons
+material_83,83,1016,428,50,1560,5,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Chemical Material,LNAT083,Lisent (Pb),Material called Lisent that contains Pb and is used in refining weapons
+material_84,84,1017,428,54,50000,5,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Chemical Material,LNAT084,Lisent (Al),Material called Lisent that contains Al and is used in refining weapons
+material_85,85,1018,428,58,100000,5,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Chemical Material,LNAT085,Lisent (Hg),Material called Lisent that contains Hg and is used in refining weapons
+material_86,86,1019,428,62,2225,5,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Chemical Material,LNAT086,Lisent (Na),Material called Lisent that contains Na and is used in refining weapons
+material_87,87,1020,428,66,25000,5,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Chemical Material,LNAT087,Lisent (Cr),Material called Lisent that contains Cr and is used in refining weapons
+material_88,88,1021,428,70,50000,5,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Chemical Material,LNAT088,Lisent (Au),Material called Lisent that contains Au and is used in refining weapons
+material_89,89,1022,428,75,100000,5,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Chemical Material,LNAT089,Lisent (Ra),Material called Lisent that contains Ra and is used in refining weapons
+material_90,90,1025,428,80,120000,5,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Chemical Material,LNAT090,Lisent (U),Material called Lisent that contains U and is used in refining weapons
+material_91,91,1742,429,30,265,5,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT091,Ink,Black fluid that is emitted from squids.
+material_92,92,1743,429,32,305,5,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT092,Distilled Water,Water that has been distilled and purified.
+material_93,93,1744,429,34,345,5,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT093,Oil,"Sticky, flammable fluid that can be found deep underground."
+material_94,94,1745,429,36,395,5,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT094,Rubber Sap,Rubber sap that has been extracted from trees.
+material_95,95,1746,429,38,450,5,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT095,Glue,"Adhesive material that is used to connect things, such as paper, together."
+material_96,96,1747,429,40,505,5,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT096,Alcohol,A flammable liquid that easily evaporates.
+material_97,97,1748,429,42,570,5,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT097,Dyes,Collected pigment that has been extracted from plants.
+material_98,98,1749,429,30,265,5,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT098,Coal,Coal found in a mine that can be used to create fire.
+material_99,99,1906,429,32,305,5,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT099,Broken Metal Fragment,"It's basically scrap, but this fragment might be used to make something."
+material_100,100,1907,429,34,345,5,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT100,Gunpowder,A dangerous substance used to make explosives. You should only trust experts to handle gunpowder.
+material_101,101,1908,429,36,395,5,183,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT101,Thick Iron Piece,Incredibly durable iron that can be used in manufacturing.
+material_102,102,1909,429,38,450,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT102,Sharp Iron Piece,"Sharp as a knife, it's important to be careful when using this material to manufacture something."
+material_103,103,1842,427,80,1698,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material for Refinement,LNAT103,Tincture,A substance that is as close as you can get to obtaining pure mana in this world.
+material_104,104,1842,427,88,1717,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material for Refinement,LNAT104,Arcanum,A mysterious substance that seems to be even more powerful than pure mana.
+material_105,105,1025,428,99,1,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Chemical Material,LNAT105,Lisent (X),An amazing lisent that is so powerful that only a GM can handle it.
+material_106,106,1842,427,99,1,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material for Refinement,LNAT106,Holy Water,Absolute pure refine material which can only be handled by a GM.
+material_107,107,0,429,48,785,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,,-,
+material_108,108,0,429,50,865,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,,-,
+material_109,109,0,429,52,955,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,,-,
+material_110,110,0,429,54,1050,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,,-,
+material_111,111,1918,429,30,265,2,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT111,Iron Thread,Thread made of thinly pressed iron.
+material_112,112,1919,429,34,345,2,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT112,Silver Thread,Thread made of thinly pressed silver.
+material_113,113,1920,429,38,450,2,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT113,Gold Thread,Thread made of thinly pressed gold.
+material_114,114,1921,429,42,570,2,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT114,Platinum Thread,Thread made of thinly pressed platinum.
+material_115,115,1922,429,46,705,2,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT115,Precious Platinum Thread,"Thread made of thinly pressed platinum that has been purified for 1,000 days."
+material_116,116,1924,429,30,265,2,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT116,Netil,Brown material that is thought to be made by rain water collecting in a place where animals or plants have died. 
+material_117,117,1925,429,34,345,2,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT117,Metil,Gray material that is thought to be made by rain water collecting in a place where animals or plants have died. 
+material_118,118,1926,429,38,450,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT118,Etil,Blue material that is thought to be made by rain water collecting in a place where animals or plants have died. 
+material_119,119,1927,429,42,570,10,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT119,Petil,Red material that is thought to be made by rain water collecting in a place where animals or plants have died. 
+material_120,120,1928,429,46,705,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT120,Setil,Golden material that is thought to be made by rain water collecting in a place where animals or plants have died. 
+material_121,121,1929,429,30,265,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT121,Crystal Stone,A blue stone containing the energy of water.
+material_122,122,1930,429,34,345,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT122,Wind Stone,A green stone containing the energy of the wind.
+material_123,123,1931,429,38,450,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT123,Earth Stone,A yellow stone containing the energy of the earth.
+material_124,124,1932,429,42,570,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT124,Fire Stone,A red stone containing the energy of fire.
+material_125,125,1933,429,46,705,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT125,Light Stone,A transparent stone containing the energy of light.
+material_126,126,1934,429,30,265,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT126,Lesian,A thin and transparent object in the shape of a disk.
+material_127,127,1935,429,34,345,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT127,Misian,A thin and black object in the shape of a disk.
+material_128,128,1937,429,38,450,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT128,Hersian,A thin and white object in the shape of a disk.
+material_129,129,1938,429,42,570,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT129,Jilsian,A thin and golden object in the shape of a disk.
+material_130,130,1939,429,46,705,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT130,Lusian,"A thin, disk shaped object tinted with all the colors of the rainbow."
+material_131,131,1753,430,20,190,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT131,Ancient Copper Coin,Ancient coin made of copper.
+material_132,132,1753,430,40,845,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT132,Ancient Silver Coin,Ancient coin made of silver.
+material_133,133,1753,430,60,2275,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT133,Ancient Gold Coin,Ancient coin made of gold.
+material_134,134,1753,430,50,1445,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT134,Ancient Tablet1,Ancient tablet that describes the secrets of ancient alchemy (1).
+material_135,135,1753,430,60,2275,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT135,Ancient Tablet2,Ancient tablet that describes the secrets of ancient alchemy (2).
+material_136,136,1753,430,70,3375,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT136,Ancient Tablet3,Ancient tablet that describes the secrets of ancient alchemy (3).
+material_137,137,1753,430,80,4780,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT137,Ancient Tablet4,Ancient tablet that describes the secrets of ancient alchemy (4).
+material_138,138,1753,430,90,6530,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT138,Ancient Tablet5,Ancient tablet that describes the secrets of ancient alchemy (5).
+material_142,142,2119,430,32,500,0,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT142,Coin of Eucar Tribe,An ancient form of currency used by the Eucar tribe.
+material_143,143,2120,430,40,845,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT143,Ocarina Pieces,"If you collected all the pieces, could you restore the Ocarina to its original form?"
+material_144,144,2121,430,44,1060,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT144,Ice Key Fragment,If you collect enough Ice Key fragments…
+material_146,146,1753,430,25,175,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT146,Rusty Bell,Instrument with a beautiful sound that was used by musicians in the past.
+material_147,147,1753,430,40,505,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT147,Colorful Paper,Multi-purpose paper decorated with the colors of the rainbow.
+material_148,148,1753,430,5,15,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT148,Match,Handy for smokers as it's convenient to carry and easy to light.
+material_149,149,1753,430,30,265,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT149,Ripped Book,"A novel that's so old and ripped apart, you can't read it."
+material_151,151,1911,429,18,50000,5,161,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT151,Black Hearts,"When an eons old star is destroyed, it results in this ore that possesses a mysterious power."
+material_152,152,1912,429,23,50000,5,161,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT152,Green Hearts,"When an eons old star is destroyed, it results in this ore that possesses a mysterious power."
+material_153,153,1913,429,30,50000,5,161,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT153,Blue Hearts,"When an eons old star is destroyed, it results in this ore that possesses a mysterious power."
+material_154,154,1914,429,39,50000,5,161,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT154,Pink Hearts,"When an eons old star is destroyed, it results in this ore that possesses a mysterious power."
+material_155,155,1915,429,51,50000,5,161,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT155,Red Hearts,"When an eons old star is destroyed, it results in this ore that possesses a mysterious power."
+material_156,156,1916,429,66,50000,5,161,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT156,Golden Hearts,"When an eons old star is destroyed, it results in this ore that possesses a mysterious power."
+material_157,157,1917,429,86,50000,5,161,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT157,White Hearts,"When an eons old star is destroyed, it results in this ore that possesses a mysterious power."
+material_161,161,1963,429,40,845,10,197,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT161,Green Crystal,Crystal used as a material for Emerald and Peridot.
+material_162,162,1964,429,42,945,10,198,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT162,Blue Crystal,Crystal used as a material for Sapphire and Topaz.
+material_163,163,1965,429,44,1060,10,199,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT163,Red Crystal,Crystal used as a material for Ruby and Garnet.
+material_164,164,1966,429,50,1445,10,200,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT164,White Crystal,Crystal used as a material for Diamond.
+material_168,168,1932,429,42,570,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT168,Rage Stone,A mysterious stone that contains great power.
+material_169,169,1930,429,75,345,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT169,Magic Stone,A mysterious stone that contains great power.
+material_170,170,1931,429,75,450,5,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT170,Hero Stone,A mysterious stone that contains great power.
+material_171,171,1969,429,12,60,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT171,Thin Insect Shell,"The thin, brittle shell of an insect."
+material_172,172,1970,429,13,70,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT172,Thick Insect Shell,The tough shell of an insect.
+material_173,173,1971,429,15,90,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT173,Limpid Skin,A transparent shell that you can see through.
+material_174,174,1972,429,16,100,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT174,Sticky Husk,"Husk coated in sticky, disgusting mucus."
+material_175,175,1973,429,14,80,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT175,Insect Feeler,An insect's sensory organ.
+material_176,176,1974,429,15,90,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT176,Insect Leg,An insect's leg.
+material_177,177,1976,429,17,110,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT177,Insect Wing,A wing ripped off an insect.
+material_178,178,1977,429,16,100,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT178,Sticky Liquid,A generically sticky fluid.
+material_179,179,1978,429,14,80,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT179,Weed Root,The tangled root of some weed.
+material_180,180,1979,429,15,90,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT180,Weed Stem,A dried up stem from some weed.
+material_181,181,1980,429,18,120,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT181,Pollen,Pollen that causes sneezing and wheezing to those with allergies.
+material_182,182,1981,429,16,100,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT182,Thin Leaf,"A thin, delicate leaf."
+material_183,183,1982,429,18,120,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT183,Thick Leaf,"A thick, stout leaf."
+material_184,184,1983,429,20,150,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT184,Plant Seed,A seed from a plant.
+material_185,185,1984,429,19,135,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT185,White Animal Tail Fur,White fur taken from the tail of an animal.
+material_186,186,1985,429,21,165,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT186,Red Animal Tail Fur,Red fur taken from the tail of an animal.
+material_187,187,1986,429,22,180,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT187,Black Animal Tail Fur,Black fur taken from the tail of an animal.
+material_188,188,1987,429,24,215,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT188,Animal Tail Fur,Fur taken from the tail of an animal.
+material_189,189,1989,429,26,255,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT189,Predator Claw,A very sharp claw taken from a predatory animal.
+material_190,190,1990,429,23,200,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT190,Bark,It's a dried up piece of bark.
+material_191,191,1991,429,27,280,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT191,Animal Leg Bone,A sturdy bone taken from an animal's leg that looks like it could be used as a weapon.
+material_192,192,1992,429,30,350,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT192,Animal Backbone,Hard and pointed bones taken from an animal's spine.
+material_193,193,2122,429,38,600,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT193,Frozen Animal Fur,Frozen fur taken from an animal.
+material_194,194,2123,429,40,675,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT194,Ice Shard,A shard of ice that sparkles in the light.
+material_195,195,2124,429,43,800,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT195,Broken Horn,A broken animal's horn that tapers at the ends.
+material_196,196,1968,429,40,675,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT196,Bird Feather,Feather from a bird's wing.
+material_197,197,1993,429,45,895,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT197,Nymph Powder,Powder taken from a nymph.
+material_198,198,1994,429,47,995,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT198,Little Angel Feather,Feather taken from a baby angel.
+material_199,199,2012,429,48,1045,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT199,Little Devil Feather,Feather taken from a baby devil.
+material_200,200,2013,429,50,1155,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT200,Dragon Scale,A tough scale from a dragon.
+material_201,201,1940,429,15,45,0,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT201,Steam Oil,PAT material
+material_202,202,1941,429,20,75,0,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT202,Steam Heat,PAT material
+material_203,203,1942,429,25,120,0,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT203,Steam Viper,PAT material
+material_204,204,1943,429,30,175,0,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT204,Mana Metal,PAT material
+material_205,205,1944,429,35,250,0,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT205,Mana Oil,PAT material
+material_206,206,1945,429,40,340,0,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT206,Mana Heat,PAT material
+material_207,207,1946,429,45,445,0,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT207,Mana Generator,PAT material
+material_208,208,1947,429,50,580,0,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT208,Mana Crystal,PAT material
+material_209,209,1948,429,55,730,0,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT209,Mana Article,PAT material
+material_210,210,1951,429,60,910,0,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT210,Mana Load,PAT material
+material_211,211,1952,430,30,1750,0,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT211,Wooden Cart Schematic,Intricate construction plans for a Wooden Cart.
+material_212,212,1953,430,32,2020,0,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT212,Sporty Cart Schematic,Intricate construction plans for a Sporty Cart.
+material_221,221,1954,430,30,1750,0,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT221,Cart Engine Schematic,Intricate construction plans for a Cart Engine.
+material_226,226,1955,430,30,2625,0,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT226,Woodstock Schematic,Intricate construction plans for a Woodstock Class Castle Gear.
+material_227,227,1956,430,32,3030,0,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT227,Lifman Schematic,Intricate construction plans for a Lifman Class Castle Gear.
+material_231,231,1957,430,30,2625,0,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT231,Castle Gear Engine Schematic,Intricate construction plans for a Castle Gear Engine.
+material_232,232,0,430,32,3030,0,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,,0,
+material_235,235,1958,430,30,2625,0,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT235,Castle Gear Arm Schematic,Intricate construction plans for Castle Gear Arms.
+material_241,241,1901,429,53,1300,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT241,Tirwin Feather,Feather taken from a Tirwin.
+material_242,242,1902,429,42,1250,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT242,Fairy Dust,This bottle contains the remains of a fairy who has passed away.
+material_243,243,1903,429,56,1450,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT243,Heavygear Scrap,A piece of metal which makes up the outer shell of a Heavygear.
+material_244,244,2114,429,38,1150,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT244,Moss Dew,"Found in the marshes of Eldeon, where sunlight does not penetrate."
+material_245,245,2115,429,58,2150,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT245,Hook Feather,Feather taken from a Hook.
+material_246,246,2116,429,44,875,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT246,Tiger Tail Fur,Fur taken from the tail of a Tiger.
+material_247,247,2142,429,64,2475,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT247,Ikaness Jewels,Beautiful and precious jewels unearthed by Ikaness Miners.
+material_248,248,2148,430,48,1050,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT248,Ancient Book of the Eldeon Tribe,Book which has been passed down by generations. The true power of this book is unknown.
+material_249,249,2143,429,62,2355,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT249,Sikuku Feather,A fine feather taken from a Sikuku warrior.
+material_250,250,2145,429,40,865,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT250,Ikaness Headband,Worn by Ikaness workers to help keep their hair out of their face during work.
+material_251,251,2146,429,57,1240,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT251,Vagabond Leaf,A thick leaf which is usually found within the deep forests of Eldeon.
+material_252,252,2147,429,52,1450,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT252,Sikuku Chin Mask,A hard wooden mask crafted to be placed on the chin of Sikuku warriors.
+material_253,253,2149,430,40,870,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT253,Prisoner Chains,Metal chains tied to a weight to prevent prisoners from running.
+material_254,254,2150,430,44,895,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT254,Rusty Prisoner Lock,A rusty prisoner lock.
+material_255,255,2151,430,45,905,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT255,Rusty Prisoner Key,A rusty prisoner key which can open some lock.
+material_256,256,2152,429,52,925,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT256,Infiltrator Fur,Fur taken from a Sikuku Infiltrator.
+material_257,257,2153,429,53,1055,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT257,Sikuku Mushroom,A strange mushroom which normally grows within the depths of the Underground Prison.
+material_258,258,2108,429,50,1000000,0,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT258,Sun Stone,A mysterious stone that is said to have fallen from the sun.
+material_259,259,2109,429,60,1000000,0,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT259,Moon Stone,A mysterious stone that is said to have fallen from the moon.
+material_260,260,2148,429,68,1000000,0,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT260,Soul Stone,A mysterious stone that is said to exist within visitor's souls.
+material_261,261,2125,429,34,465,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT261,Wolf Claw,A giant wolf's claw that's widely used to make accessories.
+material_262,262,2126,429,36,530,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT262,Yeti Charm,A charm that certifies one as a warrior of the Yeti tribe.
+material_263,263,2127,429,38,600,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT263,Ruper Crest,The special symbol of the Ruper Clan.
+material_264,264,2128,429,40,675,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT264,Giant's Heart,A giant's heart that is hard as stone and emits a red light.
+material_265,265,2129,429,42,760,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT265,Frozen Scales,Scales that have endured great cold until they've become frozen.
+material_266,266,2130,429,44,845,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,,,
+material_267,267,2132,429,46,940,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT266,Huge Horn,"A giant horn that can be used as a wind instrument, or to decorate one's living space."
+material_268,268,2133,429,48,1045,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,,,
+material_269,269,2134,429,50,1155,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,,,
+material_270,270,2135,429,52,1270,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT267,Behemoth Tendon,A really tough tendon that can be used in various ways.
+material_271,271,2139,429,37,845,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT268,Sharp Thorn,"A thorn with a tip so sharp, it can be used as a nail or even a drill."
+material_272,272,2137,429,38,900,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT269,Noctilucent Leaf,"Easily found in the Shadow Jungle, this leaf gleams at night and can be used as a candle."
+material_276,276,1972,429,16,100,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT174,Sticky Husk,"Husk coated in sticky, disgusting mucus."
+material_278,278,2138,429,38,900,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT275,Spider Web,A sticky and durable material obtained from spider monsters.
+material_279,279,2136,429,37,915,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT276,Killer Leaf,Leaf with a carnivorous mouth used for consuming prey.
+material_280,280,2134,429,38,975,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT277,Paper Wing Pieces,Part of an insect wing which is as soft and translucent as tracing paper.
+material_281,281,2133,429,37,915,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT278,Plasma,"This plasma, necessary for spiritual beings to manifest in the mortal world, is all that remains of defeated spirits."
+material_282,282,2140,429,35,1175,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT279,Sikuku Costume,Even the brazen may feel bashful when wearing this revealing costume.
+material_284,284,2315,429,53,100,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT281,Luna Spirit,Item Used to craft Equipments.
+material_288,288,3916,434,70,1200000,10,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Advance Craft Coupon,LNAT288,P2P Reset Stat/Skill Coupon,Speak to NPC Richard Steel in order to visit Donator Island map.
+material_289,289,2347,429,40,1200,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT289,Oro Shard,A shard of oro orcks that sparkles gold in the light.
+material_290,290,3916,434,70,100,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Advance Craft Coupon,LNAT290,Territorial War Coupon Team 1,Used to enter the donator map and reset stats thru npc.
+material_291,291,3916,434,70,100,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Advance Craft Coupon,LNAT291,Territorial War Coupon Team 1x,A shard of oro orcks that sparkles gold in the light.
+material_292,292,3916,434,70,100,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Advance Craft Coupon,LNAT292,Territorial War Coupon Team 2,Used to enter the donator map and reset stats thru npc.
+material_293,293,3916,434,70,100,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Advance Craft Coupon,LNAT293,Territorial War Coupon Team 2x,A shard of oro orcks that sparkles gold in the light.
+material_301,301,1872,431,50,1,0,204,0,0,0,0,0,0,0,0,0,0,0,0,0,Arrow,LNAT301,Wooden Arrow,An arrow made out of wood.
+material_302,302,1873,431,50,2,0,204,0,0,0,0,0,0,0,0,0,0,0,0,0,Arrow,LNAT302,Bone Arrow,An arrow fashioned out of bone.
+material_303,303,1874,431,50,3,0,204,0,0,0,0,0,0,0,0,0,0,0,0,0,Arrow,LNAT303,Stone Arrow,An arrow tipped with a stone head.
+material_304,304,1875,431,50,4,0,204,0,0,0,0,0,0,0,0,0,0,0,0,0,Arrow,LNAT304,Claw Arrow,An arrow tipped with a claw.
+material_305,305,1876,431,50,5,0,204,0,0,0,0,0,0,0,0,0,0,0,0,0,Arrow,LNAT305,Metal Arrow,An arrow constructed out of metal.
+material_306,306,1877,431,50,7,0,204,0,0,0,0,0,0,0,0,0,0,0,0,0,Arrow,LNAT306,Gilded Arrow,An arrow gilded with metal.
+material_307,307,2106,431,50,13,0,204,0,0,0,0,0,0,0,0,0,0,0,0,0,Arrow,LNAT307,Platinum Arrow,An arrow made of Platinum.
+material_311,311,1878,431,50,3,0,204,0,0,0,0,0,0,0,0,0,0,0,0,0,Arrow,LNAT311,Fire Arrow,An arrow with a flaming arrowhead.
+material_312,312,1879,431,50,6,0,204,0,0,0,0,0,0,0,0,0,0,0,0,0,Arrow,LNAT312,White Night Arrow,An arrow that burns with white fire.
+material_313,313,1880,431,50,9,0,204,0,0,0,0,0,0,0,0,0,0,0,0,0,Arrow,LNAT313,Demon Arrow,An arrow that glows blue with demonic light.
+material_314,314,1881,431,50,13,0,204,0,0,0,0,0,0,0,0,0,0,0,0,0,Arrow,LNAT314,Nymph Arrow,An arrow strengthened with the magic of the nymphs.
+material_315,315,1882,431,50,18,0,204,0,0,0,0,0,0,0,0,0,0,0,0,0,Arrow,LNAT315,Elven Arrow,An arrow strengthened with the magic of the elves.
+material_316,316,1883,431,50,22,0,204,0,0,0,0,0,0,0,0,0,0,0,0,0,Arrow,LNAT316,Lightning Arrow,An arrow infused with the power of lightning.
+material_317,317,2107,431,50,29,0,204,0,0,0,0,0,0,0,0,0,0,0,0,0,Arrow,LNAT317,Storm Arrow,An arrow that is said to create a storm once it strikes its target.
+material_318,318,1831,431,50,50,0,204,0,0,0,0,0,0,0,0,0,0,0,0,0,Arrow,LNAT318,Cherry Blossom Arrow,A arrow made up of flowers
+material_319,319,1830,431,50,60,0,204,0,0,0,0,0,0,0,0,0,0,0,0,0,Arrow,LNAT319,Crystal Arrow,A arrow made up of Crystal
+material_321,321,1885,432,50,2,0,205,0,0,0,0,0,0,0,0,0,0,0,0,0,Bullet,LNAT321,Bean Bullet,"A small, bean caliber bullet."
+material_322,322,1886,432,50,3,0,205,0,0,0,0,0,0,0,0,0,0,0,0,0,Bullet,LNAT322,Bullet,"A bullet. Each time you fire a Gun weapon, 1 bullet is consumed."
+material_323,323,1887,432,50,4,0,205,0,0,0,0,0,0,0,0,0,0,0,0,0,Bullet,LNAT323,Lead Bullet,"A bullet. Each time you fire a Gun weapon, 1 bullet is consumed."
+material_324,324,1888,432,50,6,0,205,0,0,0,0,0,0,0,0,0,0,0,0,0,Bullet,LNAT324,Plated Bullet,"A bullet. Each time you fire a Gun weapon, 1 bullet is consumed."
+material_325,325,1889,432,50,10,0,205,0,0,0,0,0,0,0,0,0,0,0,0,0,Bullet,LNAT325,Silver-Plated Bullet,"A bullet. Each time you fire a Gun weapon, 1 bullet is consumed."
+material_326,326,1890,432,50,12,0,205,0,0,0,0,0,0,0,0,0,0,0,0,0,Bullet,LNAT326,Gold-Plated Bullet,"A bullet. Each time you fire a Gun weapon, 1 bullet is consumed."
+material_327,327,2110,432,50,18,0,205,0,0,0,0,0,0,0,0,0,0,0,0,0,Bullet,LNAT327,Platinum Bullet,A bullet made out of Platinum.
+material_328,328,2111,432,50,26,0,205,0,0,0,0,0,0,0,0,0,0,0,0,0,Bullet,LNAT328,Chromium Bullet,A bullet made out of Chromium.
+material_329,329,1818,432,50,50,0,205,0,0,0,0,0,0,0,0,0,0,0,0,0,Bullet,LNAT329,Zuly Bullet,A bullet made up of Zuly
+material_331,331,1891,432,50,2,0,205,0,0,0,0,0,0,0,0,0,0,0,0,0,Bullet,LNAT331,Fire Bullet,"A bullet. Each time you fire a Gun weapon, 1 bullet is consumed."
+material_332,332,1892,432,50,3,0,205,0,0,0,0,0,0,0,0,0,0,0,0,0,Bullet,LNAT332,Cold Bullet,"A bullet. Each time you fire a Gun weapon, 1 bullet is consumed."
+material_333,333,1893,432,50,4,0,205,0,0,0,0,0,0,0,0,0,0,0,0,0,Bullet,LNAT333,Poison Bullet,"A bullet. Each time you fire a Gun weapon, 1 bullet is consumed."
+material_341,341,1898,433,50,2,0,203,0,0,0,0,0,0,0,0,0,0,0,0,0,Shell,LNAT341,Cannon,"A bullet. Each time you fire a Gun weapon, 1 bullet is consumed."
+material_342,342,1899,433,50,5,0,203,0,0,0,0,0,0,0,0,0,0,0,0,0,Shell,LNAT342,Lead Cannon,"A bullet. Each time you fire a Gun weapon, 1 bullet is consumed."
+material_343,343,1900,433,50,6,0,203,0,0,0,0,0,0,0,0,0,0,0,0,0,Shell,LNAT343,Track Cannon,"A bullet. Each time you fire a Gun weapon, 1 bullet is consumed."
+material_344,344,1900,433,50,10,0,203,0,0,0,0,0,0,0,0,0,0,0,0,0,Shell,LNAT344,Bomber Cannon,"A bullet. Each time you fire a Gun weapon, 1 bullet is consumed."
+material_345,345,1900,433,50,15,0,203,0,0,0,0,0,0,0,0,0,0,0,0,0,Shell,LNAT345,Fire Cannon,"A bullet. Each time you fire a Gun weapon, 1 bullet is consumed."
+material_346,346,1843,433,50,30,0,203,0,0,0,0,0,0,0,0,0,0,0,0,0,Shell,LNAT346,Rock Cannon,A Cannon Bullet made up of Rocks
+material_347,347,1844,433,50,50,0,203,0,0,0,0,0,0,0,0,0,0,0,0,0,Shell,LNAT347,Skull Cannon,A Cannon Bullet made up of Skull
+material_351,351,1904,433,50,4,0,203,0,0,0,0,0,0,0,0,0,0,0,0,0,Shell,LNAT351,Poison Bubble,"A bullet. Each time you fire a Gun weapon, 1 bullet is consumed."
+material_352,352,1905,433,50,6,0,203,0,0,0,0,0,0,0,0,0,0,0,0,0,Shell,LNAT352,Blaze Bullet,"A bullet. Each time you fire a Gun weapon, 1 bullet is consumed."
+material_353,353,1905,433,50,6,0,203,0,0,0,0,0,0,0,0,0,0,0,0,0,Shell,LNAT352,Blaze Bullet,"A bullet. Each time you fire a Gun weapon, 1 bullet is consumed."
+material_363,363,1972,429,16,100,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT174,Sticky Husk,"Husk coated in sticky, disgusting mucus."
+material_366,366,2156,429,46,1375,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT366,Ancient Gold Coin,An ancient coin covered in strange symbols.
+material_368,368,2159,429,52,1322,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT368,Scarab Shell,A shell taken from a desert scarab.
+material_369,369,2162,429,38,230,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT369,Rock Fragments,All what remains of an Orogorudo Rock.
+material_370,370,2160,429,62,1200,0,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT370,Golden Draenite,A beautiful gold crystal mined from Orogorudo Rock.
+material_373,373,2097,429,60,1275,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT373,Orogorudo Bronze Ore,A bronze ore used for Bronze Bars.
+material_374,374,2098,429,60,1375,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT374,Orogorudo Silver Ore,A silver ore used for Silver Bars.
+material_375,375,2155,429,41,1475,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT365,Orogorudo Gold Ore,A bright golden ore used for Gold Bars.
+material_377,377,2096,429,20,2275,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT377,Bronze Bar,A smelted bar made out of bronze ore.
+material_378,378,2163,429,25,3275,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT378,Silver Bar,A smelted bar made out of silver ore.
+material_379,379,2158,429,30,4275,0,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT367,Gold Bar,A smelted bar made out of pure Gold.
+material_381,381,2099,430,40,5625,0,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT381,Neo Schematic,Intricate constuction plans for a Neo Class Castle Gear.
+material_382,382,2100,430,40,5625,0,162,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT382,Neo Arm Schematic,Intricate constuction plans for a Neo Castle Gear Arms.
+material_401,401,1612,430,10,0,0,239,0,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT401,Rose,"A rose that expresses love and passion during events. It makes you feel good, doesn't it?"
+material_402,402,2060,430,10,0,0,227,0,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT402,MP3 Player,Awesome! It's an event prize!
+material_403,403,2074,430,10,1000,0,251,0,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT403,Santa Lottery,"You can use it during the Christmas season. If you're lucky, you'll win a free gift!"
+material_404,404,2075,430,10,1667,0,251,0,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT404,,
+material_405,405,2072,430,10,200,0,162,0,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT405,La Reine,"Just like a French Queen, you can proudly display your beauty with this mysterious necklace."
+material_407,407,2141,430,10,250,0,193,0,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT407,Trash,The lingering remains of trash monsters after they've been defeated: useless garbage.
+material_408,408,1691,430,10,250,0,251,0,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT408,Testimony of Boldness,It's a testimonial that serves as an attestation of boldness.
+material_410,410,1527,430,10,0,0,239,0,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT414,QQiROSE Coupon,Coupon Made to Craft Items
+material_411,411,1526,430,10,0,0,239,0,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT415,QQiROSE Coupon #2,#2 Based Coupon Made to Craft Items
+material_451,451,2093,430,10,35000,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT451,Hair Coupon,Redeem this coupon by giving it to Junon Fields' Designer NPC to change your hairstyle.
+material_452,452,2094,430,10,40000,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT452,Face Coupon,Redeem this coupon by giving it to Junon Fields' Designer NPC to change your face.
+material_453,453,2095,430,10,85000,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT453,Gender Coupon,Redeem this coupon by giving it to Junon Fields' Designer NPC to change your gender.
+material_455,455,2154,429,15,1250,0,211,1,0,0,0,0,0,0,0,0,0,0,0,0,Material,LNAT455,Silver Undead Coin,A strange silver coin dropped from Hebarn's monsters.
+material_456,456,275,430,35,5,0,251,0,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT456,Stolen Santa Suit,Santa's uniform that was stolen by Rudolph (quest item).
+material_457,457,1674,430,32,5,0,251,0,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT457,Children's Present,Children's Present that was stolen by Adult Rudolph. (Christmas Quest)
+material_458,458,1675,430,50,5,0,251,0,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT458,Snow Crystal,"A beautiful crystal, used by Santa's Elfs on Santa Planetoid. (Christmas Quest)"
+material_459,459,2331,430,44,5,0,251,0,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT459,Elifedora,Fuel used to power the Santa Factory. (Christmas Quest)
+material_465,465,2073,430,50,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT465,Santa Hat Craft Coupon,This coupon is required to craft Santa Hat.
+material_466,466,2073,430,55,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT466,Snowboard Hat Craft Coupon,This coupon is required to craft Snowboard Hat.
+material_467,467,2073,430,60,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT467,Pink Santa Hat Craft Coupon,This coupon is required to craft Pink Santa Hat.
+material_468,468,2073,430,60,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT468,Black Santa Hat Craft Coupon,This coupon is required to craft Black Santa Hat.
+material_469,469,2073,430,65,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT469,Rudolph Hat Craft Coupon,This coupon is required to craft Rudolph Hat.
+material_470,470,2073,430,65,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT470,Green Rudolph Hat Craft Coupon,This coupon is required to craft Green Rudolph Hat.
+material_471,471,2074,430,50,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT471,Santa Sweater Craft Coupon,This coupon is required to craft Santa Sweater.
+material_472,472,2074,430,55,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT472,Snowboard Gear Craft Coupon,This coupon is required to craft Snowboard Gear.
+material_473,473,2074,430,60,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT473,Pink Santa Sweater Craft Coupon,This coupon is required to craft Pink Santa Sweater.
+material_474,474,2074,430,60,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT474,Black Santa Sweater Craft Coupon,This coupon is required to craft Black Santa Sweater.
+material_475,475,2074,430,65,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT475,Rudolph Vest Craft Coupon,This coupon is required to craft Rudolph Vest.
+material_476,476,2074,430,65,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT476,Green Rudolph Vest Craft Coupon,This coupon is required to craft Green Rudolph Vest.
+material_477,477,2075,430,50,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT477,Santa Glove Craft Coupon,This coupon is required to craft Santa Glove.
+material_478,478,2075,430,55,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT478,Snowboard Glove Craft Coupon,This coupon is required to craft Snowboard Glove.
+material_479,479,2075,430,60,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT479,Pink Santa Glove Craft Coupon,This coupon is required to craft Pink Santa Glove.
+material_480,480,2075,430,60,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT480,Black Santa Glove Craft Coupon,This coupon is required to craft Black Santa Glove.
+material_481,481,2075,430,65,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT481,Rudolph Glove Craft Coupon,This coupon is required to craft Rudolph Glove.
+material_482,482,2075,430,65,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT482,Green Rudolph Glove Craft Coupon,This coupon is required to craft Green Rudolph Glove.
+material_483,483,2076,430,50,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT483,Santa Boot Craft Coupon,This coupon is required to craft Santa Boots.
+material_484,484,2076,430,55,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT484,Snowboard Boots Craft Coupon,This coupon is required to craft Snowboard Boots.
+material_485,485,2076,430,60,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT485,Pink Santa Boots Craft Coupon,This coupon is required to craft Pink Santa Boots.
+material_486,486,2076,430,60,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT486,Black Santa Boots Craft Coupon,This coupon is required to craft Black Santa Boots.
+material_487,487,2076,430,65,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT487,Rudolph Boots Craft Coupon,This coupon is required to craft Rudolph Boots.
+material_488,488,2076,430,65,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT488,Green Rudolph Boot Craft Coupon,This coupon is required to craft Green Rudolph Boots.
+material_491,491,1540,430,40,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT491,Snowboard Coupon,Take this coupon to Sergei at Magic City of the Eucar to recieve a free snowboard!
+material_492,492,2047,430,40,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT492,Money Bag,This bag should help pay for the materials you need to buy from Lina at El Verloon Desert.
+material_493,493,1539,430,40,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT493,Snowboard Materials,Take these snowboard materials back to Sergei at Magic City of the Eucar.
+material_494,494,2068,430,40,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT494,Sergei's Letter,Take this letter to Lina at El Verloon Desert whilst Sergei makes your snowboard.
+material_495,495,2069,430,40,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT495,Lina's Letter,Take this letter to Sergei at Magic City of the Eucar. Perhaps he has finished your snowboard by now.
+material_496,496,1538,430,40,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT496,Blank Snowboard,Take this snowboard to Cassirin at Junon Fields to get it painted.
+material_497,497,1534,430,40,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT497,Green Snowboard Coupon,Speak to Cassirin at Junon Fields to collect your finished snowboard.
+material_498,498,1583,430,40,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT498,ROSE Snowboard Coupon,Speak to Cassirin at Junon Fields to collect your finished snowboard.
+material_499,499,1535,430,40,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT499,Red Snowboard Coupon,Speak to Cassirin at Junon Fields to collect your finished snowboard.
+material_500,500,1536,430,40,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT500,Funky Snowboard Coupon,Speak to Cassirin at Junon Fields to collect your finished snowboard.
+material_501,501,1537,430,40,5,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Collections,LNAT501,Blue Snowboard Coupon,Speak to Cassirin at Junon Fields to collect your finished snowboard.
+material_503,503,3915,434,20,100,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Advance Craft Coupon,LNAT503,Advance Armor Craft Coupon,Used to Craft Advance Armors
+material_504,504,3917,434,20,100,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Advance Craft Coupon,LNAT504,Advance Cart Craft Coupon,Used to Craft Advance Carts
+material_505,505,3918,434,20,100,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Advance Craft Coupon,LNAT505,Advance Weapon Coupon,Used to Craft Advance Weapons
+material_506,506,3919,434,20,100,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Advance Craft Coupon,LNAT506,Advance Gloves Craft Coupon,Used to Craft Advance Gloves
+material_507,507,3920,434,20,100,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Advance Craft Coupon,LNAT507,Advance Shoes Craft Coupon,Used to Craft Advance Shoes
+material_508,508,3916,434,20,100,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Advance Craft Coupon,LNAT508,Advance Hat Craft Coupon,Used to Craft Advance Head Gears
+material_509,509,1526,434,20,100,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Advance Craft Coupon,LNAT509,Advance Jewel Craft Coupon,Used to Craft Jewel Items
+material_510,510,1527,434,20,100,0,251,1,0,0,0,0,0,0,0,0,0,0,0,0,Advance Craft Coupon,LNAT510,Advance Hover Cart Craft Coupon,Used to Craft Hover Cart and Bike

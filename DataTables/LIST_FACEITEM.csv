@@ -1,0 +1,505 @@
+1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Durability,Rare Type,Defence,Magic Resistence,,Item Sets,Dynamic EQ,Trade Key,Expire,Prefix,
+Flu Mask,FACEITEM\faceitem_mask03.txt,,,111,850,10,1,30,1,247,579,19,1,54,18,,,,,,,,,14,5,,,,22,,3,3,,,,,,,LFAC001
+Black Mask,FACEITEM\faceitem_mask04.txt,,,111,950,10,1,31,2,247,579,19,1,55,19,,,,,,,,,14,6,,,,22,,3,3,,,,,,,LFAC002
+ButterFly Mask,FACEITEM\faceitem_glasses01.txt,,,111,1000,10,1,32,3,247,579,19,1,51,20,,,,,,,,,14,6,,,,22,,3,3,,,,,,,LFAC003
+Zorro Mask,FACEITEM\faceitem_mask07.txt,,,111,1100,10,1,33,4,247,579,19,2,52,20,,,,,,,,,14,7,,,,22,,3,3,,,,,,,LFAC004
+Persian Mask ,FACEITEM\faceitem_mask01.txt,,,111,1100,10,1,34,5,247,579,19,2,52,20,,,,,,,,,14,7,,,,22,,3,3,,,,,,,LFAC005
+Wicked Mask,FACEITEM\faceitem_mask02.txt,,,111,1250,10,2,35,6,247,579,19,3,53,20,,,,,,,,,14,8,,,,22,,3,3,,,,,,,LFAC006
+Jolly Front Mask,FACEITEM\faceitem_mask08.txt,,,111,1350,10,3,36,7,247,579,19,3,58,24,,,,,,,,,14,9,,,,22,,3,3,,,,,,,LFAC007
+Iron Mask,FACEITEM\faceitem_mask09.txt,,,111,1400,10,3,37,8,247,580,19,4,59,28,,,,,,,,,14,9,,,,22,,3,3,,,,,,,LFAC008
+Totem Mask,FACEITEM\faceitem_mask06.txt,,,111,1550,10,5,38,9,247,580,19,4,56,25,,,,,,,,,14,10,,,,22,,3,3,,,,,,,LFAC009
+Goblin Mask,,,,111,1550,10,7,39,10,247,579,,4,,,,,,,,,,,14,10,,,,22,,3,3,,,,,,,LFAC010
+Ashura Mask,FACEITEM\faceitem_mask05.txt,,,111,1700,10,2,40,11,247,579,19,5,57,28,,,,,,,,,14,11,,,,22,,3,3,,,,,,,LFAC011
+Orc Mask,,,,111,1850,,,41,,247,579,,5,,,,,,,,,,,14,12,,,,22,,3,3,,,,,,,LFAC012
+Mask of Lies,FACEITEM\faceitem_mask11.txt,,,111,30000,1,2,42,14,247,580,,,,150,,,,31,70,,,,21,15,,22,10,60,5,3,3,,,,,,,LFAC013
+Mask of Truth,,,,111,2050,,,43,15,247,579,,6,,,,,,,,,,,14,13,,,,22,,3,3,,,,,,,LFAC014
+Mask of Venus,,,,111,2100,,,44,16,247,579,,6,,,,,,,,,,,14,13,,,,22,,3,3,,,,,,,LFAC015
+Demon Mask,,,,111,2250,,,45,17,247,579,,6,,,,,,,,,,,14,14,,,,22,,3,3,,,,,,,LFAC016
+NAME,FACEITEM\la_mask.txt,FACEITEM\la_mask.txt,,111,1250,10,2,100,6716,247,579,,,,,,,,,,,,,27,10,,14,5,22,1,0,0,,,,,,,LFAC17
+,,,,111,2450,,,47,19,247,579,,7,,,,,,,,,,,14,15,,,,22,,3,3,,,,,,,
+,,,,111,2600,,,48,,247,,,7,,,,,,,,,,,14,16,,,,22,,3,3,,,,,,,
+Heart Glasses,FACEITEM\glasses_heart.dds,,6,112,1000,10,1,50,747,247,579,,,,,,,,,,,,,14,15,,,,30,,3,3,,,,,,,LFAC020
+Hippie Glasses,AGLASSES_021,,,112,2850,10,1,40,741,247,579,19,8,75,31,,,,,,,,,14,15,,,,32,,3,3,,,,,,,LFAC021
+Trendy Glasses,AGLASSES_022,,,112,3050,10,1,41,744,247,579,19,8,76,32,,,,,,,,,14,16,,,,34,,3,3,,,,,,,LFAC022
+Leaf Mask,AMASK_023,,,111,3100,10,1,40,745,247,579,19,8,77,31,,,,,,,,,14,15,,,,32,,3,3,,,,,,,LFAC023
+Gold Masquerade,AMASK_024,,,111,3300,10,1,41,761,247,579,19,8,78,32,,,,,,,,,14,16,,,,34,,3,3,,,,,,,LFAC024
+,,,,111,3350,,,54,,247,,,9,,,,,,,,,,,14,19,,,,22,,3,3,,,,,,,
+,,,,111,3550,,,55,,247,,,9,,,,,,,,,,,14,20,,,,22,,3,3,,,,,,,
+,,,,111,3750,,,56,,247,,,10,,,,,,,,,,,14,21,,,,22,,3,3,,,,,,,
+,,,,111,3800,,,57,,247,,,10,,,,,,,,,,,14,21,,,,22,,3,3,,,,,,,
+,,,,111,4000,,,58,,247,,,10,,,,,,,,,,,14,22,,,,22,,3,3,,,,,,,
+,,,,111,4100,,,59,,247,,,10,,,,,,,,,,,14,22,,,,22,,3,3,,,,,,,
+Glasses Frame,FACEITEM\faceitem_glasses02.txt,,,112,1000,10,1,30,26,247,579,19,2,61,20,,,,,,,,,14,5,,,,22,,3,3,,,,,,,LFAC031
+Dork Glasses,FACEITEM\faceitem_glasses06.txt,,,112,1100,10,1,31,27,247,579,19,3,61,25,,,,,,,,,14,6,,,,22,,3,3,,,,,,,LFAC032
+Thick Framed Glasses,FACEITEM\faceitem_glasses05.txt,,,112,1150,10,1,32,28,247,579,19,3,62,24,,,,,,,,,14,6,,,,22,,3,3,,,,,,,LFAC033
+Sunglasses,FACEITEM\faceitem_glasses04.txt,,,112,1250,10,1,33,29,247,579,19,3,63,25,,,,,,,,,14,7,,,,22,,3,3,,,,,,,LFAC034
+Charming Sunglasses,FACEITEM\faceitem_glasses03.txt,,,112,1300,10,1,34,30,247,579,19,4,63,29,,,,,,,,,14,7,,,,22,,3,3,,,,,,,LFAC035
+Swimming Goggles,FACEITEM\faceitem_glasses10.txt,,,112,1400,10,2,35,35,247,579,19,4,64,33,,,,,,,,,14,8,,,,22,,3,3,,,,,,,LFAC036
+,,,,112,1550,,,36,32,247,579,,4,,,,,,,,,,,14,9,,,,22,,3,3,,,,,,,
+Cart Goggles,FACEITEM\faceitem_glasses07.txt,,,112,1600,10,2,37,33,247,579,19,5,64,33,,,,,,,,,14,9,,,,22,,3,3,,,,,,,LFAC038
+,,,,112,1700,,,38,34,247,579,,5,,,,,,,,,,,14,10,,,,22,,3,3,,,,,,,
+,,,,112,1750,,,39,35,247,579,,5,,,,,,,,,,,14,10,,,,22,,3,3,,,,,,,
+,,,,112,1900,,,40,36,247,579,,5,,,,,,,,,,,14,11,,,,22,,3,3,,,,,,,
+,,,,112,2050,,,41,37,247,579,,6,,,,,,,,,,,14,12,,,,22,,3,3,,,,,,,
+,,,,112,2100,,,42,39,247,579,,6,,,,,,,,,,,14,12,,,,22,,3,3,,,,,,,
+,,,,112,2250,,,43,40,247,579,,6,,,,,,,,,,,14,13,,,,22,,3,3,,,,,,,
+,,,,112,2300,,,44,41,247,579,,6,,,,,,,,,,,14,13,,,,22,,3,3,,,,,,,
+,,,,112,2450,,,45,42,247,579,,7,,,,,,,,,,,14,14,,,,22,,3,3,,,,,,,
+,,,,112,2650,,,46,,247,,,7,,,,,,,,,,,14,15,,,,22,,3,3,,,,,,,
+,,,,112,2700,,,47,,247,,,7,,,,,,,,,,,14,15,,,,22,,3,3,,,,,,,
+,,,,112,2850,,,48,,247,,,7,,,,,,,,,,,14,16,,,,22,,3,3,,,,,,,
+,,,,112,2900,,,49,,247,,,8,,,,,,,,,,,14,16,,,,22,,3,3,,,,,,,
+,,,,112,3100,,,50,,247,,,8,,,,,,,,,,,14,17,,,,22,,3,3,,,,,,,
+,,,,112,3300,,,51,,247,,,8,,,,,,,,,,,14,18,,,,22,,3,3,,,,,,,
+,,,,112,3350,,,52,,247,,,8,,,,,,,,,,,14,18,,,,22,,3,3,,,,,,,
+,,,,112,3550,,,53,,247,,,9,,,,,,,,,,,14,19,,,,22,,3,3,,,,,,,
+,,,,112,3600,,,54,,247,,,9,,,,,,,,,,,14,19,,,,22,,3,3,,,,,,,
+,,,,112,3800,,,55,,247,,,9,,,,,,,,,,,14,20,,,,22,,3,3,,,,,,,
+,,,,112,4000,,,56,,247,,,10,,,,,,,,,,,14,21,,,,22,,3,3,,,,,,,
+,,,,112,4100,,,57,,247,,,10,,,,,,,,,,,14,21,,,,22,,3,3,,,,,,,
+,,,,112,4300,,,58,,247,,,10,,,,,,,,,,,14,22,,,,22,,3,3,,,,,,,
+,,,,112,4400,,,59,,247,,,10,,,,,,,,,,,14,22,,,,22,,3,3,,,,,,,
+,,,,113,700,,,30,,247,,,1,,,,,,,,,,,14,5,,,,22,,3,3,,,,,,,
+Red Pierrot Nose,FACEITEM\faceitem_nose01.txt,,,113,800,10,1,31,52,247,579,19,1,71,20,,,,,,,,,14,6,,,,22,,3,3,,,,,,,LFAC062
+Blue Pierrot Nose,FACEITEM\faceitem_nose01.txt,,,113,800,10,1,31,43,247,579,19,1,71,20,,,,,,,,,14,6,,,,22,,3,3,,,,,,,LFAC063
+Pinocchio Nose ,FACEITEM\faceitem_nose02.txt,,,113,950,10,1,33,53,247,579,19,2,72,20,,,,,,,,,14,7,,,,22,,3,3,,,,,,,LFAC064
+,,,,113,950,,,34,,247,,,2,,,,,,,,,,,14,7,,,,22,,3,3,,,,,,,
+,,,,113,1050,,,35,,247,,,2,,,,,,,,,,,14,8,,,,22,,3,3,,,,,,,
+,,,,113,1200,,,36,,247,,,3,,,,,,,,,,,14,9,,,,22,,3,3,,,,,,,
+,,,,113,1200,,,37,,247,,,3,,,,,,,,,,,14,9,,,,22,,3,3,,,,,,,
+,,,,113,1350,,,38,,247,,,3,,,,,,,,,,,14,10,,,,22,,3,3,,,,,,,
+,,,,113,1350,,,39,,247,,,4,,,,,,,,,,,14,10,,,,22,,3,3,,,,,,,
+,,,,113,1500,,,40,,247,,,4,,,,,,,,,,,14,11,,,,22,,3,3,,,,,,,
+,,,,113,1650,,,41,,247,,,4,,,,,,,,,,,14,12,,,,22,,3,3,,,,,,,
+Santa Beard,FACEITEM\faceitem_beard01.txt,,,113,1700,10,2,42,54,247,579,19,4,73,20,,,,,,,,,14,12,,,,22,,3,3,,,,,,,LFAC073
+,,,,113,1800,,,43,,247,,,5,,,,,,,,,,,14,13,,,,22,,3,3,,,,,,,
+,,,,113,1850,,,44,,247,,,5,,,,,,,,,,,14,13,,,,22,,3,3,,,,,,,
+,,,,113,2000,,,45,,247,,,5,,,,,,,,,,,14,14,,,,22,,3,3,,,,,,,
+,,,,113,2150,,,46,,247,,,6,,,,,,,,,,,14,15,,,,22,,3,3,,,,,,,
+,,,,113,2200,,,47,,247,,,6,,,,,,,,,,,14,15,,,,22,,3,3,,,,,,,
+,,,,113,2400,,,48,,247,,,6,,,,,,,,,,,14,16,,,,22,,3,3,,,,,,,
+Horace Mask,FACEITEM\faceitem_mask16.txt,FACEITEM\faceitem_mask16.txt,,111,2450,10,3,65,4797,247,579,,,,,,,,31,50,,,,11,15,,22,18,65,,,,,,,,,,LFAC80
+Raj'aj Mask,FACEITEM\faceitem_mask17.txt,FACEITEM\faceitem_mask17.txt,,111,2600,10,3,65,4798,247,579,,,,,,,,31,50,,,,14,40,,,,65,,,,,,,,,,LFAC81
+Lich Mask,FACEITEM\faceitem_mask18.txt,FACEITEM\faceitem_mask18.txt,,111,2650,10,3,65,4799,247,579,,,,,,,,31,50,,,,12,15,,21,40,65,,,,,,,,,,LFAC82
+Satet Mask,FACEITEM\faceitem_mask19.txt,FACEITEM\faceitem_mask19.txt,,111,2850,10,3,65,4800,247,579,,,,,,,,31,50,,,,15,15,,23,30,65,,,,,,,,,,LFAC83
+Urubis Mask,FACEITEM\faceitem_mask20.txt,FACEITEM\faceitem_mask20.txt,,111,3050,10,3,65,4801,247,579,,,,,,,,31,50,,,,13,15,,25,250,65,,,,,,,,,,LFAC84
+Kaltet Mask,FACEITEM\faceitem_mask21.txt,FACEITEM\faceitem_mask21.txt,,111,3100,10,3,65,4802,247,579,,,,,,,,31,50,,,,10,15,,19,55,65,,,,,,,,,,LFAC85
+Mummy Face,FACEITEM\faceitem_mummy.txt,FACEITEM\faceitem_mummy.txt,,111,0,,,65,4803,247,579,,,,,,,,,,,,,,,,,,100,,,,,,,,,,LFAC86
+,,,,113,3450,,,56,,247,,,9,,,,,,,,,,,14,21,,,,22,,3,3,,,,,,,
+,,,,113,3500,,,57,,247,,,10,,,,,,,,,,,14,21,,,,22,,3,3,,,,,,,
+,,,,113,3750,,,58,,247,,,10,,,,,,,,,,,14,22,,,,22,,3,3,,,,,,,
+Mask of Magic,FACEITEM\arumic_mask_1129.txt,,,111,30000,1,2,42,7782,247,580,,,,100,,,,31,99,114,5,,12,4,,39,80,60,,1,6,,,,,,,LFAC90
+,,,,113,350,,,30,,247,,,,,,,,,,,,,,,,,,,22,,3,3,,,,,,,
+,,,,113,350,,,30,,247,,,,,,,,,,,,,,,,,,,22,,3,3,,,,,,,
+,,,,113,350,,,30,,247,,,,,,,,,,,,,,,,,,,22,,3,3,,,,,,,
+,,,,113,350,,,30,,247,,,,,,,,,,,,,,,,,,,22,,3,3,,,,,,,
+,,,,113,350,,,30,,247,,,,,,,,,,,,,,,,,,,22,,3,3,,,,,,,
+,,,,113,350,,,30,,247,,,,,,,,,,,,,,,,,,,22,,3,3,,,,,,,
+,,,,113,350,,,30,,247,,,,,,,,,,,,,,,,,,,22,,3,3,,,,,,,
+,,,,113,350,,,30,,247,,,,,,,,,,,,,,,,,,,22,,3,3,,,,,,,
+Abyss Sightseer Mask,FACEITEM\Arumic_Masc.txt,FACEITEM\Arumic_Masc.txt,,111,1155680,10,3,50,9887,247,579,,,,,,,,140,10,,,,143,15,,61,10,50,,3,3,,7,,,,,LFAC99
+Manipulating Warlord Mask,FACEITEM\Manipulator.txt,FACEITEM\Manipulator.txt,,111,1000000,10,3,50,5562,247,579,19,10,448,50,,,,31,200,,,,15,8,,19,20,50,,3,6,,,,,,,LFAC100
+Abyss Watcher Mask,FACEITEM\Arumic_Masc.txt,FACEITEM\Arumic_Masc.txt,,111,1155680,10,3,50,7164,247,579,,,,,,,,140,10,,,,62,50,,61,10,50,,3,3,,7,,,,,LFAC101
+Stone Jaw,FACEITEM\Gob_Mask_1221_CR.txt,FACEITEM\Gob_Mask_1221_CR.txt,,113,215430,10,5,50,4015,247,579,,,,,,,,31,178,,,,22,5,,24,10,50,,3,3,,,,,,,LFAC102
+Fairy Mask,FACEITEM\CT_ITEM_14.txt,FACEITEM\CT_ITEM_14.txt,,113,332140,10,3,40,8572,247,579,19,10,170,50,,,,31,120,,,,62,10,,,,30,,3,3,,,,,,,LFAC103
+Blessed Fairy Mask,FACEITEM\CT_ITEM_14.txt,FACEITEM\CT_ITEM_14.txt,,113,451526,10,3,50,8573,247,579,19,10,171,20,,,,31,110,,,,62,20,,,,30,,3,3,,,,,,,LFAC104
+Fairy Queen Mask,FACEITEM\CT_ITEM_14.txt,FACEITEM\CT_ITEM_14.txt,,113,611240,10,3,60,8574,247,579,19,10,172,20,,,,31,100,,,,62,30,,,,30,,3,3,,,,,,,LFAC105
+Dull Face Artifact,FACEITEM\FACEITEM_CAREER_GLASSES001.txt,FACEITEM\FACEITEM_CAREER_GLASSES001.txt,,113,23662,10,3,30,8645,247,579,,,,,,,,31,151,,,,21,5,,,,30,,1,1,,,,,,,LFAC106
+Purple Spectral Artifact,FACEITEM\FACEITEM_CAREER_GLASSES001.txt,FACEITEM\FACEITEM_CAREER_GLASSES001.txt,,113,34511,10,3,50,8646,247,579,19,10,173,50,,,,31,151,,,,21,10,,19,10,30,,3,3,,,,,,,LFAC107
+Yellow Spectral Artifact,FACEITEM\FACEITEM_CAREER_GLASSES001.txt,FACEITEM\FACEITEM_CAREER_GLASSES001.txt,,113,34511,10,3,50,8647,247,579,19,10,174,50,,,,31,151,,,,21,10,,38,100,30,,3,3,,,,,,,LFAC108
+White Spectral Artifact,FACEITEM\FACEITEM_CAREER_GLASSES001.txt,FACEITEM\FACEITEM_CAREER_GLASSES001.txt,,113,34511,10,3,50,8648,247,579,19,10,175,50,,,,31,151,,,,21,10,,23,50,30,,3,3,,,,,,,LFAC109
+Green Spectral Artifact,FACEITEM\FACEITEM_CAREER_GLASSES001.txt,FACEITEM\FACEITEM_CAREER_GLASSES001.txt,,113,34511,10,3,50,8649,247,579,19,10,176,50,,,,31,151,,,,21,10,,18,10,30,,3,3,,,,,,,LFAC110
+Red Spectral Artifact,FACEITEM\FACEITEM_CAREER_GLASSES001.txt,FACEITEM\FACEITEM_CAREER_GLASSES001.txt,,113,34511,10,3,50,8650,247,579,19,10,177,50,,,,31,151,,,,21,10,,22,5,30,,3,3,,,,,,,LFAC111
+Blue Spectral Artifact,FACEITEM\FACEITEM_CAREER_GLASSES001.txt,FACEITEM\FACEITEM_CAREER_GLASSES001.txt,,113,34511,10,3,50,8651,247,579,19,10,178,50,,,,31,151,,,,21,10,,26,10,30,,3,3,,,,,,,LFAC112
+Mark of Authority,FACEITEM\FACEITEM_AUTHORITY.txt,FACEITEM\FACEITEM_AUTHORITY.txt,,113,121141,10,3,30,8666,247,579,,,,,,,,31,170,,,,18,8,,24,10,30,,3,3,,16,,,,,LFAC113
+Communication Gemstone,FACEITEM\FACEITEM_GEMSTONE.txt,FACEITEM\FACEITEM_GEMSTONE.txt,,113,135620,10,3,30,8667,247,579,19,10,179,50,,,,31,170,,,,19,10,,21,10,30,,3,3,,17,,,,,LFAC114
+Persecutor Mask,FACEITEM\FACEITEM_MASK22.txt,FACEITEM\FACEITEM_MASK22.txt,,111,100110,10,3,40,8671,247,579,,,,,,,,31,120,,,,20,10,,26,10,30,,3,3,,,,,,,LFAC115
+Vermilion Persecutor Mask,FACEITEM\FACEITEM_MASK22_V.txt,FACEITEM\FACEITEM_MASK22_V.txt,,111,121111,10,3,45,8672,247,579,19,10,180,50,,,,31,120,,,,20,5,,26,15,30,,3,3,,,,,,,LFAC116
+Azure Persecutor Mask,FACEITEM\FACEITEM_MASK22_A.txt,FACEITEM\FACEITEM_MASK22_A.txt,,111,121111,10,3,45,8673,247,579,19,10,181,50,,,,31,120,,,,20,15,,26,5,30,,3,3,,,,,,,LFAC117
+Phantom Mark,FACEITEM\FACEITEM_PUNISHMENT.txt,FACEITEM\FACEITEM_PUNISHMENT.txt,,113,144123,10,3,35,9653,247,579,,,,,,,,31,193,,,,62,40,,21,-20,30,,3,3,,,,,,,LFAC118
+,,,,113,350,,,30,,247,,,,,,,,,,,,,,,,,,,22,,3,3,,,,,,,
+,,,,113,350,,,30,,247,,,,,,,,,,,,,,,,,,,22,,3,3,,,,,,,
+Ego Mask,FACEITEM\faceitem_mask10.txt,,7,111,350,,2,30,65,247,579,,,,,,,,,,,,,26,5,,,,22,,3,3,,,,,,,LFAC121
+Ullr's Vision,FACEITEM\FACE_ROBOT_BOSS03.txt,FACEITEM\FACE_ROBOT_BOSS03.txt,,111,200000,10,5,50,9805,249,579,,,,,,,,31,220,,,,10,15,,38,250,30,,3,3,,,,,,22,LFAC122
+Ullr's Vision,FACEITEM\FACE_ROBOT_BOSS03.txt,FACEITEM\FACE_ROBOT_BOSS03.txt,,111,200000,10,5,50,9805,249,579,,,,,,,,31,220,,,,11,15,,38,250,30,,3,3,,,,,,22,LFAC123
+Ullr's Vision,FACEITEM\FACE_ROBOT_BOSS03.txt,FACEITEM\FACE_ROBOT_BOSS03.txt,,111,200000,10,5,50,9805,249,579,,,,,,,,31,220,,,,12,15,,38,250,30,,3,3,,,,,,22,LFAC124
+Ullr's Vision,FACEITEM\FACE_ROBOT_BOSS03.txt,FACEITEM\FACE_ROBOT_BOSS03.txt,,111,200000,10,5,50,9805,249,579,,,,,,,,31,220,,,,13,15,,38,250,30,,3,3,,,,,,22,LFAC125
+Ullr's Vision,FACEITEM\FACE_ROBOT_BOSS03.txt,FACEITEM\FACE_ROBOT_BOSS03.txt,,111,200000,10,5,50,9805,249,579,,,,,,,,31,220,,,,14,15,,38,250,30,,3,3,,,,,,22,LFAC126
+Ullr's Vision,FACEITEM\FACE_ROBOT_BOSS03.txt,FACEITEM\FACE_ROBOT_BOSS03.txt,,111,200000,10,5,50,9805,249,579,,,,,,,,31,220,,,,15,15,,38,250,30,,3,3,,,,,,22,LFAC127
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,113,350,,,30,,247,,,,,,,,,,,,,,,,,,,22,,3,3,,,,,,,
+Gas Mask test,FACEITEM\gasmask.txt,,,111,100000,5,3,50,2413,247,579,,,,,,,,,,,,,11,6,,38,250,30,,5,5,,,,,,,LFAC133
+Gas Mask,FACEITEM\gasmask.txt,,,111,100000,5,3,50,2413,247,579,19,10,164,50,,,,31,200,,,,11,6,,38,250,30,,5,5,,9,,,,,LFAC134
+Gas Mask,FACEITEM\gasmask2.txt,,,111,100000,5,3,50,2413,247,579,,,,,,,,31,200,,,,,,,,,30,,5,5,,,,,,,LFAC135
+Blue Lens Glasses,FACEITEMbluelens.txt,,,112,100000,5,1,50,2374,247,579,,,,,,,,31,200,,,,,,,,,30,,3,3,,,,,,,LFAC136
+Red Lens Glasses,FACEITEM\redlens.txt,,,112,100000,5,1,50,2374,247,579,,,,,,,,31,200,,,,,,,,,30,,3,3,,,,,,,LFAC137
+Guy Fawkes Mask,FACEITEM\vendetta.txt,,7,111,100000,5,2,50,7248,247,579,,,,,,,,,,,,,,,,,,30,,3,3,,,,,,,LFAC138
+Mask of Sorrows,FACEITEM\goldmol.txt,,,111,142525,5,3,50,2414,247,579,19,10,165,50,,,,31,200,,,,10,8,,26,20,30,,5,5,,10,,,,,LFAC139
+Dusk Mask,FACEITEM\dusk.txt,,,111,162626,5,3,50,2411,247,579,19,10,166,50,,,,31,200,,,,13,8,,23,65,30,,5,5,,10,,,,,LFAC140
+Mask of Anubis,FACEITEM\anubis.txt,,,111,154674,5,3,50,2412,247,579,19,10,167,50,,,,31,200,,,,15,5,,24,20,30,,5,5,,11,,,,,LFAC141
+Gold Skull Mask,FACEITEM\skull_mask_gold.txt,,,111,142525,5,2,50,2407,247,579,,,,,,,,31,200,,,,,,,,,30,,3,3,,,,,,,LFAC142
+Skull Mask,FACEITEM\skull_mask.txt,,,111,162626,5,2,50,2387,247,579,,,,,,,,31,200,,,,,,,,,30,,3,3,,,,,,,LFAC143
+Hannya,FACEITEM\hannya.txt,,,111,154674,5,2,50,2388,247,579,,,,,,,,31,200,,,,,,,,,30,,3,3,,,,,,,LFAC144
+Mystic Mask,FACEITEM\MAGICMASK.txt,,,111,163737,5,1,50,2389,247,579,19,10,168,50,,,,31,200,,,,12,8,,20,10,45,,4,8,,9,,,,,LFAC145
+Transparent Mask,,,,111,100000,1,1,10,5094,247,579,,,,,,,,,,,,,,,,,,30,,0,0,,,,,,,LFAC146
+Slender Face,FACEITEM\Slender.txt,,6,111,1000,5,2,50,5353,247,579,,,,,,,,,,,,,,,,,,30,,3,3,,,,,,,LFAC147
+Deadly Eye of Truth,FACEITEM\Scaled_eye.txt,,,113,100000,10,2,40,5349,247,579,,,,,,,,,,,,,20,5,,26,5,30,,3,3,,,,,,,LFAC148
+Deadly Eye of Sins,FACEITEM\Scaled_eye.txt,,,113,100000,10,2,40,6155,247,579,,,,,,,,,,,,,18,5,,24,5,30,,3,3,,,,,,,LFAC149
+Deadly Eye of Purity,FACEITEM\Scaled_eye.txt,,,113,100000,10,2,40,6156,247,579,,,,,,,,,,,,,19,5,,21,5,30,,3,3,,,,,,,LFAC150
+Scream Mask,FACEITEM\faceitem_mask12.txt,,7,111,10000,1,2,20,15,247,579,,,,,,,,,,,,,10,7,,,,100,,3,3,,,,,,,LFAC151
+Nomadic Mask,FACEITEM\faceitem_mask13.txt,,7,111,10000,1,2,21,16,247,579,,,,,,,,,,,,,11,7,,,,100,,3,3,,,,,,,LFAC152
+Mummy Face,FACEITEM\faceitem_mask14.txt,,7,111,10000,1,2,22,17,247,579,,,,,,,,,,,,,12,7,,,,100,,3,3,,,,,,,LFAC153
+[NOT SURE WHAT THIS IS?],FACEITEM\faceitem_mask11.txt,,6,111,10000,1,2,23,4,247,579,,,,,,,,,,,,,13,7,,,,100,,3,3,,,,,,,LFAC154
+[NOT SURE WHAT THIS IS?],FACEITEM\faceitem_mask11.txt,,6,111,10000,1,2,24,5,247,579,,,,,,,,,,,,,15,7,,,,100,,3,3,,,,,,,LFAC155
+Jason Mask,FACEITEM\faceitem_mask15.txt,,7,111,10000,1,2,24,18,247,579,,,,,,,,,,,,,15,7,,,,100,,3,3,,,,,,,LFAC156
+Scream Mask,FACEITEM\faceitem_mask12.txt,,6,111,10000,1,2,20,15,247,579,,,,,,,,,,,,,15,7,,,,100,,3,3,,,,,,,LFAC151
+Deadly Eye of Dimensions,FACEITEM\Scaled_eye.txt,,,113,100000,10,2,40,6157,247,579,,,,,,,,,,,,,22,5,,23,80,30,,3,3,,,,,,,LFAC158
+Crystal Mask,FACEITEM\FACEITEM_CAREER_MASK002.zms,,,111,156597,15,2,50,4027,247,579,19,10,169,100,,,,31,200,,,,63,3,,14,20,30,,3,3,,11,,,,,LFAC159
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,,,,,,,
+Star Glasses,FACEITEM\faceitem_glasses08.txt,,7,112,10000,1,1,25,31,247,579,,,,,,,,,,,,,18,10,,,,25,,3,3,,,,,,,LFAC161
+Matrix Eye,FACEITEM\faceitem_glasses09.txt,,7,112,10000,1,1,26,32,247,579,,,,,,,,,,,,,19,10,,,,25,,3,3,,,,,,,LFAC162
+[NOT SURE WHAT THIS IS?],FACEITEM\faceitem_glasses07.txt,,6,112,10000,1,3,27,3,247,579,,,,,,,,,,,,,20,10,,,,20,,3,3,,,,,,,LFAC163
+[NOT SURE WHAT THIS IS?],FACEITEM\faceitem_glasses07.txt,,6,112,10000,1,3,28,4,247,579,,,,,,,,,,,,,21,10,,,,20,,3,3,,,,,,,LFAC164
+[NOT SURE WHAT THIS IS?],FACEITEM\faceitem_glasses07.txt,,6,112,10000,1,3,29,5,247,579,,,,,,,,,,,,,22,10,,,,20,,3,3,,,,,,,LFAC165
+Cherry Blossom Glasses,FACEITEM\faceitem_glasses11.txt,,7,112,10000,1,1,29,36,247,579,,,,,,,,,,,,,20,10,,,,25,,3,3,,,,,,,LFAC166
+ROSE Captain's Eyepatch,FACEITEM\faceitem_glasses12.txt,,7,113,10000,1,1,100,37,247,579,,,,,,,,,,,,,11,7,,23,10,25,,3,3,,,,,,,LFAC167
+Lovely Eyepatch,FACEITEM\faceitem_glasses13.txt,,,113,10000,1,1,45,24,247,579,19,6,66,20,,,,,,,,,14,5,,22,5,22,,3,3,,,,,,,LFAC168
+Brown Framed Glasses,FACEITEM\face_F01690.txt,,,112,10000,1,1,38,40,247,579,19,6,63,20,,,,,,,,,14,9,,,,22,,3,3,,,,,,,LFAC169
+Fake Mustache,FACEITEM\face_F01700.txt,,,113,10000,1,1,42,41,247,579,19,6,65,20,,,,,,,,,14,5,,19,5,22,,3,3,,,,,,,LFAC170
+Rat Tail Mustache,FACEITEM\faceitem_beard02.txt,,7,113,10000,1,1,22,55,247,579,,,,,,,,,,,,,23,40,,,,25,,3,3,,,,,,,LFAC171
+Oro's Present,FACEITEM\faceitem_etc01.txt,,7,113,10000,1,1,23,56,247,579,,,,,,,,,,,,,24,5,,,,25,,3,3,,,,,,,LFAC172
+[NOT SURE WHAT THIS IS?],FACEITEM\faceitem_nose02.txt,,6,113,10000,1,1,24,53,247,579,,,,,,,,,,,,,26,20,,,,25,,3,3,,,,,,,LFAC173
+[NOT SURE WHAT THIS IS?],FACEITEM\faceitem_nose02.txt,,6,113,10000,1,1,25,53,247,579,,,,,,,,,,,,,27,10,,,,25,,3,3,,,,,,,LFAC174
+[NOT SURE WHAT THIS IS?],FACEITEM\faceitem_nose02.txt,,6,113,10000,1,1,26,53,247,579,,,,,,,,,,,,,28,10,,,,25,,3,3,,,,,,,LFAC175
+Bunny Eyepatch,FACEITEM\face_F01760.txt,,,113,10000,1,1,43,2383,247,579,19,7,60,25,,,,,,,,,14,13,,,,23,,3,3,,,,,,,LFAC176
+,FACEITEM\face_F0177.txt,,6,112,10000,1,3,40,2383,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC177
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,,,,,,,
+Junon Mask,FACEITEM\faceitem_mask04.txt,,6,111,1000,10,1,30,2,247,579,,,,,,,,,,,,,14,7,,18,5,22,,3,3,,,,,,,LFAC181
+3D Glasses,FACEITEM\glasses_3d.txt,,6,112,1000,10,1,10,2390,247,579,,,,,,,,,,,,,14,20,,,,22,,3,3,,,,,,,LFAC182
+Green Plastic Glasses,FACEITEM\blind_glasses.txt,,6,112,1000,10,1,10,2408,247,579,,,,,,,,,,,,,14,9,,,,22,,3,3,,,,,,,LFAC183
+Heart Shaped Earrings,FACEITEM\hu_can_piass.txt,,6,113,1000,10,1,10,2402,247,579,,,,,,,,,,,,,,,,,,22,,3,3,,,,,,,LFAC184
+Crescent Earrings,FACEITEM\hu_marurin_piass.txt,,6,113,1000,10,1,10,3979,247,579,,,,,,,,,,,,,,,,,,22,,3,3,,,,,,,LFAC185
+Star Power Earrings,FACEITEM\hu_piro_piass.txt,,7,113,1000,10,1,10,2403,247,579,,,,,,,,,,,,,26,3,,15,3,22,,3,3,,,,,,,LFAC186
+Blue Heart Earrings,FACEITEM\hu_ura_piass.txt,,7,113,1000,10,1,10,2405,247,579,,,,,,,,,,,,,26,3,,24,6,22,,3,3,,,,,,,LFAC187
+Diamond Earrings,FACEITEM\piercing_Dia.txt,,7,113,1000,10,1,10,2406,247,579,,,,,,,,,,,,,26,3,,10,3,22,,3,3,,,,,,,LFAC188
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,,,,,,,
+Cute Fake Mole,FACEITEM\face_F01910.txt,,7,111,1000,10,1,40,39,247,,,,,,,,,,,,,,11,6,0,14,15,25,,3,3,,,,,,,LFAC191
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,,,,,,,
+Silver Tiara,FACEITEM\face_F01940.txt,,7,113,1000,1,2,40,10,247,579,,,,,,,,,,,,,12,6,0,14,10,25,,3,3,,,,,,,LFAC194
+Eagle Beak,FACEITEM\face_F01950.txt,,,111,1000,10,3,40,13,247,579,,,,,,,,,,,,,23,25,0,0,0,22,,3,3,,,,,,,LFAC195
+Old Man Mustache,FACEITEM\face_F01960.txt,,,113,1000,1,3,40,42,247,579,19,7,67,29,,,,,,,,,14,5,,21,5,22,,3,3,,,,,,,LFAC196
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,,,,,,,
+Yellow Framed Charming Sunglasses,FACEITEM\face_F01980.txt,,,112,1860,1,1,34,2819,247,579,19,4,63,29,,,,,,,,,14,7,,,,22,,3,3,,,,,,,LFAC198
+Scissors Glasses,FACEITEM\face_F01990.txt,,,112,1976,1,1,44,2384,247,579,19,7,68,31,,,,,,,,,14,14,,,,25,,3,3,,,,,,,LFAC199
+Gold Tinted Sunglasses,FACEITEM\face_F02000.txt,,6,112,0,0,1,40,2713,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC200
+Grandad Beard,FACEITEM\face_F02010.txt,,,113,1000,1,1,40,44,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC201
+Blue Tribal Mask,FACEITEM\face_F02020.txt,,,111,1000,1,1,40,3048,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC202
+White Santa Beard,FACEITEM\face_F02010.txt,,,113,1000,1,1,40,7731,247,579,,,,,,,,,,,,,,,,,,25,,,,,,,,,,LFAC203
+Fake Spectacles,FACEITEM\face_F02040.txt,,6,112,10000,1,1,40,2386,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC204
+Iron Googles,FACEITEM\face_F02050.txt,,6,112,10000,1,3,40,2385,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC205
+Censorship Mask,FACEITEM\face_F0206.txt,,6,112,10000,1,1,40,3086,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC206
+Einstein Spectacles,FACEITEM\face_F0207.txt,,6,112,10000,1,1,40,3089,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC207
+Rose Spectacles,FACEITEM\face_F0208.txt,,6,112,10000,1,1,40,2386,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC208
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skeleton Mask,FACEITEM\faceitem_halloween_monster_light_green.txt,FACEITEM\faceitem_halloween_monster_light_green.txt,,111,0,0,2,0,6510,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC210
+Devil Mask,FACEITEM\faceitem_halloween_monster_red.txt,FACEITEM\faceitem_halloween_monster_red.txt,,111,0,0,2,0,6523,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC211
+Frankenstein Mask,FACEITEM\faceitem_halloween_monster_green.txt,FACEITEM\faceitem_halloween_monster_green.txt,,111,0,0,2,0,6536,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC212
+Voodoo Mask,FACEITEM\faceitem_halloween_monster_black.txt,FACEITEM\faceitem_halloween_monster_black.txt,,111,0,0,2,0,6549,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC213
+Purple Magician Mask,FACEITEM\faceitem1_dark_magician.txt,FACEITEM\faceitem2_dark_magician.txt,7,111,0,0,2,0,6493,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC214
+Red Magician Mask,FACEITEM\faceitem1_dark_magician_red.txt,FACEITEM\faceitem2_dark_magician_red.txt,7,111,0,0,2,0,6494,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC215
+Good Disguise,FACEITEM\face1_grouchoMask.txt,FACEITEM\face2_grouchoMask.txt,7,111,0,0,2,0,6511,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC216
+Rojo Luchador Mask,FACEITEM\faceitem1_wrestlers_red.txt,FACEITEM\faceitem2_wrestlers_red.txt,7,111,0,0,2,0,6539,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC217
+Verde Luchador Mask,FACEITEM\faceitem1_wrestlers_green.txt,FACEITEM\faceitem2_wrestlers_green.txt,7,111,0,0,2,0,6540,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC218
+Azul Luchador Mask,FACEITEM\faceitem1_wrestlers_blue.txt,FACEITEM\faceitem2_wrestlers_blue.txt,7,111,0,0,2,0,6541,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC219
+Red Jester Mask,FACEITEM\masquerade_jokermask_0422_cr.txt,,7,111,0,0,2,0,5770,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC220
+Blue Jester Mask,FACEITEM\masquerade_jokermask_parple_0422_cr.txt,,7,111,0,0,2,0,5770,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC221
+Lala Power Mask,FACEITEM\masquerade_jokermask_parple_0422_cr.txt,,6,111,0,0,2,0,7235,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC222
+Lala Tech Glasses,FACEITEM\masquerade_jokermask_parple_0422_cr.txt,,6,111,0,0,2,0,7239,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC223
+Frog Mask,FACEITEM\faceitem1_wrestlers_red.txt,FACEITEM\faceitem2_wrestlers_red.txt,7,111,0,0,2,0,7394,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC224
+Pet Mask,FACEITEM\faceitem1_wrestlers_red.txt,FACEITEM\faceitem2_wrestlers_red.txt,7,111,0,0,2,0,7400,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC225
+Masquerade Mask,FACEITEM\faceitem1_wrestlers_red.txt,FACEITEM\faceitem2_wrestlers_red.txt,7,111,0,0,2,0,7401,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC226
+Rose Glasses,FACEITEM\faceitem1_wrestlers_red.txt,FACEITEM\faceitem2_wrestlers_red.txt,7,112,0,0,1,0,7402,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC227
+Rose Veil,FACEITEM\faceitem1_wrestlers_red.txt,FACEITEM\faceitem2_wrestlers_red.txt,7,113,0,0,2,0,7403,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC228
+Skull Bandana,FACEITEM\faceitem1_wrestlers_red.txt,FACEITEM\faceitem2_wrestlers_red.txt,7,111,0,0,1,0,2605,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC229
+Plague Doctor Mask,FACEITEM\faceitem1_wrestlers_red.txt,FACEITEM\faceitem2_wrestlers_red.txt,7,111,0,0,3,0,2637,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC230
+Purple Veil,FACEITEM\faceitem1_wrestlers_red.txt,FACEITEM\faceitem2_wrestlers_red.txt,7,113,0,0,2,0,3515,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC231
+Mummy Mask,FACEITEM\faceitem_halloween_monster_red.txt,FACEITEM\faceitem_halloween_monster_red.txt,,111,0,0,2,0,5148,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC232
+Witch's Nose & Chin,FACEITEM\faceitem_halloween_monster_red.txt,FACEITEM\faceitem_halloween_monster_red.txt,,111,0,0,2,0,5150,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC233
+Chinese Beard,FACEITEM\faceitem1_wrestlers_red.txt,FACEITEM\faceitem2_wrestlers_red.txt,7,113,0,0,1,0,5171,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC234
+Black Plague Doctor Mask,FACEITEM\faceitem1_wrestlers_red.txt,FACEITEM\faceitem2_wrestlers_red.txt,7,111,0,0,3,0,5172,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC235
+Face Scars,FACEITEM\triple_scar_m_red_1124_cr.txt,FACEITEM\faceitem2_wrestlers_red.txt,7,113,0,0,1,0,7787,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC236
+Kissed Cheeks,FACEITEM\faceitem_halloween_monster_red.txt,FACEITEM\faceitem_halloween_monster_red.txt,,113,0,0,1,0,7837,247,579,,,,,,,,,,,,,,,,,,25,,1,1,,,,,,,LFAC237
+Baby Soother,FACEITEM\faceitem1_wrestlers_red.txt,FACEITEM\faceitem2_wrestlers_red.txt,7,113,0,0,1,0,7902,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC238
+fake mouth,FACEITEM\faceitem1_wrestlers_red.txt,FACEITEM\faceitem2_wrestlers_red.txt,7,113,0,0,1,0,7904,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC239
+4-Leaf Clover,FACEITEM\fourcloverOrsomething.txt,FACEITEM\fourcloverOrsomething.txt,6,111,0,5,1,40,3420,247,579,,,,,,,,,,,,,15,10,,,,75,,3,3,,,,,,,LFAC240
+Fake Eye Glasses,FACEITEM\faceitem1_wrestlers_red.txt,FACEITEM\faceitem2_wrestlers_red.txt,7,112,0,0,1,0,7905,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC241
+Teiwez Mask,,,,111,146626,5,3,50,2444,247,579,19,10,445,35,,,,31,163,,,,20,7,,24,10,40,,3,3,,,,,,,LFAC242
+Googly Eye Glasses,FACEITEM\faceitem1_wrestlers_red.txt,FACEITEM\faceitem2_wrestlers_red.txt,7,112,0,0,1,0,7908,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC243
+Black Pirate Cloth,FACEITEM\pirates_dress_face_f_black_0824_cr.txt,FACEITEM\pirates_dress_face_f_black_0824_cr.txt,7,113,0,0,1,0,8006,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC244
+Red Pirate Cloth,FACEITEM\pirates_dress_face_f_black_0824_cr.txt,FACEITEM\pirates_dress_face_f_black_0824_cr.txt,7,113,0,0,1,0,8036,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC245
+Spooky Scarecrow Mask,FACEITEM\faceitem_halloween_monster_red.txt,FACEITEM\faceitem_halloween_monster_red.txt,,111,0,0,1,0,8084,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC246
+Gold Wolf Mask,FACEITEM\pirates_dress_face_f_black_0824_cr.txt,FACEITEM\pirates_dress_face_f_black_0824_cr.txt,7,111,0,0,2,0,8144,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC247
+Silver Wolf Mask,FACEITEM\pirates_dress_face_f_black_0824_cr.txt,FACEITEM\pirates_dress_face_f_black_0824_cr.txt,7,111,0,0,2,0,8145,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC248
+Black Wolf Mask,FACEITEM\pirates_dress_face_f_black_0824_cr.txt,FACEITEM\pirates_dress_face_f_black_0824_cr.txt,7,111,0,0,2,0,8146,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC249
+Blue Masquerade Mask,FACEITEM\faceitem1_wrestlers_red.txt,FACEITEM\faceitem2_wrestlers_red.txt,7,111,0,0,2,0,8160,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC250
+Pink Masquerade Mask,FACEITEM\faceitem1_wrestlers_red.txt,FACEITEM\faceitem2_wrestlers_red.txt,7,111,0,0,2,0,8161,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC251
+Red Beard,FACEITEM\faceitem1_wrestlers_red.txt,FACEITEM\faceitem2_wrestlers_red.txt,7,113,0,0,1,0,8162,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC252
+Toast,FACEITEM\face_toast.txt,FACEITEM\face_toast.txt,7,113,0,0,1,0,8294,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC253
+Toast (Egg),FACEITEM\face_toast_egg.txt,FACEITEM\face_toast_egg.txt,7,113,0,0,1,0,8295,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC254
+Toast (Jam),FACEITEM\face_toast_jam.txt,FACEITEM\face_toast_jam.txt,7,113,0,0,1,0,8296,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC255
+Toast (Butter),FACEITEM\face_toast_butter.txt,FACEITEM\face_toast_butter.txt,7,113,0,0,1,0,8297,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC256
+Blushing Marks,FACEITEM\face_marks_blush.txt,FACEITEM\face_marks_blush.txt,7,113,0,0,1,0,1,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC257
+Shy Marks,FACEITEM\face_marks_shy.txt,FACEITEM\face_marks_shy.txt,7,113,0,0,1,0,1,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC258
+Kissing Marks,FACEITEM\face_marks_kiss.txt,FACEITEM\face_marks_kiss.txt,7,113,0,0,1,0,1,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC259
+Star Marks,FACEITEM\face_marks_star.txt,FACEITEM\face_marks_star.txt,7,113,0,0,1,0,1,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC260
+Soccer Ball Nose,FACEITEM\faceitem_halloween_monster_red.txt,FACEITEM\faceitem_halloween_monster_red.txt,,113,0,0,1,0,8302,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC261
+Black Skull Bandana,FACEITEM\faceitem1_wrestlers_red.txt,FACEITEM\faceitem2_wrestlers_red.txt,7,113,0,0,1,0,8359,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC262
+White Skull Bandana,FACEITEM\faceitem1_wrestlers_red.txt,FACEITEM\faceitem2_wrestlers_red.txt,7,113,0,0,1,0,8360,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC263
+Black Cat Mask,FACEITEM\faceitem1_wrestlers_red.txt,FACEITEM\faceitem2_wrestlers_red.txt,7,111,0,0,1,0,8368,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC264
+Tiger Mask,FACEITEM\faceitem1_wrestlers_red.txt,FACEITEM\faceitem2_wrestlers_red.txt,7,111,0,0,1,0,8369,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC265
+Phantom Thief Mask,FACEITEM\faceitem1_wrestlers_red.txt,FACEITEM\faceitem2_wrestlers_red.txt,7,111,0,0,1,0,8420,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC266
+White Rose Earrings,,,7,113,0,0,1,0,8479,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC267
+Silver Monocle,,,7,113,0,0,1,0,8480,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC268
+Gold Pirate Cloth,,,7,113,0,0,1,0,8538,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC269
+Rose Earrings,,,7,113,0,0,1,0,2780,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC270
+Phantom Burglar Mask,,,7,111,0,0,1,0,3582,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC271
+Forest Dweller Frame,,,7,111,0,0,1,0,3598,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC272
+Forest Dweller Frame,,,7,111,0,0,1,0,3598,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC273
+Blindfold,,,7,111,0,0,1,0,3586,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC274
+Black Clan Gowl,,,6,111,0,0,1,0,3586,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC275
+Blue Clan Gowl,,,6,111,0,0,1,0,3586,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC276
+Green Clan Gowl,,,6,111,0,0,1,0,3586,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC277
+Pink Clan Gowl,,,6,111,0,0,1,0,3586,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC278
+Purple Clan Gowl,,,6,111,0,0,1,0,3586,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC279
+Red Clan Gowl,,,6,111,0,0,1,0,3586,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC280
+White Clan Gowl,,,6,111,0,0,1,0,3586,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC281
+Yellow Clan Gowl,,,6,111,0,0,1,0,3586,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC282
+Jolly Santa Beard,,,,113,1000,1,1,40,9032,247,579,,,,,,,,,,,,,,,,,,25,,,,,,,,,,LFAC283
+Death Reaper Mask,,,7,111,1000,1,1,40,9249,247,579,,,,,,,,,,,,,,,,,,25,,,,,,,,,,LFAC284
+Saint's Gift,FACEITEM\arua_face_f_0621_wa.txt,,,113,332010,1,1,47,9447,247,579,,,,,,,,31,210,,,,14,10,,18,10,35,,3,3,,,,,,,LFAC285
+Black Hannya Mask,FACEITEM\hannya_black_0818_cr.txt,,,111,0,0,1,0,9448,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC286
+White Devil's Mask,FACEITEM\heavymetal_mask_face_0325_cr.txt,,,111,1115400,1,1,48,9449,247,579,19,10,197,80,,,,140,5,,,,38,170,,27,10,35,,3,3,,,,,,,LFAC287
+Black Devil's Mask,FACEITEM\heavymetal_mask_face_kha_1222_cr.txt,,,111,1115400,1,1,48,9464,247,579,19,10,198,80,,,,140,5,,,,23,100,,24,10,35,,3,3,,,,,,,LFAC288
+Detective Glasses,FACEITEM\conan_faceitem_f_1105.txt,,,112,0,0,1,0,9465,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC289
+Zulie Coin Glasses,,,6,112,0,0,1,0,9566,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC290
+Skull Mask,,,,111,0,0,2,0,9595,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC291
+Discovery Circlet,FACEITEM\ELVES_FACEITEM_M_0409.txt,FACEITEM\ELVES_FACEITEM_M_0409.txt,,113,150000,10,3,35,9828,247,579,,,,,,,,31,140,,,,148,5,,18,5,30,,3,3,,,,,,,LFAC292
+Agitation Circlet,FACEITEM\ELVES_FACEITEM_M_0409.txt,FACEITEM\ELVES_FACEITEM_M_0409.txt,,113,150000,10,3,35,9829,247,579,,,,,,,,31,140,,,,148,5,,24,5,30,,3,3,,,,,,,LFAC293
+Wishing Circlet,FACEITEM\ELVES_FACEITEM_M_0409.txt,FACEITEM\ELVES_FACEITEM_M_0409.txt,,113,150000,10,3,35,9830,247,579,,,,,,,,31,140,,,,149,5,,18,5,30,,3,3,,,,,,,LFAC294
+Freedom Circlet,FACEITEM\ELVES_FACEITEM_M_0409.txt,FACEITEM\ELVES_FACEITEM_M_0409.txt,,113,150000,10,3,35,9831,247,579,,,,,,,,31,140,,,,149,5,,24,5,30,,3,3,,,,,,,LFAC295
+Astonish Circlet,FACEITEM\ELVES_FACEITEM_M_0409.txt,FACEITEM\ELVES_FACEITEM_M_0409.txt,,113,220000,10,3,35,9832,247,579,19,10,184,35,,,,31,150,,,,148,10,,18,10,30,,3,3,,,,,,,LFAC296
+Dream Circlet,FACEITEM\ELVES_FACEITEM_M_0409.txt,FACEITEM\ELVES_FACEITEM_M_0409.txt,,113,220000,10,3,35,9833,247,579,19,10,185,35,,,,31,150,,,,149,10,,24,10,30,,3,3,,,,,,,LFAC297
+Sovereign's Circlet,FACEITEM\ELVES_FACEITEM_M_0409.txt,FACEITEM\ELVES_FACEITEM_M_0409.txt,,113,400000,10,3,35,9834,247,579,19,10,186,30,,,,31,160,,,,148,15,,18,20,30,,3,3,,,,,,,LFAC298
+Blue Mechanical Punk Mask,,,7,111,0,0,1,0,10013,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC299
+Red Mechanical Punk Mask,,,7,111,0,0,1,0,10018,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC300
+Black Crow Masquerade Mask,,,7,111,0,0,1,0,10177,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC301
+Red Crow Masquerade Mask,,,7,111,0,0,1,0,10179,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC302
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gibster's Mask,FACEITEM\faceitem_mask05.txt,FACEITEM\faceitem_mask05.txt,6,111,1000,10,10,40,9932,247,579,,,,,,,,,,,,,,,,,,10,,3,3,,,,,,33,LFAC318
+Organization X Mask,FACEITEM\faceitem_warlock_koh.txt,FACEITEM\faceitem_warlock_koh.txt,6,113,1000,0,10,10,3934,247,579,,,,,,,,,,,,,,,,,,70,,50,50,,,,,,,LFAC319
+Good Disguise,FACEITEM\face1_grouchoMask.txt,FACEITEM\face2_grouchoMask.txt,10,111,0,0,0,0,7150,247,579,,,,,,,,,,,,,,,,,,,,,,,,,,,,LFAC320
+Red Samurai Mask,FACEITEM\faceitem1_samurai.txt,FACEITEM\faceitem2_samurai.txt,10,111,0,0,0,0,7151,247,579,,,,,,,,,,,,,,,,,,,,,,,,,,,,LFAC321
+Blue Samurai Mask,FACEITEM\faceitem1_samurai_blue.txt,FACEITEM\faceitem2_samurai_blue.txt,10,111,0,0,0,0,7152,247,579,,,,,,,,,,,,,,,,,,,,,,,,,,,,LFAC322
+White Samurai Mask,FACEITEM\faceitem1_samurai_white.txt,FACEITEM\faceitem2_samurai_white.txt,10,111,0,0,0,0,7153,247,579,,,,,,,,,,,,,,,,,,,,,,,,,,,,LFAC323
+Black Samurai Mask,FACEITEM\faceitem1_samurai_black.txt,FACEITEM\faceitem2_samurai_black.txt,10,111,0,0,0,0,7154,247,579,,,,,,,,,,,,,,,,,,,,,,,,,,,,LFAC324
+Gold Samurai Mask,FACEITEM\faceitem1_samurai_gold.txt,FACEITEM\faceitem2_samurai_gold.txt,10,111,0,0,0,0,7155,247,579,,,,,,,,,,,,,,,,,,,,,,,,,,,,LFAC325
+Mana Goggle,FACEITEM\faceitem1_machine_glasses.txt,FACEITEM\faceitem2_machine_glasses.txt,10,113,0,0,1,100,7156,247,579,,,,,,,,,,,,,,,,,,,,,,,,,,,,LFAC326
+Sight Altering Bifocals,faceitem\faceitem1_steampunk_alchemist.txt,faceitem\faceitem2_steampunk_alchemist.txt,10,112,0,0,0,0,7157,247,579,,,,,,,,,,,,,,,,,,,,,,,,,,,,LFAC327
+Ocular Safety Goggles,faceitem\faceitem1_steampunk_inventor.txt,faceitem\faceitem2_steampunk_inventor.txt,10,112,0,0,0,0,7158,247,579,,,,,,,,,,,,,,,,,,,,,,,,,,,,LFAC328
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Whiskers,FACEITEM\faceitem1_cat_mask.txt,FACEITEM\faceitem2_cat_mask.txt,6,113,0,0,1,65,5759,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC350
+Sleeping Mask,FACEITEM\face_F0214.txt,FACEITEM\face_F0214.txt,6,111,0,0,1,65,5760,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC351
+Dread Pipe,FACEITEM\pipe.txt,FACEITEM\pipe.txt,7,111,1000,10,2,65,5761,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC352
+Mouth Gas Mask,FACEITEM\faceitem1_gas_mask.txt,FACEITEM\faceitem2_gas_mask.txt,7,111,1000,0,5,42,5762,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC353
+Night Vision Goggles,FACEITEM\faceitem1_night_vision.txt,FACEITEM\faceitem2_night_vision.txt,7,112,1000,0,5,42,5763,247,579,,,,,,,,,,,,,21,12,,,,25,,3,3,,,,,,,LFAC354
+Special Ops Goggles,FACEITEM\faceitem1_night_gas_mask.txt,FACEITEM\faceitem2_night_gas_mask.txt,7,111,1000,0,5,42,5769,247,579,,,,,,,,,,,,,19,12,,,,25,,3,3,,,,,,,LFAC355
+Cow Nose,,,6,113,0,0,1,40,9495,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC356
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Yellow Stunna Shades,FACEITEM\faceitem1_stunna_shades_yellow.txt,FACEITEM\faceitem2_stunna_shades_yellow.txt,7,112,1000,0,3,100,5764,247,579,,,,,,,,,,,,,15,3,,18,12,25,,3,3,,,,,,,LFAC360
+Black Stunna Shades,FACEITEM\faceitem1_stunna_shades_black.txt,FACEITEM\faceitem2_stunna_shades_black.txt,7,112,1000,0,3,100,5765,247,579,,,,,,,,,,,,,13,3,,20,16,25,,3,3,,,,,,,LFAC361
+Blue Stunna Shades,FACEITEM\faceitem1_stunna_shades_blue.txt,FACEITEM\faceitem2_stunna_shades_blue.txt,7,112,1000,0,3,100,5766,247,579,,,,,,,,,,,,,11,3,,26,14,25,,3,3,,,,,,,LFAC362
+Red Stunna Shades,FACEITEM\faceitem1_stunna_shades_red.txt,FACEITEM\faceitem2_stunna_shades_red.txt,7,112,1000,0,3,100,5767,247,579,,,,,,,,,,,,,12,3,,19,18,25,,3,3,,,,,,,LFAC363
+Green Stunna Shades,FACEITEM\faceitem1_stunna_shades_green.txt,FACEITEM\faceitem2_stunna_shades_green.txt,7,112,1000,0,3,100,5768,247,579,,,,,,,,,,,,,14,3,,23,55,25,,3,3,,,,,,,LFAC364
+White Stunna Shades,FACEITEM\faceitem1_stunna_shades_green.txt,FACEITEM\faceitem2_stunna_shades_green.txt,7,112,1000,0,3,100,5795,247,579,,,,,,,,,,,,,10,3,,38,130,25,,3,3,,,,,,,LFAC365
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Black Pirate Eye Patch,FACEITEM\piratePatchBlack.txt,FACEITEM\piratePatchBlack.txt,7,113,1000,10,1,65,5772,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC370
+Green Pirate Eye Patch,FACEITEM\piratePatchGreen.txt,FACEITEM\piratePatchGreen.txt,7,113,1000,10,1,65,5773,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC371
+Purple Pirate Eye Patch,FACEITEM\piratePatchPurple.txt,FACEITEM\piratePatchPurple.txt,7,113,1000,10,1,65,5774,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC372
+Red Pirate Eye Patch,FACEITEM\piratePatchRed.txt,FACEITEM\piratePatchRed.txt,7,113,1000,10,1,65,5775,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC373
+White Pirate Eye Patch,FACEITEM\piratePatchWhite.txt,FACEITEM\piratePatchWhite.txt,7,113,1000,10,1,65,5776,247,579,,,,,,,,,,,,,,,,,,25,,3,3,,,,,,,LFAC374
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Flu Mask,FACEITEM\faceitem_mask03.txt,,13,111,850,10,1,30,1,247,579,,,,,,,,,,,,,,,,,,20,,3,3,,,,,,,LFAC001
+Black Mask,FACEITEM\faceitem_mask04.txt,,13,111,950,10,1,31,2,247,579,,,,,,,,,,,,,,,,,,24,,3,3,,,,,,,LFAC002
+Iron Mask,FACEITEM\faceitem_mask09.txt,,13,111,1400,10,3,37,8,247,580,,,,,,,,,,,,,,,,,,28,,3,3,,,,,,,LFAC008
+Ashura Mask,FACEITEM\faceitem_mask05.txt,,13,111,1700,10,2,40,11,247,579,,,,,,,,,,,,,,,,,,32,,3,3,,,,,,,LFAC011
+Mask of Lies,FACEITEM\faceitem_mask11.txt,,13,111,30000,1,2,42,14,247,580,,,,,,,,,,,,,,,,,,36,,3,3,,,,,,,LFAC013

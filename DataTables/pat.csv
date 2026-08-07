@@ -1,0 +1,322 @@
+Name,Id,IconIdx,Subtype,Quality,BasePrice,PriceRate,FieldItemId,Weight,NeedAbility,NeedValue,AddAbility,AddValue,StatusId,StatusType,StatusPerSec,UseEffect,UseSound,CooldownType,CooldownSec,ScriptIdx,TypeName,StlKey,DisplayName,Description
+pat_1,1,2165,511,30,197000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT001,Wooden Frame,"A basic frame, the first and only one available during the days when the Cart was just invented."
+pat_2,2,2166,511,32,249200,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT002,Wooden Carbon Frame,An upgraded Wooden Frame that has increased stability and higher quality.
+pat_3,3,2167,511,34,307900,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT003,Colmandy Frame,A frame with improved durability with the addition of iron plates.
+pat_4,4,2168,511,36,370400,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT004,Colmanju Frame,An upgraded Colmandy Frame that demonstrates further advances in frame durability.
+pat_5,5,2169,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT005,Sporty Frame,A frame designed by Anthony Motors which opened up the era of racing.
+pat_6,6,2171,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT006,Sporty R Frame,The red version of the popular Cart Frame designed by Anthony Motors.
+pat_7,7,2175,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT301,Green Sporty,The green version of the popular Cart Frame designed by Anthony Motors.
+pat_8,8,2176,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT303,Black Sporty,The black version of the popular Cart Frame designed by Anthony Motors.
+pat_9,9,2276,511,38,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT304,Red Steel Frame,A frame with improved durability with the addition of iron plates.
+pat_10,10,2278,511,38,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT305,Yellow Steel Frame,A frame with improved durability with the addition of iron plates.
+pat_11,11,2297,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT306,Sporty WR Frame,The white and red version of the popular Cart Frame designed by Anthony Motors.
+pat_12,12,2298,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT307,Sporty WB Frame,The white and blue version of the popular Cart Frame designed by Anthony Motors.
+pat_13,13,2299,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT308,Sporty BR Frame,The black and red version of the popular Cart Frame designed by Anthony Motors.
+pat_14,14,2277,511,38,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT309,Blue Steel Frame,A frame with improved durability with the addition of iron plates.
+pat_15,15,2275,511,38,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT310,Green Steel Frame,A frame with improved durability with the addition of iron plates.
+pat_17,17,2275,511,38,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT310,Green Steel Frame,A frame with improved durability with the addition of iron plates.
+pat_21,21,2238,511,30,197000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT021,P.I.G. Frame,"A rotund, portly frame that is blessed with pig's luck."
+pat_31,31,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_32,32,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_50,50,2279,511,40,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT050,Viper WR Frame,A frame that demonstrates further advances in frame durability.
+pat_51,51,2280,511,40,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT051,Viper WB Frame,A frame that demonstrates further advances in frame durability.
+pat_52,52,2281,511,38,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT451,Chaser Engine,A high grade engine designed for the Meister Cart Frame.
+pat_53,53,2208,521,30,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Engine,LPAT451,Chaser Engine,A high grade engine designed for the Meister Cart Frame.
+pat_54,54,2229,531,81,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT055,Metal Wheels,Wheels reinforced with metal.
+pat_55,55,2228,531,83,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT054,Viper Wheels,"An upgraded Metal Wheels, reinforced with rubber which provide better traction."
+pat_56,56,2267,551,30,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT056,WR Steel Backseat,A backseat made of steel with a downy cushion. It's actually quite comfortable.
+pat_57,57,2265,551,30,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT057,Blue Steel Backseat,A backseat made of steel with a downy cushion. It's actually quite comfortable.
+pat_58,58,2264,551,30,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT058,Black Steel Backseat,A backseat made of steel with a downy cushion. It's actually quite comfortable.
+pat_59,59,2211,551,30,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT059,Grey Speed Wing,Aerodynamic Cart accessory that cuts through the wind at high speeds.
+pat_60,60,2213,551,30,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT060,Blue Speed Wing,Aerodynamic Cart accessory that cuts through the wind at high speeds.
+pat_61,61,2212,551,30,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT061,Black Speed Wing,Aerodynamic Cart accessory that cuts through the wind at high speeds.
+pat_62,62,2282,511,38,15000000,10,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT062,Pink Steel Frame,A steel frame decorated in pink.
+pat_63,63,2283,511,38,15000000,10,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT063,Leopard Steel Frame,A steel frame decorated to look like a Leopard.
+pat_64,64,2284,511,46,15000000,10,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT064,Chocolate Sporty,A frame especially made for Valentine's Day.
+pat_65,65,2267,551,30,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT065,Red Steel Backseat,A backseat made of steel with a downy cushion. It's actually quite comfortable.
+pat_66,66,2266,551,30,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT066,Pink Steel Backseat,A backseat made of steel with a downy cushion. It's actually quite comfortable.
+pat_67,67,2214,551,30,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT067,Pink Speed Wing,Aerodynamic Cart accessory that cuts through the wind at high speeds.
+pat_68,68,2285,511,38,15000000,10,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT068,Steel SD Frame,A steel frame covered in small dots.
+pat_69,69,2251,551,30,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT600,Wooden Backseat,A simple backseat made of wood that might make your backside sore if you sit in it for too long.
+pat_70,70,2252,551,30,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT601,Steel Backseat,A backseat made of steel with a downy cushion. It's actually quite comfortable.
+pat_81,81,2165,511,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT081,Photon Body,
+pat_82,82,2204,521,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Cart Engine,LPAT682,,
+pat_83,83,2249,531,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT683,,
+pat_85,85,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_86,86,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_87,87,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_88,88,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_89,89,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_90,90,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_91,91,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_92,92,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_93,93,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_101,101,2204,521,30,116100,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Engine,LPAT101,First Engine,The very first engine designed for Cart use.
+pat_102,102,2205,521,34,151200,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Engine,LPAT102,Second Engine,An improvement of the First Engine that provides more power.
+pat_103,103,2206,521,38,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Engine,LPAT103,Dural Engine,An engine built to emphasize structure and durability.
+pat_104,104,2203,521,42,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Engine,LPAT104,Chase Engine,An engine that emphasizes speed output.
+pat_105,105,2202,521,46,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Engine,LPAT105,Tricky Engine,An engine that emphasizes performance rather than speed.
+pat_106,106,2207,521,50,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Engine,LPAT106,Jet Engine,The greatest engine of this era.
+pat_121,121,2239,521,30,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Engine,LPAT121,P.I.G. Engine,An specially made P.I.G. Cart engine that seems to generate good fortune.
+pat_131,131,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_132,132,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_133,133,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_135,135,2373,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT135,Plus Frame,
+pat_136,136,2373,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT136,Plus Frame,
+pat_137,137,2373,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT137,Police Frame,
+pat_138,138,2373,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT138,Red Cute Frame,
+pat_139,139,6088,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT139,Brown Meister Frame,
+pat_140,140,2373,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT140,GT Frame,
+pat_141,141,2507,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT141,Dog Frame,
+pat_142,142,2373,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT142,Lovely Frame Brown,
+pat_143,143,2373,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT143,Red White Heart Frame,
+pat_144,144,2373,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT144,GT Black Stripe Frame,
+pat_145,145,2373,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT145,GT Black Frame,
+pat_146,146,2373,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT146,GT Pink Stripe Frame,
+pat_147,147,2373,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT147,GT Black Checkered Frame,
+pat_148,148,2373,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT148,GT Blue Checkered Frame,
+pat_149,149,2373,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT149,GT Red Checkered Frame,
+pat_150,150,2373,511,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT150,Aero Body,A Aero Bike Made from ORO
+pat_151,151,2373,102,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Hover Wheel,LPAT151,Aero Engine,A Aero Bike Made from ORO
+pat_152,152,2373,531,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT152,Aero Wheel,A Aero Bike Made from ORO
+pat_153,153,2373,511,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT153,Chaos Body,A Chaos Bike Made from ORO
+pat_154,154,2373,102,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Hover Wheel,LPAT154,Chaos Engine,A Chaos Bike Made from ORO
+pat_155,155,2373,531,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT155,Chaos Wheel,A Chaos Bike Made from ORO
+pat_159,159,2373,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT185,GT Blue Frame,
+pat_160,160,2373,100,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Hover Frame,LPAT150,Aero Body,A Aero Bike Made from ORO
+pat_161,161,2373,100,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Hover Frame,LPAT153,Chaos Body,A Chaos Bike Made from ORO
+pat_165,165,2373,551,50,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT165,Brown GT Spoiler,
+pat_166,166,2373,551,50,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT166,Red Plain GT Spoiler,
+pat_167,167,2373,551,50,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT167,Red w/ Logo GT Spoiler,
+pat_168,168,2373,551,50,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT168,Blue w/ Logo GT Spoiler,
+pat_169,169,2373,551,50,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT169,Yellow GT Spoiler,
+pat_170,170,2373,551,50,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT170,White GT Spoiler,
+pat_171,171,2373,551,50,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT171,Black w/ Logo GT Spoiler,
+pat_172,172,6087,551,50,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT172,Evo GT Spoiler,
+pat_173,173,2373,531,46,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT173,GT Wheels,
+pat_174,174,6086,531,46,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT174,Evo GT Wheels,
+pat_175,175,2373,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT175,GT Red Frame,
+pat_176,176,2373,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT176,GT White Red Frame,
+pat_177,177,2373,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT177,GT White Blue Frame,
+pat_178,178,2373,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT178,GT Yellow Frame,
+pat_179,179,2373,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT179,GT Black Frame,
+pat_180,180,2373,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT180,GT Frame,
+pat_181,181,2373,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT181,GT Frame,
+pat_182,182,6084,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT182,Evo GT Frame,
+pat_183,183,2373,521,50,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Engine,LPAT183,GT Engine,
+pat_184,184,6085,521,50,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Engine,LPAT184,Evo GT Engine,
+pat_185,185,2373,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT185,GT Blue Frame,
+pat_201,201,2230,531,30,112000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT201,Wooden Wheels,Wooden wheels that offer poor durability.
+pat_202,202,2231,531,34,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT202,Carbon Wheels,Wooden wheels reinforced with carbon.
+pat_203,203,2232,531,38,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT203,Rapid Wheels,Wheels that enable faster driving with rubber tires which provide better traction.
+pat_204,204,2233,531,42,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT204,Steel Wheels   ,Steel reinforced wheels.   
+pat_205,205,2233,531,46,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT302,Tomahawk Wheels   ,Tomahawk wheels reinforced with steel.
+pat_206,206,2233,531,46,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT206,Dog Wheels,Dog Wheels
+pat_221,221,2240,531,30,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT221,P.I.G. Wheels,Incredibly constructed P.I.G. Wheels endowed with the speed of the pig.
+pat_231,231,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_232,232,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_240,240,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_241,241,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_242,242,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_261,261,2373,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT261,Black & Blue Stinger Body,An expensive cart model designed by Mello.
+pat_262,262,2373,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT262,Black & Green Stinger Body,An expensive cart model designed by Mello.
+pat_263,263,2373,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT263,Black & Pink Stinger Body,An expensive cart model designed by Mello.
+pat_264,264,2373,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT264,Blue & White Stinger Body,An expensive cart model designed by Mello.
+pat_265,265,2373,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT265,Orange & Black Stinger Body,An expensive cart model designed by Mello.
+pat_266,266,2373,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT266,Pink & White Stinger Body,An expensive cart model designed by Mello.
+pat_267,267,2373,521,50,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Engine,LPAT267,Stinger Engine,An expensive cart model designed by Mello.
+pat_268,268,2373,531,46,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT268,Black & Blue Stinger Wheels,An expensive cart model designed by Mello.
+pat_269,269,2373,531,46,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT269,Black & Green Stinger Wheels,An expensive cart model designed by Mello.
+pat_270,270,2373,531,46,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT270,Black & Pink Stinger Wheels,An expensive cart model designed by Mello.
+pat_271,271,2373,531,46,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT271,Blue & White Stinger Wheels,An expensive cart model designed by Mello.
+pat_272,272,2373,531,46,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT272,Orange & Black Stinger Wheels,An expensive cart model designed by Mello.
+pat_273,273,2373,531,46,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT273,Pink & White Stinger Wheels,An expensive cart model designed by Mello.
+pat_274,274,2373,551,50,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT274,Black & Blue Stinger Spoiler,An expensive cart model designed by Mello.
+pat_275,275,2373,551,50,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT275,Black & Green Stinger Spoiler,An expensive cart model designed by Mello.
+pat_276,276,2373,551,50,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT276,Black & Pink Stinger Spoiler,An expensive cart model designed by Mello.
+pat_277,277,2373,551,50,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT277,Blue & White Stinger Spoiler,An expensive cart model designed by Mello.
+pat_278,278,2373,551,50,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT278,Orange & Black Stinger Spoiler,An expensive cart model designed by Mello.
+pat_279,279,2373,551,50,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT279,Pink & White Stinger Spoiler,An expensive cart model designed by Mello.
+pat_281,281,6127,512,37,15000000,0,246,20,0,0,0,0,0,0,0,0,0,0,0,0,Castle gear Body,LPAT281,Eagle Body,Eagle
+pat_286,286,6128,522,34,5000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Castle gear Engine,LPAT286,Eagle Spirit,Eagle Spirit
+pat_291,291,6130,532,34,5000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Castle gear Leg,LPAT291,Eagle Wings,Eagle Wings
+pat_296,296,6129,552,40,5000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Castle gear Weapon,LPAT296,Eagle Talons,Eagle Talons
+pat_311,311,2249,551,55,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT311,Battle Machine Gun,An exclusive Cart weapon that rapidly fires bullets.
+pat_312,312,2250,551,60,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT312,Battle Launcher,An exclusive Cart weapon that provides the advantage of long distance attack.
+pat_321,321,2241,551,30,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT321,P.I.G Balloon,"P.I.G. Cart accessory that might bring good luck. If it doesn't, then at least it looks cute."
+pat_331,331,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_332,332,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_333,333,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_334,334,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_335,335,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_345,345,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_350,350,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_351,351,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_352,352,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_353,353,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_354,354,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_355,355,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_356,356,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_360,360,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_361,361,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_362,362,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_363,363,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_364,364,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_365,365,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_366,366,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_370,370,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_371,371,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_372,372,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_373,373,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_374,374,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_375,375,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_376,376,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_380,380,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_381,381,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_382,382,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_383,383,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_384,384,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_385,385,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_386,386,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_387,387,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_388,388,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_389,389,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_390,390,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_391,391,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_392,392,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_393,393,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_394,394,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_395,395,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_401,401,6101,551,30,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT401,Spike Wheel,Wheels equipped with spikes for offensive purposes.
+pat_402,402,6104,551,30,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT402,Speed Wing,Aerodynamic Cart accessory that cuts through the wind at high speeds.
+pat_403,403,6102,551,30,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT403,Wind Booster,Basic equipment for Mana Turbo Tuning that allows for enjoyable cruising.
+pat_404,404,6103,551,30,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT404,Jet Booster,High quality booster for professional drivers who desire high speed.
+pat_405,405,6099,551,30,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT405,Sun Roof,Protective covering that blocks the glare of the sun.
+pat_406,406,2237,551,30,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT406,Coal Mine Moldie Sun Roof,A specially designed sunroof to meet the demand of Moldie fans around the world.
+pat_407,407,2224,551,30,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT407,Coal Mine Moldie Sun Roof P,A specially designed sunroof to meet the demand of Moldie fans around the world.
+pat_408,408,6100,551,30,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT408,Red Sun Roof,Protective covering that blocks the glare of the sun.
+pat_409,409,6100,551,30,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Assistant Parts,LPAT409,Black Sun Roof,Protective covering that blocks the glare of the sun.
+pat_421,421,6091,511,40,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT421,Meister W Frame,A classic Cart body painted in a classy white color.
+pat_422,422,6090,511,40,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT422,Meister R Frame,A classic Cart body painted in a regal red color.
+pat_423,423,6089,511,40,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT423,Meister B Frame,A classic Cart body painted in an illustrious black color.
+pat_424,424,6092,511,54,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT424,Meister Y Frame,A classic Cart body painted in a flamboyant yellow color.
+pat_425,425,6093,511,58,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT425,Meister Pink Frame,A classic Cart body painted in a showy pink color.
+pat_426,426,6095,511,62,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT426,Meister Full Gold Frame,A classic Cart body painted in a goldish color.
+pat_427,427,6094,511,66,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT427,Meister Gold Frame,A classic Cart body painted in a goldish color.
+pat_430,430,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_431,431,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_432,432,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_433,433,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_434,434,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_435,435,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_436,436,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_437,437,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_438,438,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_439,439,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_440,440,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_441,441,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_442,442,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_443,443,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_444,444,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_445,445,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_451,451,6085,521,30,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Engine,LPAT451,Chaser Engine,A high grade engine designed for the Meister Cart Frame.
+pat_470,470,6098,531,30,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT470,Meister Gold Wheels,"Classic, high grade wheels designed for the Meister Gold Cart Frame."
+pat_471,471,6097,531,30,15000000,0,246,5,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT471,Meister Wheels,"Classic, high grade wheels designed for the Meister Cart Frame."
+pat_480,480,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_481,481,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_482,482,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_483,483,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_484,484,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_485,485,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_486,486,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_487,487,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_488,488,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_489,489,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_490,490,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_491,491,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_492,492,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_493,493,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_494,494,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_500,500,3734,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT500,Red Caribio,
+pat_501,501,3719,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT501,Panda Cart,
+pat_502,502,2507,100,100,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Hover Frame,LPAT502,Pink Beetle,
+pat_503,503,3721,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT503,Camouflage,
+pat_504,504,3722,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT504,Bumble Bee Cart,
+pat_505,505,3723,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT505,Blue Cart,
+pat_506,506,3724,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT506,Hamster Cart,
+pat_507,507,2507,100,100,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Hover Frame,LPAT507,Hot Rod Cart,
+pat_508,508,3729,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT508,Red Trick Cart,
+pat_509,509,3727,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT509,Jazz Cart,
+pat_510,510,3728,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT510,Green Autobot,
+pat_511,511,3729,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT511,Much Cart,
+pat_512,512,2507,100,100,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Hover Frame,LPAT512,Purple Hot Rod,
+pat_513,513,3732,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT513,Navy Cart,
+pat_514,514,3733,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT514,Jazz Rave Cart,
+pat_515,515,3734,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT515,Orange Cart,
+pat_516,516,3735,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT516,Spiderman Cart,
+pat_517,517,2507,100,100,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Hover Frame,LPAT517,Clown Hot Rod,
+pat_518,518,3737,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT518,Marine Cart,
+pat_519,519,3738,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT519,Blue Police Cart,
+pat_520,520,3739,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT520,Block Monster Cart,
+pat_521,521,3740,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT521,Wolverine Cart,
+pat_522,522,2507,100,100,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Hover Frame,LPAT522,Green Hot Rod,
+pat_523,523,3742,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT523,Golden Army Cart,
+pat_524,524,3744,511,46,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Body,LPAT524,Midnight Cart,
+pat_530,530,3796,531,83,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT530,Black Rims,
+pat_531,531,3797,531,83,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT531,Spike Wheels,
+pat_532,532,2507,102,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Hover Wheel,LPAT532,Pink Rocket Wheels,
+pat_533,533,3800,531,83,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT533,White Gold Wheels,
+pat_534,534,3801,531,83,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT534,Carbon Wood Wheels,
+pat_535,535,3802,531,83,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT535,Snow Spike heels,
+pat_536,536,2507,102,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Hover Wheel,LPAT536,Brown Rocket Wheels,
+pat_537,537,3804,531,83,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT537,Red Carbon Wheels,
+pat_538,538,3805,531,83,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT538,Red Rims,
+pat_539,539,3806,531,83,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT539,Green Rims,
+pat_540,540,3818,531,83,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT540,Purple Spike Wheels,
+pat_541,541,2507,102,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Hover Wheel,LPAT541,Purple Rocket Wheels,
+pat_542,542,3810,531,83,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT542,Silver Rims,
+pat_543,543,3805,531,83,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT543,Blood Rims,
+pat_544,544,3812,531,83,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT544,White Carbon Wheels,
+pat_545,545,3813,531,83,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT545,Red and Blue Spike Wheels,
+pat_546,546,2507,102,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Hover Wheel,LPAT546,Neon Green Rocket,
+pat_547,547,3815,531,83,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT547,Blue Carbon Wheels,
+pat_548,548,3816,531,83,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT548,Diamond Rims,
+pat_549,549,3817,531,83,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT549,Silver Pink Wheels,
+pat_550,550,3807,531,83,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT550,Blue Spike Wheels,
+pat_551,551,2507,102,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Hover Wheel,LPAT551,Orange Rocket Wheels,
+pat_552,552,3820,531,83,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT552,Golden Wheels,
+pat_553,553,3822,531,83,15000000,0,246,10,0,0,0,0,0,0,0,0,0,0,0,0,Cart Wheel,LPAT553,Flat Black Wheels,
+pat_560,560,6085,521,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Cart Engine,LPAT560,V8 engine,
+pat_561,561,6085,521,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Cart Engine,LPAT560,V8 engine,
+pat_581,581,6110,100,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Hover Frame,LPAT581,Hoverbike XJ1 (Pink),
+pat_582,582,6113,100,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Hover Frame,LPAT582,Hoverbike XJ1 (Black),
+pat_583,583,6111,101,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Hover Engine,LPAT583,Hoverbike XJ1 Engine,
+pat_584,584,6112,102,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Hover Wheel,LPAT584,Hoverbike XJ1 Mobility Unit,
+pat_585,585,6114,100,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Hover Frame,LPAT585,Hoverbike XZ1 (Orange),
+pat_586,586,6117,100,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Hover Frame,LPAT586,Hoverbike XZ1 (White),
+pat_587,587,6115,101,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Hover Engine,LPAT587,Hoverbike XZ1 Engine,
+pat_588,588,6116,102,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Hover Wheel,LPAT588,Hoverbike XZ1 Mobility Unit,
+pat_589,589,6119,100,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Hover Frame,LPAT589,Hoverbike XG1 (Purple),
+pat_590,590,6121,100,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Hover Frame,LPAT590,Hoverbike XG1 (Yellow),
+pat_591,591,6120,100,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Hover Frame,LPAT591,Hoverbike XG1 (Red),
+pat_592,592,6118,100,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Hover Frame,LPAT592,Hoverbike XG1 (Green),
+pat_593,593,6115,101,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Hover Engine,LPAT593,Hoverbike XZ1 Engine,
+pat_594,594,6116,102,100,15000000,0,246,1,0,0,0,0,0,0,0,0,0,0,0,0,Hover Wheel,LPAT594,Hoverbike XZ1 Mobility Unit,
+pat_600,600,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_601,601,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_602,602,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_603,603,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_604,604,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_605,605,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_606,606,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_607,607,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_608,608,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_609,609,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_610,610,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_611,611,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_612,612,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_613,613,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_614,614,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_615,615,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_616,616,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+pat_617,617,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,

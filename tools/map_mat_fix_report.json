@@ -1,0 +1,16 @@
+{
+ "zone": "JPT01",
+ "fixed": 232,
+ "skipped": [],
+ "classes": {
+  "MaterialInstanceConstant": 232
+ },
+ "modes": {
+  "OPAQUE": 35,
+  "BLEND": 34,
+  "MASK": 163
+ },
+ "before": {
+  "M_GLTF/<BlendMode.BLEND_OPAQUE: 0> two_sided=False": 232
+ }
+}

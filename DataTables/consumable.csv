@@ -1,0 +1,805 @@
+Name,Id,IconIdx,Subtype,Quality,BasePrice,PriceRate,FieldItemId,Weight,NeedAbility,NeedValue,AddAbility,AddValue,StatusId,StatusType,StatusPerSec,UseEffect,UseSound,CooldownType,CooldownSec,ScriptIdx,TypeName,StlKey,DisplayName,Description
+consumable_0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,11????,
+consumable_1,1,1586,311,30,100,1,110,1,0,0,16,200,2,1,76,140,548,10,0,0,Medicine,LUSE001,Health Vial (S),Potion that slowly restores HP.
+consumable_2,2,1586,311,30,220,2,111,1,0,0,16,400,2,1,76,140,548,10,0,0,Medicine,LUSE002,Health Vial (M),Potion that slowly restores HP.
+consumable_3,3,1586,311,30,480,3,112,1,0,0,16,800,2,1,76,140,548,10,0,0,Medicine,LUSE003,Health Vial (L),Potion that slowly restores HP.
+consumable_4,4,1587,311,50,270,2,118,1,0,0,16,300,3,1,140,140,548,10,0,0,Medicine,LUSE004,Health Bottle (S),Medicine that restores HP at a slightly rapid rate.
+consumable_5,5,1587,311,50,570,3,119,1,0,0,16,600,3,1,140,140,548,10,0,0,Medicine,LUSE005,Health Bottle (M),Medicine that restores HP at a slightly rapid rate.
+consumable_6,6,1587,311,50,1000,4,120,1,0,0,16,1000,3,1,140,140,548,0,0,0,Medicine,LUSE006,Health Bottle (L),Medicine that restores HP at a slightly rapid rate.
+consumable_7,7,1588,311,30,175,2,118,1,0,0,16,500,1,1,30,140,547,0,0,0,Medicine,LUSE007,Herbal Medicine (S),Medicine that restores HP slowly.
+consumable_8,8,1588,311,30,263,2,118,1,0,0,16,700,1,1,30,140,547,0,0,0,Medicine,LUSE008,Herbal Medicine (M),Medicine that restores HP slowly.
+consumable_9,9,1588,311,30,400,3,118,1,0,0,16,1000,1,1,30,140,547,0,0,0,Medicine,LUSE009,Herbal Medicine (L),Medicine that restores HP slowly.
+consumable_10,10,1589,311,70,450,1,118,1,0,0,16,250,0,0,0,140,548,0,0,0,Medicine,LUSE010,Vital Water (S),Mysterious water that rapidly restores HP.
+consumable_11,11,1589,311,75,950,1,118,1,0,0,16,500,0,0,0,140,548,0,0,0,Medicine,LUSE011,Vital Water (M),Mysterious water that rapidly restores HP.
+consumable_12,12,1589,311,80,1200,1,118,1,0,0,16,750,0,0,0,140,548,0,0,0,Medicine,LUSE012,Vital Water (L),Mysterious water that rapidly restores HP.
+consumable_13,13,1589,311,85,1600,1,118,1,0,0,16,1000,0,0,0,140,548,0,0,0,Medicine,LUSE013,Vital Water (XL),Mysterious water that rapidly restores HP.
+consumable_14,14,1589,311,90,2000,1,118,1,0,0,16,1300,0,0,0,140,548,0,0,0,Medicine,LUSE014,Vigor Water,Mysterious water that rapidly restores HP.
+consumable_15,15,1589,311,90,2600,1,118,1,0,0,16,1600,0,0,0,140,548,0,0,0,Medicine,LUSE015,Vigor Water (XL),Mysterious water that rapidly restores HP.
+consumable_19,19,1590,311,90,9000,0,118,1,0,0,16,2000,0,0,0,140,548,0,0,0,Medicine,LUSE019,Red Pill,A strange medicine that rapidly restores HP.
+consumable_21,21,1591,311,30,150,1,113,1,0,0,17,150,5,2,30,140,548,0,0,0,Medicine,LUSE021,Mana Vial (S),A potion that slowly restores MP.
+consumable_22,22,1591,311,30,330,2,114,1,0,0,17,300,5,2,30,140,548,0,0,0,Medicine,LUSE022,Mana Vial (M),A potion that slowly restores MP.
+consumable_23,23,1591,311,30,600,3,115,1,0,0,17,500,5,2,30,140,548,0,0,0,Medicine,LUSE023,Mana Vial (L),A potion that slowly restores MP.
+consumable_24,24,1592,311,50,300,2,121,1,0,0,17,200,6,2,70,140,548,0,0,0,Medicine,LUSE024,Mana Bottle (S),A potion that restores MP at a slightly rapid rate.
+consumable_25,25,1592,311,50,640,3,122,1,0,0,17,400,6,2,70,140,548,0,0,0,Medicine,LUSE025,Mana Bottle (M),A potion that restores MP at a slightly rapid rate.
+consumable_26,26,1592,311,50,1190,4,123,1,0,0,17,700,6,2,70,140,548,0,0,0,Medicine,LUSE026,Mana Bottle (L),A potion that restores MP at a slightly rapid rate.
+consumable_27,27,1593,311,60,100,3,115,1,0,0,17,50,0,0,0,140,547,0,0,0,Medicine,LUSE027,Silver Pilules,A single dose of small pills that rapidly restores MP.
+consumable_28,28,1594,311,65,220,4,121,1,0,0,17,100,0,0,0,140,547,0,0,0,Medicine,LUSE028,Golden Pilules,A single dose of small pills that rapidly restores MP.
+consumable_29,29,1595,311,70,500,1,121,1,0,0,17,200,0,0,0,140,548,0,0,0,Medicine,LUSE029,Spiritual Water (S),Water from a nymph that rapidly restores MP.
+consumable_30,30,1595,311,75,800,1,121,1,0,0,17,400,0,0,0,140,548,0,0,0,Medicine,LUSE030,Spiritual Water (M),Water from a nymph that rapidly restores MP.
+consumable_31,31,1595,311,80,1200,1,121,1,0,0,17,600,0,0,0,140,548,0,0,0,Medicine,LUSE031,Spiritual Water (L),Water from a nymph that rapidly restores MP.
+consumable_32,32,1595,311,85,1500,1,121,1,0,0,17,800,0,0,0,140,548,0,0,0,Medicine,LUSE032,Spiritual Water (XL),Water from a nymph that rapidly restores MP.
+consumable_33,33,1595,311,90,1800,1,121,1,0,0,17,1200,0,0,0,140,548,0,0,0,Medicine,LUSE033,Astral Water,Water from a nymph that rapidly restores MP.
+consumable_39,39,1596,311,90,9000,0,118,1,0,0,17,2000,0,0,0,140,548,0,0,0,Medicine,LUSE039,Blue Pill,A strange medicine that rapidly recovers MP.
+consumable_41,41,1599,311,30,50,2,116,1,0,0,16,100,2,1,76,140,548,0,0,0,Medicine,LUSE041,Flanae Root,A root that will help you recover a little bit of HP. Can only be obtained from monsters.
+consumable_42,42,1600,311,40,110,2,124,1,0,0,16,200,2,1,76,140,548,0,0,0,Medicine,LUSE042,Tree Sap,Eating this sap will restore a little bit of your HP. Can only be obtained from monsters.
+consumable_43,43,1601,311,50,210,2,125,1,0,0,17,200,5,2,30,140,548,0,0,0,Medicine,LUSE043,Royal Jelly,Eating this Jelly will recover a little of your MP. Can only be obtained from monsters.
+consumable_44,44,1601,312,50,140,5,141,1,0,0,17,100,6,2,70,140,547,0,0,0,Food,LUSE044,Sweet Honey,Honey with high sugar content. Can only be obtained from bees.
+consumable_45,45,44,311,70,0,2,125,1,0,0,0,0,0,0,0,140,548,0,0,0,Medicine,,,
+consumable_46,46,44,311,80,0,2,117,1,0,0,0,0,0,0,0,140,548,0,0,0,Medicine,,,
+consumable_47,47,44,311,90,0,2,126,1,0,0,0,0,0,0,0,140,548,0,0,0,Medicine,,,
+consumable_48,48,44,311,10,0,2,131,1,0,0,0,0,0,0,0,140,548,0,0,0,Medicine,,,
+consumable_49,49,44,311,20,0,2,127,1,0,0,0,0,0,0,0,140,548,0,0,0,Medicine,,,
+consumable_50,50,44,311,30,0,2,128,1,0,0,0,0,0,0,0,140,547,0,0,0,Medicine,,,
+consumable_51,51,1602,311,10,2000,1,117,1,0,0,37,1,0,0,0,140,548,0,0,0,Medicine,LUSE051,Mana Jam (+1),You can gain 1 Skill Point from the power of this Mana Jam.
+consumable_52,52,1602,311,20,4000,1,117,1,0,0,37,2,0,0,0,140,548,0,0,0,Medicine,LUSE052,Mana Jam (+2),You can gain 2 Skill Points from the power of this Mana Jam.
+consumable_53,53,1602,311,30,10000,1,117,1,0,0,37,5,0,0,0,140,548,0,0,0,Medicine,LUSE053,Mana Jam (+5),You can gain 5 Skill Points from the power of this Mana Jam.
+consumable_54,54,1602,311,40,20000,1,117,1,0,0,37,10,0,0,0,140,548,0,0,0,Medicine,LUSE054,Mana Jam (+10),You can gain 10 Skill Points from the power of this Mana Jam.
+consumable_55,55,1602,311,50,40000,1,117,1,0,0,37,20,0,0,0,140,548,0,0,0,Medicine,LUSE055,Mana Jam (+20),You can gain 20 Skill Points from the power of this Mana Jam.
+consumable_56,56,1603,311,10,15000,1,116,1,0,0,76,100,0,0,0,140,548,0,0,0,Medicine,LUSE056,Vital Jam (+1),You can get 100 Stamina Points from the power of this Vital Jam.
+consumable_57,57,1603,311,20,248,1,116,1,0,0,76,200,0,0,0,140,548,0,0,0,Medicine,LUSE057,Vital Jam (+2),You can get 200 Stamina Points from the power of this Vital Jam.
+consumable_58,58,1603,311,30,640,1,116,1,0,0,76,500,0,0,0,140,548,0,0,0,Medicine,LUSE058,Vital Jam (+5),You can get 500 Stamina Points from the power of this Vital Jam.
+consumable_59,59,1603,311,40,1360,1,116,1,0,0,76,1000,0,0,0,140,548,0,0,0,Medicine,LUSE059,Vital Jam (+10),"You can get 1,000 Stamina Points from the power of this Vital Jam."
+consumable_60,60,1603,311,50,300000,1,116,1,0,0,76,2000,0,0,0,140,548,0,0,0,Medicine,LUSE060,Vital Jam (+20),"You can get 2,000 Stamina Points from the power of this Vital Jam."
+consumable_63,63,1714,314,0,200000,0,871,0,0,0,0,1635,0,0,0,140,548,0,0,0,Book of Skill,LUSE1006,heart heart,
+consumable_65,65,1714,314,0,200000,0,211,0,0,0,0,710,0,0,0,0,548,0,0,0,Book of Skill,LUSE065,Unlock the hidden power,?
+consumable_66,66,1714,314,0,200000,0,211,0,0,0,0,711,0,0,0,0,548,0,0,0,Book of Skill,LUSE066,Unlock the hidden power 26,?
+consumable_67,67,1714,314,0,200000,0,211,0,0,0,0,712,0,0,0,0,548,0,0,0,Book of Skill,LUSE067,Unlock the hidden power 25,?
+consumable_68,68,1714,314,0,200000,0,211,0,0,0,0,713,0,0,0,0,548,0,0,0,Book of Skill,LUSE068,Unlock the hidden power 24,?
+consumable_69,69,1714,314,0,200000,0,211,0,0,0,0,714,0,0,0,0,548,0,0,0,Book of Skill,LUSE069,Unlock the hidden power 23,?
+consumable_70,70,1714,314,0,200000,0,211,0,0,0,0,715,0,0,0,0,548,0,0,0,Book of Skill,LUSE070,Unlock the hidden power 22,?
+consumable_71,71,1714,314,0,200000,0,211,0,0,0,0,716,0,0,0,0,548,0,0,0,Book of Skill,LUSE071,Unlock the hidden power 21,?
+consumable_72,72,1714,314,0,200000,0,211,0,0,0,0,717,0,0,0,0,548,0,0,0,Book of Skill,LUSE072,Unlock the hidden power 20,?
+consumable_73,73,1714,314,0,200000,0,211,0,0,0,0,718,0,0,0,0,548,0,0,0,Book of Skill,LUSE073,Unlock the hidden power 19,?
+consumable_74,74,1714,314,0,200000,0,211,0,0,0,0,719,0,0,0,0,548,0,0,0,Book of Skill,LUSE074,Unlock the hidden power 18,?
+consumable_75,75,1714,314,0,200000,0,211,0,0,0,0,720,0,0,0,0,548,0,0,0,Book of Skill,LUSE075,Unlock the hidden power 17,?
+consumable_76,76,1714,314,0,200000,0,211,0,0,0,0,721,0,0,0,0,548,0,0,0,Book of Skill,LUSE076,Unlock the hidden power 16,?
+consumable_77,77,1714,314,0,200000,0,211,0,0,0,0,722,0,0,0,0,548,0,0,0,Book of Skill,LUSE077,Unlock the hidden power 15,?
+consumable_78,78,1714,314,0,200000,0,211,0,0,0,0,723,0,0,0,0,548,0,0,0,Book of Skill,LUSE078,Unlock the hidden power 14,?
+consumable_79,79,1714,314,0,200000,0,211,0,0,0,0,724,0,0,0,0,548,0,0,0,Book of Skill,LUSE079,Unlock the hidden power 13,?
+consumable_80,80,1714,314,0,200000,0,211,0,0,0,0,725,0,0,0,0,548,0,0,0,Book of Skill,LUSE080,Unlock the hidden power 12,?
+consumable_81,81,1714,314,0,200000,0,211,0,0,0,0,726,0,0,0,0,548,0,0,0,Book of Skill,LUSE081,Unlock the hidden power 11,?
+consumable_82,82,1714,314,0,200000,0,211,0,0,0,0,727,0,0,0,0,548,0,0,0,Book of Skill,LUSE082,Unlock the hidden power 10,?
+consumable_83,83,1714,314,0,200000,0,211,0,0,0,0,728,0,0,0,0,548,0,0,0,Book of Skill,LUSE083,Unlock the hidden power 9,?
+consumable_84,84,1714,314,0,200000,0,211,0,0,0,0,729,0,0,0,0,548,0,0,0,Book of Skill,LUSE084,Unlock the hidden power 8,?
+consumable_85,85,1714,314,0,200000,0,211,0,0,0,0,730,0,0,0,0,548,0,0,0,Book of Skill,LUSE085,Unlock the hidden power 7,?
+consumable_86,86,1714,314,0,200000,0,211,0,0,0,0,731,0,0,0,0,548,0,0,0,Book of Skill,LUSE086,Unlock the hidden power 6,?
+consumable_87,87,1714,314,0,200000,0,211,0,0,0,0,732,0,0,0,0,548,0,0,0,Book of Skill,LUSE087,Unlock the hidden power 5,?
+consumable_88,88,1714,314,0,200000,0,211,0,0,0,0,733,0,0,0,0,548,0,0,0,Book of Skill,LUSE088,Unlock the hidden power 4,?
+consumable_89,89,1714,314,0,200000,0,211,0,0,0,0,734,0,0,0,0,548,0,0,0,Book of Skill,LUSE089,Unlock the hidden power 3,?
+consumable_90,90,1714,314,0,200000,0,211,0,0,0,0,735,0,0,0,0,548,0,0,0,Book of Skill,LUSE090,Unlock the hidden power 2,?
+consumable_91,91,1714,314,0,200000,0,211,0,0,0,0,736,0,0,0,0,548,0,0,0,Book of Skill,LUSE091,Unlock the hidden power 1,?
+consumable_92,92,1714,314,0,200000,0,211,0,0,0,0,737,0,0,0,0,548,0,0,0,Book of Skill,LUSE092,ETC Weapon Mastery,Unlock the Hidden Power
+consumable_93,93,1714,314,0,200000,0,211,0,0,0,0,738,0,0,0,0,548,0,0,0,Book of Skill,LUSE093,ETC Showcase Mastery,Unlock the Hidden Power
+consumable_94,94,1714,314,0,200000,0,211,0,0,0,0,739,0,0,0,0,548,0,0,0,Book of Skill,LUSE094,ETC Demon Fencing Mastery,Unlock the Hidden Power
+consumable_101,101,1625,312,40,30,1,141,1,0,0,16,100,1,1,30,140,547,0,0,0,Food,LUSE101,Apple,A ripe apple.
+consumable_102,102,1626,312,50,36,1,141,1,0,0,16,120,1,1,30,140,547,0,0,0,Food,LUSE102,Banana,A monkey's banana.
+consumable_103,103,1627,312,90,42,1,141,1,0,0,16,140,1,1,30,140,547,0,0,0,Food,LUSE103,Grapes,Grapes that are often used to make wine.
+consumable_104,104,1628,312,40,48,1,141,1,0,0,16,160,1,1,30,140,547,0,0,0,Food,LUSE104,Kiwi,A brown fuzzy edible fruit with a green sweet pulp.
+consumable_105,105,1629,312,30,54,1,141,1,0,0,16,180,1,1,30,140,547,0,0,0,Food,LUSE105,Orange,"It's like a mandarin orange, but its taste and size are a little different."
+consumable_106,106,1630,312,60,60,1,141,1,0,0,16,200,1,1,30,140,547,0,0,0,Food,LUSE106,Mango,A popular tropical fruit.
+consumable_107,107,1631,312,80,66,1,146,1,0,0,16,220,1,1,30,140,547,0,0,0,Food,LUSE107,Boiled Egg,A bird's egg that has been cooked in boiling water.
+consumable_108,108,1632,312,30,72,1,143,1,0,0,16,240,1,1,30,140,547,0,0,0,Food,LUSE108,Beef Jerky,Dried beef that's flavorless and less than appetizing.
+consumable_109,109,1633,312,20,90,1,143,1,0,0,16,300,1,1,30,140,547,0,0,0,Food,LUSE109,Cooked Meat,Meat that has been grilled to perfection.
+consumable_110,110,1634,312,80,48,1,141,1,0,0,16,160,1,1,30,140,547,0,0,0,Food,LUSE110,Peach,A tasty peach with fuzzy skin.
+consumable_111,111,1635,312,70,42,1,141,1,0,0,16,140,1,1,30,140,547,0,0,0,Food,LUSE111,Strawberry,"A small, red fruit with that is scrumptiously bittersweet."
+consumable_112,112,1636,312,20,60,1,141,1,0,0,16,200,1,1,30,140,547,0,0,0,Food,LUSE112,Tomato,"A fruit, or fruit-vegetable, that is the key to tasty ketchup and pasta sauces."
+consumable_113,113,1638,312,10,84,1,141,1,0,0,16,280,1,1,30,140,547,0,0,0,Food,LUSE113,Plum,A ripe plum. Be careful and don't swallow the seed!
+consumable_114,114,1639,312,90,102,1,145,1,0,0,16,340,1,1,30,140,547,0,0,0,Food,LUSE114,Sandwich,It's an excellent food to enjoy during brunch.
+consumable_115,115,1640,312,10,114,1,145,1,0,0,16,380,1,1,30,140,547,0,0,0,Food,LUSE115,Hamburger,One of those foods that can lead to weight problems. Control yourself!
+consumable_116,116,1641,312,40,108,1,143,1,0,0,16,360,1,1,30,140,547,0,0,0,Food,LUSE116,Sausage,A delicious sausage that's great for parties.
+consumable_117,117,1642,312,50,90,1,143,1,0,0,16,300,1,1,30,140,547,0,0,0,Food,LUSE117,Meatball,Ground meat that's been conveniently rolled into a ball.
+consumable_118,118,1643,312,60,60,1,145,1,0,0,16,200,1,1,30,140,547,0,0,0,Food,LUSE118,Silver Carp Shaped Bread,"A piece of bread shaped like a fish, yet has absolutely nothing to do with silver carp."
+consumable_119,119,1644,312,70,100,1,145,1,0,0,16,200,1,1,30,140,547,0,0,0,Food,LUSE119,Banana Bread,Banana shaped bread that actually contains banana.
+consumable_120,120,1617,312,50,30,2,144,1,0,0,17,60,4,2,16,140,547,0,0,0,Food,LUSE120,Milk,It does a body great.
+consumable_121,121,1619,312,60,40,2,144,1,0,0,17,80,4,2,16,140,547,0,0,0,Food,LUSE121,Banana Milk,Banana flavored milk.
+consumable_122,122,1618,312,60,50,2,144,1,0,0,17,100,4,2,16,140,547,0,0,0,Food,LUSE122,Strawberry Flavored Milk,Strawberries and milk that does a body decently.
+consumable_123,123,1620,312,50,60,2,144,1,0,0,17,120,4,2,16,140,547,0,0,0,Food,LUSE123,Apple Juice,Fresh juice made from the crispiest of apples.
+consumable_124,124,1621,312,10,70,2,144,1,0,0,17,140,4,2,16,140,547,0,0,0,Food,LUSE124,Grape Juice,Fresh juice made from the plumpest of grapes.
+consumable_125,125,1622,312,30,80,2,144,1,0,0,17,160,4,2,16,140,547,0,0,0,Food,LUSE125,Orange Juice,Fresh juice made from the most luscious oranges.
+consumable_126,126,1623,312,70,70,2,144,1,0,0,17,140,4,2,16,140,547,0,0,0,Food,LUSE126,Mango Juice,Fresh juice made from the sweetest of mangos.
+consumable_127,127,1623,312,40,80,2,144,1,0,0,17,160,4,2,16,140,547,0,0,0,Food,LUSE127,Kiwi Juice,Fresh juice made from the most tantalizing kiwis.
+consumable_128,128,1623,312,60,50,2,144,1,0,0,17,100,4,2,16,140,547,0,0,0,Food,LUSE128,Banana Juice,Fresh juice made from the finest bananas.
+consumable_129,129,1623,312,80,50,2,144,1,0,0,17,100,4,2,16,140,547,0,0,0,Food,LUSE129,Strawberry Juice,Fresh juice made from the ripest of strawberries.
+consumable_130,130,1623,312,90,50,2,144,1,0,0,17,100,4,2,16,140,547,0,0,0,Food,LUSE130,Peach Juice,Fresh juice made from the most succulent peaches.
+consumable_131,131,1623,312,20,60,2,144,1,0,0,17,120,4,2,16,140,547,0,0,0,Food,LUSE131,Tomato Juice,Fresh juice made from the heartiest of tomatoes.
+consumable_132,132,1651,312,35,130,1,143,1,0,0,16,400,1,1,30,140,547,0,0,0,Food,LUSE132,Ice Cherry,Sweet cherry flavored ice from the planet of Luna.
+consumable_133,133,1652,312,40,195,1,143,1,0,0,16,600,1,1,30,140,547,0,0,0,Food,LUSE133,Crystal Cherry,Sweet cherry flavored ice from the planet of Luna.
+consumable_134,134,1653,312,35,165,2,144,1,0,0,17,300,4,2,16,140,547,0,0,0,Food,LUSE134,Ice Berry,"Sour, grape flavored ice from the planet of Luna."
+consumable_135,135,1654,312,40,220,2,144,1,0,0,17,400,4,2,16,140,547,0,0,0,Food,LUSE135,Crystal Berry,"Sour, grape flavored ice from the planet of Luna."
+consumable_136,136,1660,312,40,245,1,144,1,0,0,16,700,1,1,30,140,547,0,0,0,Food,LUSE136,ShavShav,"With stock of vegetables, it taste good."
+consumable_137,137,1661,312,35,275,2,144,1,0,0,17,500,4,2,16,140,547,0,0,0,Food,LUSE137,PiruKiru,It's made of two spices called Keeru and Peeru.
+consumable_138,138,1662,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+consumable_139,139,1623,311,90,10000,1,118,1,0,0,16,2100,0,0,0,2180,548,0,0,0,Medicine,LUSE139,Vampire's Blood,The blood of a vampire. You must pour this over yourself for its effect to work.
+consumable_141,141,1634,312,60,10000,4,141,1,0,0,16,1000,0,0,0,140,547,0,0,0,Food,LUSE141,Mysterious Fruit,A mysterious fruit from Kenji Beach that is a favorite on Junon.
+consumable_142,142,2052,312,50,150,1,142,1,0,0,16,500,1,1,30,140,547,0,0,0,Food,LUSE142,Rice Cake Soup,Traditional Korean soup made with rice.  It's mouth wateringly delicious and tastes best while it's still hot.
+consumable_144,144,1670,312,55,1750,1,146,2,0,0,16,2000,1,1,30,140,547,0,0,0,Food,LUSE999,Christmas Turkey,"A nice roasted turkey, ideal for Christmas dinner."
+consumable_145,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Champ,
+consumable_151,151,1603,320,0,0,0,132,0,0,0,16,50,0,0,0,140,0,0,0,0,Automatically waste,LUSE151,HP Point (+50),
+consumable_152,152,1603,320,0,0,0,132,0,0,0,16,100,0,0,0,140,0,0,0,0,Automatically waste,LUSE152,HP Point (+100),
+consumable_153,153,1603,320,0,0,0,132,0,0,0,16,200,0,0,0,140,0,0,0,0,Automatically waste,LUSE153,HP Point (+200),
+consumable_154,154,1603,320,0,0,0,132,0,0,0,16,300,0,0,0,140,0,0,0,0,Automatically waste,LUSE154,HP Point (+300),
+consumable_155,155,1603,320,0,0,0,132,0,0,0,16,500,0,0,0,140,0,0,0,0,Automatically waste,LUSE155,HP Point (+500),
+consumable_156,156,1603,320,0,0,0,132,0,0,0,16,700,0,0,0,140,0,0,0,0,Automatically waste,LUSE156,HP Point (+700),
+consumable_157,157,1603,320,0,0,0,132,0,0,0,16,1000,0,0,0,140,0,0,0,0,Automatically waste,LUSE157,HP Point (+1000),
+consumable_158,158,1603,320,0,0,0,132,0,0,0,16,1500,0,0,0,140,0,0,0,0,Automatically waste,LUSE158,HP Point (+1500),
+consumable_159,159,1603,320,0,0,0,132,0,0,0,16,2000,0,0,0,140,0,0,0,0,Automatically waste,LUSE159,HP Point (+2000),
+consumable_160,160,1603,320,0,0,0,132,0,0,0,16,3000,0,0,0,140,0,0,0,0,Automatically waste,LUSE160,HP Point (+3000),
+consumable_161,161,1603,320,0,0,0,133,0,0,0,17,30,0,0,0,140,0,0,0,0,Automatically waste,LUSE161,MP Point (+30),
+consumable_162,162,1603,320,0,0,0,133,0,0,0,17,50,0,0,0,140,0,0,0,0,Automatically waste,LUSE162,MP Point (+50),
+consumable_163,163,1603,320,0,0,0,133,0,0,0,17,100,0,0,0,140,0,0,0,0,Automatically waste,LUSE163,MP Point (+100),
+consumable_164,164,1603,320,0,0,0,133,0,0,0,17,200,0,0,0,140,0,0,0,0,Automatically waste,LUSE164,MP Point (+200),
+consumable_165,165,1603,320,0,0,0,133,0,0,0,17,300,0,0,0,140,0,0,0,0,Automatically waste,LUSE165,MP Point (+300),
+consumable_166,166,1603,320,0,0,0,133,0,0,0,17,500,0,0,0,140,0,0,0,0,Automatically waste,LUSE166,MP Point (+500),
+consumable_167,167,1603,320,0,0,0,133,0,0,0,17,700,0,0,0,140,0,0,0,0,Automatically waste,LUSE167,MP Point (+700),
+consumable_168,168,1603,320,0,0,0,133,0,0,0,17,1000,0,0,0,140,0,0,0,0,Automatically waste,LUSE168,MP Point (+1000),
+consumable_169,169,1603,320,0,0,0,133,0,0,0,17,1500,0,0,0,140,0,0,0,0,Automatically waste,LUSE169,MP Point (+1500),
+consumable_170,170,1603,320,0,0,0,133,0,0,0,17,2000,0,0,0,140,0,0,0,0,Automatically waste,LUSE170,MP Point (+2000),
+consumable_171,171,1603,320,0,0,0,134,0,0,0,76,50,0,0,0,140,0,0,0,0,Automatically waste,LUSE171,Stamina (+50),
+consumable_172,172,1603,320,0,0,0,134,0,0,0,76,75,0,0,0,140,0,0,0,0,Automatically waste,LUSE172,Stamina (+75),
+consumable_173,173,1603,320,0,0,0,134,0,0,0,76,100,0,0,0,140,0,0,0,0,Automatically waste,LUSE173,Stamina (+100),
+consumable_174,174,1603,320,0,0,0,134,0,0,0,76,150,0,0,0,140,0,0,0,0,Automatically waste,LUSE174,Stamina (+150),
+consumable_175,175,1603,320,0,0,0,134,0,0,0,76,200,0,0,0,140,0,0,0,0,Automatically waste,LUSE175,Stamina (+200),
+consumable_176,176,1603,320,0,0,0,134,0,0,0,76,300,0,0,0,140,0,0,0,0,Automatically waste,LUSE176,Stamina (+300),
+consumable_177,177,1603,320,0,0,0,134,0,0,0,76,400,0,0,0,140,0,0,0,0,Automatically waste,LUSE177,Stamina (+400),
+consumable_178,178,1603,320,0,0,0,134,0,0,0,76,500,0,0,0,140,0,0,0,0,Automatically waste,LUSE178,Stamina (+500),
+consumable_179,179,1603,320,0,0,0,134,0,0,0,76,700,0,0,0,140,0,0,0,0,Automatically waste,LUSE179,Stamina (+700),
+consumable_180,180,1603,320,0,0,0,134,0,0,0,76,1000,0,0,0,140,0,0,0,0,Automatically waste,LUSE180,Stamina (+1000),
+consumable_181,181,1603,320,0,0,0,134,0,0,0,92,1,0,0,0,140,0,0,0,0,Automatically waste,LUSE181,Clan Point (+1),
+consumable_182,182,1603,320,0,0,0,134,0,0,0,92,2,0,0,0,140,0,0,0,0,Automatically waste,LUSE182,Clan Point (+2),
+consumable_183,183,1603,320,0,0,0,134,0,0,0,92,3,0,0,0,140,0,0,0,0,Automatically waste,LUSE183,Clan Point (+3),
+consumable_184,184,1603,320,0,0,0,134,0,0,0,92,5,0,0,0,140,0,0,0,0,Automatically waste,LUSE184,Clan Point (+5),
+consumable_185,185,1603,320,0,0,0,134,0,0,0,92,7,0,0,0,140,0,0,0,0,Automatically waste,LUSE185,Clan Point (+7),
+consumable_186,186,1603,320,0,0,0,134,0,0,0,92,8,0,0,0,140,0,0,0,0,Automatically waste,LUSE186,Clan Point (+8),
+consumable_187,187,1603,320,0,0,0,134,0,0,0,92,9,0,0,0,140,0,0,0,0,Automatically waste,LUSE187,Clan Point (+9),
+consumable_188,188,1603,320,0,0,0,134,0,0,0,92,11,0,0,0,140,0,0,0,0,Automatically waste,LUSE188,Clan Point (+11),
+consumable_189,189,1603,320,0,0,0,134,0,0,0,92,13,0,0,0,140,0,0,0,0,Automatically waste,LUSE189,Clan Point (+13),
+consumable_190,190,1603,320,0,0,0,134,0,0,0,92,15,0,0,0,140,0,0,0,0,Automatically waste,LUSE190,Clan Point (+15),
+consumable_192,192,1603,320,0,0,0,134,0,0,0,92,5000,0,0,0,140,0,0,0,0,Automatically waste,LUSE195,"Clan Point (+5,000)",
+consumable_193,193,1603,320,0,0,0,134,0,0,0,92,50000,0,0,0,140,0,0,0,0,Automatically waste,LUSE195,"Clan Point (+50,000)",
+consumable_194,194,1603,320,0,0,0,134,0,0,0,92,1000,0,0,0,140,0,0,0,0,Automatically waste,LUSE195,"Clan Point (+1,000)",
+consumable_195,195,1603,320,0,0,0,134,0,0,0,92,10000,0,0,0,140,0,0,0,0,Automatically waste,LUSE195,"Clan Point (+10,000)",
+consumable_196,196,1603,320,0,0,0,134,0,0,0,40,10000000,0,0,0,140,0,0,0,0,Automatically waste,LUSE196,"Zulie (+10,000,000)",
+consumable_197,197,1603,320,0,0,0,134,0,0,0,40,20000000,0,0,0,140,0,0,0,0,Automatically waste,LUSE197,"Zulie (+20,000,000)",
+consumable_198,198,1603,320,0,0,0,134,0,0,0,40,50000000,0,0,0,140,0,0,0,0,Automatically waste,LUSE198,"Zulie (+50,000,000)",
+consumable_199,199,1603,320,0,0,0,134,0,0,0,40,100000000,0,0,0,140,0,0,0,0,Automatically waste,LUSE199,"Zulie (+100,000,000)",
+consumable_200,200,1603,320,0,0,0,134,0,0,0,40,500000000,0,0,0,140,0,0,0,0,Automatically waste,LUSE200,"Zulie (+500,000,000)",
+consumable_202,202,1603,320,0,0,0,134,0,0,0,10,1,0,0,0,140,0,0,0,0,Automatically waste,LUSE202,STR (+1),
+consumable_203,203,1603,320,0,0,0,134,0,0,0,11,1,0,0,0,140,0,0,0,0,Automatically waste,LUSE203,DEX (+1),
+consumable_204,204,1603,320,0,0,0,134,0,0,0,12,1,0,0,0,140,0,0,0,0,Automatically waste,LUSE204,INT  (+1),
+consumable_205,205,1603,320,0,0,0,134,0,0,0,13,1,0,0,0,140,0,0,0,0,Automatically waste,LUSE205,CON (+1),
+consumable_206,206,1603,320,0,0,0,134,0,0,0,14,1,0,0,0,140,0,0,0,0,Automatically waste,LUSE206,CHA (+1),
+consumable_207,207,1603,320,0,0,0,134,0,0,0,15,1,0,0,0,140,0,0,0,0,Automatically waste,LUSE207,SEN (+1),
+consumable_212,212,1603,320,0,0,0,134,0,0,0,90,1000,0,0,0,140,0,0,0,0,Automatically waste,LUSE195,10,
+consumable_213,213,1603,320,0,0,0,134,0,0,0,89,1000,0,0,0,140,0,0,0,0,Automatically waste,LUSE195,9,
+consumable_214,214,1603,320,0,0,0,134,0,0,0,88,1000,0,0,0,140,0,0,0,0,Automatically waste,LUSE195,8,
+consumable_215,215,1603,320,0,0,0,134,0,0,0,87,1000,0,0,0,140,0,0,0,0,Automatically waste,LUSE195,7,
+consumable_216,216,1603,320,0,0,0,134,0,0,0,86,1000,0,0,0,140,0,0,0,0,Automatically waste,LUSE195,6,
+consumable_218,218,1603,320,0,0,0,134,0,0,0,85,1000,0,0,0,140,0,0,0,0,Automatically waste,LUSE195,5,
+consumable_219,219,1603,320,0,0,0,134,0,0,0,82,1000,0,0,0,140,0,0,0,0,Automatically waste,LUSE195,2,
+consumable_220,220,1603,320,0,0,0,134,0,0,0,83,1000,0,0,0,140,0,0,0,0,Automatically waste,LUSE195,3,
+consumable_221,221,1603,320,0,0,0,134,0,0,0,84,1000,0,0,0,140,0,0,0,0,Automatically waste,LUSE195,4,
+consumable_222,222,1603,320,0,0,0,134,0,0,0,81,1000,0,0,0,140,0,0,0,0,Automatically waste,LUSE195,1,
+consumable_291,291,1950,315,50,300,5,130,5,0,0,0,0,0,0,0,0,0,0,0,0,Repair tool,LUSE291,Repair Hammer,Double click the hammer and then select the item you want repaired.
+consumable_292,292,1950,315,60,1000,5,130,5,0,0,0,1,0,0,0,0,0,0,0,0,Repair tool,LUSE292,?????? ???? ????,
+consumable_293,293,2289,317,30,2000,5,117,30,0,0,0,25,0,0,0,0,0,0,0,0,Engine Fuel,LUSE293,Engine Fuel (S),Mana condensed through a special process that will power the Mana Engine. Fills 25% of the fuel capacity.
+consumable_294,294,2290,317,30,4500,5,117,50,0,0,0,50,0,0,0,0,0,0,0,0,Engine Fuel,LUSE294,Engine Fuel (M),Mana condensed through a special process that will power the Mana Engine. Fills 50% of the fuel capacity.
+consumable_295,295,2291,317,30,10000,5,117,90,0,0,0,100,0,0,0,0,0,0,0,0,Engine Fuel,LUSE295,Engine Fuel (L),Mana condensed through a special process that will power the Mana Engine. Fills 100% of the fuel capacity.
+consumable_300,300,1609,313,20,300,5,118,1,0,0,0,3103,0,0,0,0,0,0,0,0,Magic Item,LUSE300,Ghost Potion,Your visual body will be hidden as you turn into a ghost.
+consumable_301,301,1692,313,13,130,5,154,1,0,0,0,3101,0,0,0,0,0,0,0,0,Magic Item,LUSE301,Purify Scroll (Solo),Purifies harmful curse magic cast on its user.
+consumable_302,302,1692,313,14,180,5,153,1,0,0,0,3102,0,0,0,0,0,0,0,0,Magic Item,LUSE302,Detect Scroll (Solo),Enables its user to detect cloaked units for a while.
+consumable_303,303,1692,313,15,230,5,154,1,0,0,0,3103,0,0,0,0,0,0,0,0,Magic Item,LUSE303,Stealth Scroll (Solo),"Enables its user to become temporarily invisible while moving. When attacking enemies, invisibility will be canceled."
+consumable_304,304,1692,313,10,20,5,152,1,0,0,0,3104,0,0,0,0,0,0,0,0,Magic Item,,,
+consumable_305,305,1692,313,10,20,5,152,1,0,0,0,3105,0,0,0,0,0,0,0,0,Magic Item,,,
+consumable_306,306,1027,313,17,340,5,152,1,0,0,0,3106,0,0,0,0,0,0,0,0,Magic Item,LUSE306,HP Scroll (Solo),Increase Maximum HP for 7 minutes.
+consumable_307,307,1028,313,17,340,5,152,1,0,0,0,3107,0,0,0,0,0,0,0,0,Magic Item,LUSE307,MP Scroll (Solo),Increase Maximum MP for 7 minutes.
+consumable_308,308,1029,313,18,410,5,151,1,0,0,0,3108,0,0,0,0,0,0,0,0,Magic Item,LUSE308,Dexterity Scroll (Solo),Increase in Movement Speed and Dodge Rate for 7 minutes.
+consumable_309,309,1030,313,18,460,5,151,1,0,0,0,3109,0,0,0,0,0,0,0,0,Magic Item,LUSE309,Strength Scroll (Solo),Increase in Attack Power and Attack Speed for 7 minutes.
+consumable_310,310,1031,313,18,460,5,151,1,0,0,0,3110,0,0,0,0,0,0,0,0,Magic Item,LUSE310,Defense Scroll (Solo),Increase in Defense and Magic Resistance for 7 minutes.
+consumable_311,311,1032,313,18,460,5,151,1,0,0,0,3111,0,0,0,0,0,0,0,0,Magic Item,LUSE311,Accuracy Scroll (Solo),Increase in Attack Accuracy and Critical hit rate for 7 minutes.
+consumable_312,312,1033,313,18,460,5,151,1,0,0,0,3112,0,0,0,0,0,0,0,0,Magic Item,LUSE312,Damage Scroll (Solo),Inflict 30% additional damage for 7 minutes.
+consumable_313,313,1034,313,20,640,5,152,1,0,0,0,3113,0,0,0,0,0,0,0,0,Magic Item,LUSE313,Advanced HP Scroll (Solo),Increase Maximum HP for 10 minutes.
+consumable_314,314,1035,313,20,640,5,152,1,0,0,0,3114,0,0,0,0,0,0,0,0,Magic Item,LUSE314,Advanced MP Scroll (Solo),Increase Maximum MP for 10 minutes.
+consumable_315,315,1036,313,20,640,5,151,1,0,0,0,3115,0,0,0,0,0,0,0,0,Magic Item,LUSE315,Advanced Dexterity Scroll (Solo),Increase in Movement Speed and Dodge Rate for 10 minutes.
+consumable_316,316,1037,313,23,920,5,151,1,0,0,0,3116,0,0,0,0,0,0,0,0,Magic Item,LUSE316,Advanced Strength Scroll (Solo),Increase in Attack Power and Attack Speed for 10 minutes.
+consumable_317,317,1038,313,23,920,5,151,1,0,0,0,3117,0,0,0,0,0,0,0,0,Magic Item,LUSE317,Advanced Defense Scroll (Solo),Increase in Defense and Magic Resistance for 10 minutes.
+consumable_318,318,1060,313,23,920,5,151,1,0,0,0,3118,0,0,0,0,0,0,0,0,Magic Item,LUSE318,Advanced Accuracy Scroll (Solo),Increase in Attack Accuracy and Critical hit rate for 10 minutes.
+consumable_319,319,1061,313,23,920,5,151,1,0,0,0,3119,0,0,0,0,0,0,0,0,Magic Item,LUSE319,Advanced Damage Scroll (Solo),Inflict 50% additional damage for 10 minutes.
+consumable_320,320,1692,313,10,20,5,151,1,0,0,0,3120,0,0,0,0,0,0,0,0,Magic Item,,,
+consumable_321,321,1664,313,15,230,5,151,1,75,2,0,3121,0,0,0,0,0,0,0,0,Magic Item,LUSE321,Blue Icicle,Target temporarily suffers from reduced Magic Resistance.
+consumable_322,322,1665,313,16,300,5,151,1,75,2,0,3122,0,0,0,0,0,0,0,0,Magic Item,LUSE322,Green Icicle,Target is temporarily poisoned.
+consumable_323,323,1666,313,17,340,5,151,1,75,2,0,3123,0,0,0,0,0,0,0,0,Magic Item,LUSE323,White Icicle,Target is temporarily blocked from using magic spells.
+consumable_326,326,2043,313,21,2,5,250,1,0,0,0,3126,0,0,0,0,0,0,0,0,Magic Item,LUSE326,Snowball,"Snowballs don't cause any damage, so use it to play with your friends."
+consumable_331,331,1692,313,10,100,0,151,0,0,0,0,3131,0,0,0,0,0,0,0,0,Magic Item,LUSE309,Strength Scroll (Solo),Increase in Attack Power and Attack Speed for 7 minutes.
+consumable_332,332,1692,313,10,100,0,151,0,0,0,0,3132,0,0,0,0,0,0,0,0,Magic Item,LUSE312,Damage Scroll (Solo),Inflict 30% additional damage for 7 minutes.
+consumable_333,333,1692,313,10,100,0,151,0,0,0,0,3133,0,0,0,0,0,0,0,0,Magic Item,LUSE317,Advanced Defense Scroll (Solo),Increase in Defense and Magic Resistance for 10 minutes.
+consumable_334,334,1692,313,10,100,0,151,0,0,0,0,3134,0,0,0,0,0,0,0,0,Magic Item,LUSE315,Advanced Dexterity Scroll (Solo),Increase in Movement Speed and Dodge Rate for 10 minutes.
+consumable_335,335,1692,313,10,100,0,151,0,0,0,0,3135,0,0,0,0,0,0,0,0,Magic Item,,??????,
+consumable_336,336,1692,313,10,100,0,151,0,0,0,0,3136,0,0,0,0,0,0,0,0,Magic Item,,????????,
+consumable_337,337,1692,313,10,100,0,151,0,0,0,0,3137,0,0,0,0,0,0,0,0,Magic Item,LUSE318,Advanced Accuracy Scroll (Solo),Increase in Attack Accuracy and Critical hit rate for 10 minutes.
+consumable_338,338,1692,313,10,100,0,151,0,0,0,0,3138,0,0,0,0,0,0,0,0,Magic Item,LUSE313,Advanced HP Scroll (Solo),Increase Maximum HP for 10 minutes.
+consumable_339,339,1692,313,10,100,0,151,0,0,0,0,3139,0,0,0,0,0,0,0,0,Magic Item,LUSE314,Advanced MP Scroll (Solo),Increase Maximum MP for 10 minutes.
+consumable_340,340,1692,313,10,100,0,151,0,0,0,0,3140,0,0,0,0,0,0,0,0,Magic Item,,????????,
+consumable_341,341,4502,313,17,340,5,151,1,75,2,0,3091,0,0,0,0,0,0,0,0,Magic Item,LUSE330,Slow Movement Speed Icicle,
+consumable_342,342,4503,313,17,340,5,151,1,75,2,0,3092,0,0,0,0,0,0,0,0,Magic Item,LUSE331,Slow Attack Speed Icicle,
+consumable_343,343,4504,313,17,340,5,151,1,75,2,0,3093,0,0,0,0,0,0,0,0,Magic Item,LUSE332,Attack Decrease Icicle,
+consumable_344,344,4505,313,17,340,5,151,1,75,2,0,3094,0,0,0,0,0,0,0,0,Magic Item,LUSE333,Magic Defense Decrease Icicle,
+consumable_345,345,4506,313,17,340,5,151,1,75,2,0,3095,0,0,0,0,0,0,0,0,Magic Item,LUSE334,Hitting Rate Decrease Icicle,
+consumable_346,346,4507,313,17,340,5,151,1,75,2,0,3096,0,0,0,0,0,0,0,0,Magic Item,LUSE335,Critical Decrease Icicle,
+consumable_347,347,4508,313,17,340,5,151,1,75,2,0,3097,0,0,0,0,0,0,0,0,Magic Item,LUSE336,Dodge Rate Decrease Icicle,
+consumable_348,348,4509,313,17,340,5,151,1,75,2,0,3098,0,0,0,0,0,0,0,0,Magic Item,LUSE337,Fainted Icicle,
+consumable_349,349,4469,313,17,340,5,151,1,75,2,0,3099,0,0,0,0,0,0,0,0,Magic Item,LUSE338,Debuffs Icicle,
+consumable_350,350,1750,313,10,2500,5,151,1,0,0,0,3150,0,0,0,140,548,0,0,0,Magic Item,LUSE350,Junon Fields Scroll,Returns its user to Junon Fields. Current weight carried by its user affects MP that is consumed in using this item.
+consumable_351,351,1751,313,10,1000,5,151,1,0,0,0,3151,0,0,0,140,548,0,0,0,Magic Item,LUSE351,Zant Return Scroll,Returns its user to Zant. Current weight carried by its user affects MP that is consumed in using this item.
+consumable_352,352,1752,313,10,1200,5,151,1,0,0,0,3152,0,0,0,140,548,0,0,0,Magic Item,LUSE352,Junon Polis Return Scroll,Returns its user to Junon Polis. Current weight carried by its user affects MP that is consumed in using this item.
+consumable_353,353,1722,313,12,1600,5,151,1,0,0,0,3153,0,0,0,140,548,0,0,0,Magic Item,LUSE353,Eucar Return Scroll,?
+consumable_354,354,1717,313,12,1450,5,151,1,0,0,0,3154,0,0,0,140,548,0,0,0,Magic Item,LUSE354,Xita Refuge Return Scroll,Returns its user to the Xita Refuge.Current weight carried by its user affects MP that is consumed in using this item.
+consumable_355,355,1750,313,12,5000,5,151,1,0,0,0,3155,0,0,0,140,548,0,0,0,Magic Item,LUSE355,Marsh of Ghost Scroll,Returns its user to Marsh. Current weight carried by its user affects MP that is consumed in using this item.
+consumable_356,356,1750,313,10,5000,5,151,1,0,0,0,3156,0,0,0,140,548,0,0,0,Magic Item,LUSE356,Forbidden Return Scroll,Returns its user to Forbidden
+consumable_357,357,1750,313,10,5000,5,151,1,0,0,0,3157,0,0,0,140,548,0,0,0,Magic Item,LUSE357,Oro Town Scroll,Returns its user to Oro Town. Current weight carried by its user affects MP that is consumed in using this item.
+consumable_359,359,1750,313,10,5000,5,151,1,0,0,0,3170,0,0,0,140,548,0,0,0,Magic Item,LUSE348,Unholy Path Return Scroll,Returns its user to Unholy Path
+consumable_360,360,1716,313,12,1350,5,151,1,0,0,0,3291,0,0,0,140,548,0,0,0,Magic Item,LUSE360,Goblin Cave Entrance Return Scroll,Return its user to the Goblin Cave Entrance.
+consumable_361,361,1718,313,12,1450,5,151,1,0,0,0,3292,0,0,0,140,548,0,0,0,Magic Item,LUSE361,Desert of the Dead Entrance Return Scroll,Returns its user to the Desert of the Dead Entrance.
+consumable_362,362,1723,313,12,1200,5,151,1,0,0,0,3293,0,0,0,140,548,0,0,0,Magic Item,LUSE362,El Verloon Desert Return Scroll,Returns its user to El Verloon Desert.
+consumable_363,363,1720,313,12,1350,5,151,1,0,0,0,3294,0,0,0,140,548,0,0,0,Magic Item,LUSE363,Gorge of Silence Return Scroll,Returns its user to the Gorge of Silence.
+consumable_364,364,1721,313,12,2500,5,151,1,0,0,0,3295,0,0,0,140,548,0,0,0,Magic Item,LUSE364,Shady Jungle Return Scroll,Returns its user to the Shady Jungle.
+consumable_365,365,1779,313,12,2500,5,151,1,31,135,0,3296,0,0,0,140,548,0,0,0,Magic Item,LUSE365,Sikuku Prison Entrance Return Scroll,Returns its user near the Sikuku Underground Prison Entrance.
+consumable_366,366,1750,313,10,5000,5,151,1,0,0,0,3159,0,0,0,140,548,0,0,0,Magic Item,LUSE366,Geb Desert Return Scroll,Returns its user to the Paradise of RA
+consumable_367,367,1750,313,10,5000,5,151,1,0,0,0,3160,0,0,0,140,548,0,0,0,Magic Item,LUSE367,Paradise of RA Return Scroll,Returns its user to the Geb Desert
+consumable_368,368,1750,313,10,5000,5,151,1,0,0,0,3167,0,0,0,140,548,0,0,0,Magic Item,LUSE368,TG Upper Spawn Return Scroll,Returns its user to the TG Upper Spawn
+consumable_369,369,1750,313,10,5000,5,151,1,0,0,0,3168,0,0,0,140,548,0,0,0,Magic Item,LUSE369,TG Lower Spawn Return Scroll,Returns its user to the TG Lower Spawn
+consumable_370,370,1750,313,10,5000,5,151,1,0,0,0,3169,0,0,0,140,548,0,0,0,Magic Item,LUSE349,Sea of Souls Return Scroll,Return its user to Sea of Soul
+consumable_371,371,1693,313,10,180,5,151,1,0,0,0,3171,0,0,0,0,0,0,0,0,Magic Item,LUSE371,Para Dance [Basic],Guide book that teaches you to dance with your party members. Restores Stamina by 30.
+consumable_372,372,1693,313,10,200,5,151,1,0,0,0,3172,0,0,0,0,0,0,0,0,Magic Item,LUSE372,Para Dance [Practical],Guide book that teaches you to dance with your party members. Restores Stamina by 35.
+consumable_373,373,1693,313,10,220,5,151,1,0,0,0,3173,0,0,0,0,0,0,0,0,Magic Item,LUSE373,Para Dance [Intermediate],Guide book that teaches you to dance with your party members. Restores Stamina by 40.
+consumable_374,374,1693,313,10,260,5,151,1,0,0,0,3174,0,0,0,0,0,0,0,0,Magic Item,LUSE374,Para Dance [Refined],Guide book that teaches you to dance with your party members. Restores Stamina by 50.
+consumable_375,375,1693,313,10,300,5,151,1,0,0,0,3175,0,0,0,0,0,0,0,0,Magic Item,LUSE375,Funky Dance [Basic],Impress your party members with the funk in your dance. Restores Stamina by 60 points.
+consumable_376,376,1693,313,10,340,5,151,1,0,0,0,3176,0,0,0,0,0,0,0,0,Magic Item,LUSE376,Funky Dance [Intermediate],Your party members will be dazzled by your funky fresh moves. Restores Stamina by 70 points.
+consumable_377,377,1750,313,10,5000,5,151,1,0,0,0,3149,0,0,0,140,548,0,0,0,Magic Item,LUSE377,Sikuku Ruins Return Scroll,Returns its user to the Sikuku Ruins
+consumable_378,378,1750,313,10,6500,5,151,1,31,245,0,3148,0,0,0,140,548,0,0,0,Magic Item,LUSE378,Wastleland Ruins,Returns its user to the Wasteland Ruins
+consumable_381,381,1766,313,10,860,5,151,1,0,0,0,3181,0,0,0,0,0,0,0,0,Magic Item,LUSE381,Ice Charm,Inflict damage 30 meters around you and reduce the Attack Speed of enemies within range.
+consumable_382,382,1778,313,10,900,5,151,1,0,0,0,3182,0,0,0,0,0,0,0,0,Magic Item,LUSE382,Spark Charm,Inflict damage to monsters 20 meters around you while stunning enemies in range.
+consumable_383,383,1765,313,10,1000000,5,151,1,0,0,0,3183,0,0,0,0,0,0,0,0,Magic Item,LUSE383,Blood Charm,Inflict powerful damage to monsters 30 meters around you.
+consumable_390,390,1693,313,10,400,5,151,1,0,0,0,3177,0,0,0,0,0,0,0,0,Magic Item,LUSE390,Rhumba (M),Dance Scroll that lets you do the hip shaking Rumba.
+consumable_391,391,1693,313,10,420,5,151,1,0,0,0,3178,0,0,0,0,0,0,0,0,Magic Item,LUSE391,Waltz (M),Dance Scroll that lets you dance the elegant Waltz.
+consumable_392,392,1693,313,10,440,5,151,1,0,0,0,3179,0,0,0,0,0,0,0,0,Magic Item,LUSE392,Jive (M),Dance Scroll that really lets you get down.
+consumable_393,393,1693,313,10,460,5,151,1,0,0,0,3180,0,0,0,0,0,0,0,0,Magic Item,LUSE393,Cha-Cha (M),Dance Scroll that lets you dance the Cha-Cha.
+consumable_394,394,1693,313,10,400,5,151,1,0,0,0,3184,0,0,0,0,0,0,0,0,Magic Item,LUSE394,Rhumba (F),Dance Scroll that lets you do the hip shaking Rumba.
+consumable_395,395,1693,313,10,420,5,151,1,0,0,0,3185,0,0,0,0,0,0,0,0,Magic Item,LUSE395,Waltz (F),Dance Scroll that lets you dance the elegant Waltz.
+consumable_396,396,1693,313,10,440,5,151,1,0,0,0,3186,0,0,0,0,0,0,0,0,Magic Item,LUSE396,Jive (F),Dance Scroll that really lets you get down.
+consumable_397,397,1693,313,10,460,5,151,1,0,0,0,3187,0,0,0,0,0,0,0,0,Magic Item,LUSE397,Cha-Cha (F),Dance Scroll that lets you dance the Cha-Cha.
+consumable_401,401,1696,313,27,50,5,184,8,31,3,0,2801,0,0,0,140,548,0,0,0,Magic Item,LUSE401,Jelly Bean,A capsule containing a monster that will fight for you once summoned.
+consumable_402,402,1696,313,28,70,5,184,11,31,6,0,2802,0,0,0,140,548,0,0,0,Magic Item,LUSE402,Jelly Nut,A capsule containing a monster that will fight for you once summoned.
+consumable_403,403,1696,313,27,50,5,184,9,31,4,0,2803,0,0,0,140,548,0,0,0,Magic Item,LUSE403,Choropy,A capsule containing a monster that will fight for you once summoned.
+consumable_404,404,1696,313,28,90,5,184,12,31,8,0,2804,0,0,0,140,548,0,0,0,Magic Item,LUSE404,Pumpkin,A capsule containing a monster that will fight for you once summoned.
+consumable_405,405,1696,313,30,300,5,184,23,31,23,0,2805,0,0,0,140,548,0,0,0,Magic Item,LUSE405,Dalping,A capsule containing a monster that will fight for you once summoned.
+consumable_406,406,1696,313,28,120,5,184,14,31,10,0,2806,0,0,0,140,548,0,0,0,Magic Item,LUSE406,Honey Bee,A capsule containing a monster that will fight for you once summoned.
+consumable_407,407,1696,313,29,210,5,184,19,31,17,0,2807,0,0,0,140,548,0,0,0,Magic Item,LUSE407,Hornet,A capsule containing a monster that will fight for you once summoned.
+consumable_408,408,1696,313,29,150,5,184,16,31,13,0,2808,0,0,0,140,548,0,0,0,Magic Item,LUSE408,Pomic,A capsule containing a monster that will fight for you once summoned.
+consumable_409,409,1696,313,29,180,5,184,18,31,15,0,2809,0,0,0,140,548,0,0,0,Magic Item,LUSE409,Pomic Soldier,A capsule containing a monster that will fight for you once summoned.
+consumable_410,410,1696,313,30,270,5,184,22,31,21,0,2810,0,0,0,140,548,0,0,0,Magic Item,LUSE410,Beetle,A capsule containing a monster that will fight for you once summoned.
+consumable_411,411,1696,313,30,380,5,184,26,31,27,0,2811,0,0,0,140,548,0,0,0,Magic Item,LUSE411,Turtle,A capsule containing a monster that will fight for you once summoned.
+consumable_412,412,1696,313,29,240,5,184,20,31,19,0,2812,0,0,0,140,548,0,0,0,Magic Item,LUSE412,Crack,A capsule containing a monster that will fight for you once summoned.
+consumable_413,413,1696,313,30,340,5,184,25,31,25,0,2813,0,0,0,140,548,0,0,0,Magic Item,LUSE413,Rackie,A capsule containing a monster that will fight for you once summoned.
+consumable_414,414,1696,313,29,220,5,184,20,31,18,0,2814,0,0,0,140,548,0,0,0,Magic Item,LUSE414,Woopy,A capsule containing a monster that will fight for you once summoned.
+consumable_415,415,1696,313,31,600,5,184,33,31,36,0,2815,0,0,0,140,548,0,0,0,Magic Item,LUSE415,Moldie,A capsule containing a monster that will fight for you once summoned.
+consumable_416,416,1697,313,35,1440,5,184,52,31,62,0,2816,0,0,0,140,548,0,0,0,Magic Item,LUSE416,Krawfy,A capsule containing a monster that will fight for you once summoned.
+consumable_417,417,1697,313,31,500,5,184,30,31,32,0,2817,0,0,0,140,548,0,0,0,Magic Item,LUSE417,Porkie,A capsule containing a monster that will fight for you once summoned.
+consumable_418,418,1697,313,32,700,5,184,36,31,40,0,2818,0,0,0,140,548,0,0,0,Magic Item,LUSE418,Grunter,A capsule containing a monster that will fight for you once summoned.
+consumable_419,419,1697,313,33,1020,5,184,43,31,50,0,2819,0,0,0,140,548,0,0,0,Magic Item,LUSE419,Grunter Leader,A capsule containing a monster that will fight for you once summoned.
+consumable_420,420,1697,313,34,1260,5,184,48,31,57,0,2820,0,0,0,140,548,0,0,0,Magic Item,LUSE420,Kaiman,A capsule containing a monster that will fight for you once summoned.
+consumable_421,421,1697,313,34,1120,5,184,46,31,53,0,2821,0,0,0,140,548,0,0,0,Magic Item,LUSE421,Doonga,A capsule containing a monster that will fight for you once summoned.
+consumable_422,422,1697,313,34,1370,5,184,50,31,60,0,2822,0,0,0,140,548,0,0,0,Magic Item,LUSE422,Doonga Warrior,A capsule containing a monster that will fight for you once summoned.
+consumable_423,423,1697,313,36,1720,5,184,57,31,68,0,2823,0,0,0,140,548,0,0,0,Magic Item,LUSE423,Doonga Captain,A capsule containing a monster that will fight for you once summoned.
+consumable_424,424,1697,313,33,900,5,184,41,31,47,0,2824,0,0,0,140,548,0,0,0,Magic Item,LUSE424,Jewel Golem,A capsule containing a monster that will fight for you once summoned.
+consumable_425,425,1697,313,31,440,5,184,28,31,29,0,2825,0,0,0,140,548,0,0,0,Magic Item,LUSE425,Aqua Guard,A capsule containing a monster that will fight for you once summoned.
+consumable_426,426,1697,313,32,810,5,184,39,31,44,0,2826,0,0,0,140,548,0,0,0,Magic Item,LUSE426,Clown,A capsule containing a monster that will fight for you once summoned.
+consumable_427,427,1697,313,33,930,5,184,41,31,48,0,2827,0,0,0,140,548,0,0,0,Magic Item,LUSE427,Candle Ghost,A capsule containing a monster that will fight for you once summoned.
+consumable_428,428,1697,313,33,930,5,184,41,31,48,0,2828,0,0,0,140,548,0,0,0,Magic Item,LUSE428,Goblin Worker,A capsule containing a monster that will fight for you once summoned.
+consumable_429,429,1697,313,35,1520,5,184,53,31,64,0,2829,0,0,0,140,548,0,0,0,Magic Item,LUSE429,Goblin Guard,A capsule containing a monster that will fight for you once summoned.
+consumable_430,430,1697,313,35,1640,5,184,55,31,67,0,2830,0,0,0,140,548,0,0,0,Magic Item,LUSE430,Goblin Warrior,A capsule containing a monster that will fight for you once summoned.
+consumable_431,431,1697,313,30,1780,5,184,28,75,2,0,2832,0,0,0,140,548,0,0,0,Magic Item,LUSE431,Slag,A capsule containing a monster that will fight for you once summoned.
+consumable_432,432,1697,313,32,1990,5,184,29,75,2,0,2832,0,0,0,140,548,0,0,0,Magic Item,LUSE432,Lunar Wolf,A capsule containing a monster that will fight for you once summoned.
+consumable_433,433,1697,313,35,2480,5,184,31,75,2,0,2833,0,0,0,140,548,0,0,0,Magic Item,LUSE433,Yeti,A capsule containing a monster that will fight for you once summoned.
+consumable_434,434,1697,313,38,2860,5,184,32,75,2,0,2834,0,0,0,140,548,0,0,0,Magic Item,LUSE434,Yeti Hunter,A capsule containing a monster that will fight for you once summoned.
+consumable_435,435,1697,313,41,3160,5,184,33,75,2,0,2835,0,0,0,140,548,0,0,0,Magic Item,LUSE435,Yeti Guard,A capsule containing a monster that will fight for you once summoned.
+consumable_436,436,1697,313,45,3500,5,184,34,75,2,0,2836,0,0,0,140,548,0,0,0,Magic Item,LUSE436,Yeti Rider,A capsule containing a monster that will fight for you once summoned.
+consumable_437,437,1697,313,45,3440,5,184,30,31,80,0,2837,0,0,0,140,548,0,0,0,Magic Item,LUSE437,Goblin King,A capsule containing a monster that will fight for you once summoned.
+consumable_438,438,1697,313,45,1000,5,184,30,31,40,0,2838,0,0,0,140,548,0,0,0,Magic Item,LUSE438,Cherry Smouly,A capsule containing a monster that will fight for you once summoned.
+consumable_440,440,1697,313,1,1,1,184,1,0,0,0,2840,0,0,0,140,548,0,0,0,Magic Item,LUSE438,Cherry Smouly,A capsule containing a monster that will fight for you once summoned.
+consumable_442,442,1693,313,10,430,5,151,1,0,0,0,3682,0,0,0,0,0,0,0,0,Magic Item,LUSE442,ETC Dance 1,
+consumable_443,443,1693,313,10,460,5,151,1,0,0,0,3683,0,0,0,0,0,0,0,0,Magic Item,LUSE443,ETC Dance 2,
+consumable_444,444,1693,313,10,430,5,151,1,0,0,0,3684,0,0,0,0,0,0,0,0,Magic Item,LUSE444,ETC Dance 3,
+consumable_445,445,1693,313,10,460,5,151,1,0,0,0,3685,0,0,0,0,0,0,0,0,Magic Item,LUSE445,ETC Dance 4,
+consumable_446,446,1693,313,10,430,5,151,1,0,0,0,3686,0,0,0,0,0,0,0,0,Magic Item,LUSE446,ETC Dance 5,
+consumable_448,448,1693,313,10,350,5,151,1,0,0,0,3320,0,0,0,0,0,0,0,0,Magic Item,LUSE448,70's Dance [Basic],
+consumable_449,449,1693,313,10,365,5,151,1,0,0,0,3321,0,0,0,0,0,0,0,0,Magic Item,LUSE449,70's Dance [Practical],
+consumable_450,450,1693,313,10,380,5,151,1,0,0,0,3322,0,0,0,0,0,0,0,0,Magic Item,LUSE450,70's Dance [Intermediate],
+consumable_451,451,1693,313,10,440,5,151,1,0,0,0,3323,0,0,0,0,0,0,0,0,Magic Item,LUSE451,Pipo Dance [Intermediate],
+consumable_452,452,1693,313,10,485,5,151,1,0,0,0,3324,0,0,0,0,0,0,0,0,Magic Item,LUSE452,Pipo Dance [Professional],
+consumable_453,453,1693,313,10,470,5,151,1,0,0,0,3325,0,0,0,0,0,0,0,0,Magic Item,LUSE453,Pipo Dance [Complex],
+consumable_454,454,1693,313,10,455,5,151,1,0,0,0,3326,0,0,0,0,0,0,0,0,Magic Item,LUSE454,Pipo Dance [Refined],
+consumable_455,455,1693,313,10,425,5,151,1,0,0,0,3327,0,0,0,0,0,0,0,0,Magic Item,LUSE455,Pipo Dance [Amateur],
+consumable_456,456,1693,313,10,410,5,151,1,0,0,0,3328,0,0,0,0,0,0,0,0,Magic Item,LUSE456,Pipo Dance [Practical],
+consumable_457,457,1693,313,10,395,5,151,1,0,0,0,3329,0,0,0,0,0,0,0,0,Magic Item,LUSE457,Pipo Dance [Basic],Zuly StunSInflicat a great dama
+consumable_458,458,1693,313,10,460,5,151,1,0,0,0,3678,0,0,0,0,0,0,0,0,Magic Item,LUSE458,Zombie Dance,
+consumable_459,459,1693,313,10,460,5,151,1,0,0,0,3676,0,0,0,0,0,0,0,0,Magic Item,LUSE460,Side-Step Dance,
+consumable_460,460,1693,313,10,430,5,151,1,0,0,0,3677,0,0,0,0,0,0,0,0,Magic Item,LUSE459,Sexy Dance,
+consumable_461,461,1693,313,10,460,5,151,1,0,0,0,3687,0,0,0,0,0,0,0,0,Magic Item,LUSE461,ETC Dance 6,
+consumable_462,462,1693,313,10,430,5,151,1,0,0,0,3688,0,0,0,0,0,0,0,0,Magic Item,LUSE462,ETC Dance 7,
+consumable_463,463,1693,313,10,460,5,151,1,0,0,0,3689,0,0,0,0,0,0,0,0,Magic Item,LUSE463,ETC Dance 8,
+consumable_464,464,1693,313,10,430,5,151,1,0,0,0,3690,0,0,0,0,0,0,0,0,Magic Item,LUSE464,MJ Spin,
+consumable_465,465,1693,313,10,460,5,151,1,0,0,0,3691,0,0,0,0,0,0,0,0,Magic Item,LUSE465,MJ Plank,
+consumable_466,466,1693,313,10,430,5,151,1,0,0,0,3692,0,0,0,0,0,0,0,0,Magic Item,LUSE466,ETC Dance 9,
+consumable_468,468,1703,314,50,320500,0,871,1,0,0,0,2710,0,0,0,140,548,0,0,0,Book of Skill,LUSE468,Zuly Stun,Inflicat a great damage by throwing zuly to your opponent and have a chance to stun
+consumable_469,469,1703,314,50,656000,0,871,1,0,0,0,2641,0,0,0,140,548,0,0,0,Book of Skill,LUSE469,Jewel Crafting,A Skill book that will let you craft accessories
+consumable_471,471,1693,313,10,460,5,151,1,0,0,0,3693,0,0,0,0,0,0,0,0,Magic Item,LUSE471,ETC Dance 10,
+consumable_472,472,1693,313,10,430,5,151,1,0,0,0,3694,0,0,0,0,0,0,0,0,Magic Item,LUSE472,ETC Dance 11,
+consumable_473,473,1693,313,10,460,5,151,1,0,0,0,3695,0,0,0,0,0,0,0,0,Magic Item,LUSE473,ETC Dance 12,
+consumable_474,474,1693,313,10,430,5,151,1,0,0,0,3696,0,0,0,0,0,0,0,0,Magic Item,LUSE524,Break Dance 1,
+consumable_475,475,1693,313,10,460,5,151,1,0,0,0,3697,0,0,0,0,0,0,0,0,Magic Item,LUSE525,ETC Dance 13,
+consumable_476,476,1693,313,10,430,5,151,1,0,0,0,3698,0,0,0,0,0,0,0,0,Magic Item,LUSE526,ETC Dance 14,
+consumable_477,477,1693,313,10,430,5,151,1,0,0,0,3699,0,0,0,0,0,0,0,0,Magic Item,LUSE527,Break Dance 2,
+consumable_478,478,1693,313,10,460,5,151,1,0,0,0,3700,0,0,0,0,0,0,0,0,Magic Item,LUSE528,Gangnam Dance,
+consumable_479,479,4547,321,11,100000,0,151,1,0,0,96,1440,0,0,0,140,0,0,0,0,Time Coupon,LUSE479,White Monkey Shop,White Monkey Shop
+consumable_480,480,4546,321,12,100000,0,151,1,0,0,96,1440,0,0,0,140,0,0,0,0,Time Coupon,LUSE480,Dog with Zuly Shop,Dog with Zuly Shop
+consumable_481,481,4545,321,13,100000,0,151,1,0,0,96,1440,0,0,0,140,0,0,0,0,Time Coupon,LUSE481,Dog Shop,Dog Shop
+consumable_482,482,4544,321,14,100000,0,151,1,0,0,96,1440,0,0,0,140,0,0,0,0,Time Coupon,LUSE482,Headless Robot Shop,Headless Robot Shop
+consumable_483,483,4543,321,15,100000,0,151,1,0,0,96,1440,0,0,0,140,0,0,0,0,Time Coupon,LUSE483,Japanese Background Shop,Japanese Background Shop
+consumable_484,484,4542,321,16,100000,0,151,1,0,0,96,1440,0,0,0,140,0,0,0,0,Time Coupon,LUSE484,Cubby Shop,Cubby Shop
+consumable_485,485,4541,321,17,100000,0,151,1,0,0,96,1440,0,0,0,140,0,0,0,0,Time Coupon,LUSE485,Amadeo Shop,Amadeo Shop
+consumable_486,486,4540,321,18,100000,0,151,1,0,0,96,1440,0,0,0,140,0,0,0,0,Time Coupon,LUSE486,Baron Shop,Baron Shop
+consumable_487,487,4539,321,19,100000,0,151,1,0,0,96,1440,0,0,0,140,0,0,0,0,Time Coupon,LUSE487,Daruma Shop,Daruma Shop
+consumable_488,488,4538,321,20,100000,0,151,1,0,0,96,1440,0,0,0,140,0,0,0,0,Time Coupon,LUSE488,Matunorouka Shop,Matunorouka Shop
+consumable_489,489,4537,321,21,100000,0,151,1,0,0,96,1440,0,0,0,140,0,0,0,0,Time Coupon,LUSE489,Akechi Shop,Akechi Shop
+consumable_490,490,4535,321,22,100000,0,151,1,0,0,96,1440,0,0,0,140,0,0,0,0,Time Coupon,LUSE490,Uesugi Shop,Uesugi Shop
+consumable_491,491,4534,321,23,100000,0,151,1,0,0,96,1440,0,0,0,140,0,0,0,0,Time Coupon,LUSE491,Yatai Shop,Yatai Shop
+consumable_492,492,4533,321,24,100000,0,151,1,0,0,96,1440,0,0,0,140,0,0,0,0,Time Coupon,LUSE492,Takeda Shop,Takeda Shop
+consumable_493,493,4532,321,25,100000,0,151,1,0,0,96,1440,0,0,0,140,0,0,0,0,Time Coupon,LUSE493,Oda Shop,Oda Shop
+consumable_494,494,4531,321,26,100000,0,151,1,0,0,96,1440,0,0,0,140,0,0,0,0,Time Coupon,LUSE494,Barbeque Shop,Barbeque Shop
+consumable_495,495,4531,321,27,100000,0,151,1,0,0,96,1440,0,0,0,140,0,0,0,0,Time Coupon,LUSE495,GM BBQ Shop,GM BBQ Shop
+consumable_496,496,2044,313,30,100,5,251,50,0,0,0,2892,0,0,0,140,548,0,0,0,Magic Item,LUSE496,Christmas Tree,You can create a Christmas Tree that will help people restore their HP.
+consumable_501,501,1690,316,10,0,0,151,0,0,0,0,0,0,0,0,101,0,0,0,0,Quest scroll,LUSE501,Lions Plains Return Scroll ,Returns its user to Lions Plains.             
+consumable_502,502,1690,316,10,0,0,151,0,0,0,0,0,0,0,0,102,0,0,0,0,Quest scroll,LUSE502,Letter of the Akram Kingdom,A letter that vanishes once you finish reading it.
+consumable_503,503,1690,316,10,0,0,151,0,0,0,0,0,0,0,0,103,0,0,0,0,Quest scroll,LUSE503,Letter of the Akram Kingdom,A letter that vanishes once you finish reading it.
+consumable_504,504,1690,316,10,0,0,151,0,0,0,0,0,0,0,0,104,0,0,0,0,Quest scroll,LUSE504,Letter of the Akram Kingdom,A letter that vanishes once you finish reading it.
+consumable_505,505,1690,316,10,0,0,151,0,0,0,0,0,0,0,0,105,0,0,0,0,Quest scroll,LUSE505,Letter of the Akram Kingdom,A letter that vanishes once you finish reading it.
+consumable_506,506,1690,316,10,0,0,151,0,0,0,0,0,0,0,0,106,0,0,0,0,Quest scroll,LUSE506,Letter of the Akram Kingdom,A letter that vanishes once you finish reading it.
+consumable_507,507,1690,316,10,0,0,151,0,0,0,0,0,0,0,0,107,0,0,0,0,Quest scroll,LUSE507,Letter of the Akram Kingdom,A letter that vanishes once you finish reading it.
+consumable_508,508,1690,316,10,0,0,151,0,0,0,0,0,0,0,0,108,0,0,0,0,Quest scroll,LUSE508,Letter of the Akram Kingdom,A letter that vanishes once you finish reading it.
+consumable_509,509,1690,316,10,0,0,151,0,0,0,0,0,0,0,0,109,0,0,0,0,Quest scroll,LUSE509,Letter of the Akram Kingdom,A letter that vanishes once you finish reading it.
+consumable_510,510,1690,316,10,0,0,151,0,0,0,0,0,0,0,0,110,0,0,0,0,Quest scroll,LUSE510,Letter of the Akram Kingdom,A letter that vanishes once you finish reading it.
+consumable_513,513,1690,316,10,10000,0,151,0,0,0,0,0,0,0,0,991,0,0,0,0,Quest scroll,LUSE514,Appraisal Scroll,
+consumable_514,514,1690,316,10,10000,0,151,0,0,0,0,0,0,0,0,992,0,0,0,0,Quest scroll,LUSE513,Storage Scroll,
+consumable_533,533,2390,314,30,100000,0,871,1,0,0,0,415,0,0,0,140,548,0,0,0,Book of Skill,LUSE533,Provoke,Make surrounding monsters angry so that they will attack you.
+consumable_534,534,2390,314,30,100000,0,871,1,0,0,0,432,0,0,0,140,548,0,0,0,Book of Skill,LUSE534,Sword Dance,Silence surrounding enemies with a shocking dance of swirreling blades.
+consumable_535,535,2390,314,30,100000,0,871,1,0,0,0,438,0,0,0,140,548,0,0,0,Book of Skill,LUSE535,Shield Bash,Knock your enemies unconscious by hitting them with your shield.
+consumable_536,536,2390,314,30,100000,0,871,1,0,0,0,444,0,0,0,140,548,0,0,0,Book of Skill,LUSE536,Seismic Raid Impact,"Send a powerful wave of energy into the ground, damaging surrounding enemies."
+consumable_537,537,2390,314,30,100000,0,871,1,0,0,0,450,0,0,0,140,548,0,0,0,Book of Skill,LUSE537,Beam Blade,Fire a spiritual aura emitted from your weapon at the enemy.
+consumable_538,538,2390,314,30,100000,0,871,1,0,0,0,457,0,0,0,140,548,0,0,0,Book of Skill,LUSE538,Stormy Wrath,Call upon the power of storm to damage surrounding enemies.
+consumable_539,539,2390,314,30,100000,0,871,1,0,0,0,462,0,0,0,140,548,0,0,0,Book of Skill,LUSE539,Banisher,Find hidden energy within and release it upon your enemy.
+consumable_540,540,2390,314,30,100000,0,871,1,0,0,0,542,0,0,0,140,548,0,0,0,Book of Skill,LUSE540,Cyclone Impact,Call upon a violent cyclone to damage surrounding enemies.
+consumable_541,541,2390,314,30,100000,0,871,1,0,0,0,1262,0,0,0,140,548,0,0,0,Book of Skill,LUSE541,Arcane Bolt,Summon arcane power within yourself and release it onto your enemy.
+consumable_542,542,2390,314,30,100000,0,871,1,0,0,0,1268,0,0,0,140,548,0,0,0,Book of Skill,LUSE542,Shadow Bomb,Summon arcane power to engulf the surrounding area of your target.
+consumable_543,543,2390,314,30,100000,0,871,1,0,0,0,1274,0,0,0,140,548,0,0,0,Book of Skill,LUSE543,Photon Beam,Call upon holy energy and release it onto your enemy.
+consumable_544,544,2390,314,30,100000,0,871,1,0,0,0,1280,0,0,0,140,548,0,0,0,Book of Skill,LUSE544,Heavenly Light,Summon a field of light to engulf your enemies.
+consumable_545,545,2390,314,30,100000,0,871,1,0,0,0,1286,0,0,0,140,548,0,0,0,Book of Skill,LUSE545,Echo Guard,Shield an ally with a forcefield of reflectivity.
+consumable_546,546,2390,314,30,100000,0,871,1,0,0,0,1292,0,0,0,140,548,0,0,0,Book of Skill,LUSE546,Wind Aura,"Surround yourself with the power of wind, making your dodge rise an extreme amount for a limited time."
+consumable_547,547,2390,314,30,100000,0,871,1,0,0,0,1298,0,0,0,140,548,0,0,0,Book of Skill,LUSE547,Circle Healing,A legendary healing skill that is said to be used by angels.
+consumable_548,548,2390,314,30,100000,0,871,1,0,0,0,1304,0,0,0,140,548,0,0,0,Book of Skill,LUSE548,Sanctuary,Purify your party members of all disadvantages.
+consumable_549,549,2390,314,30,100000,0,871,1,0,0,0,1742,0,0,0,140,548,0,0,0,Book of Skill,LUSE549,Prism Knife,"Throw a knife crafted of pure diamond at your enemy, causing them to sleep."
+consumable_550,550,2390,314,30,100000,0,871,1,0,0,0,1748,0,0,0,140,548,0,0,0,Book of Skill,LUSE550,Cloaking,You can become invisible while you attack for a very limited period of time.
+consumable_551,551,2073,316,10,0,0,151,0,0,0,0,0,0,0,0,801,0,0,0,0,Quest scroll,LUSE551,Coupon,Call upon a tornado to damage surrounding enemies.
+consumable_552,552,2390,314,30,100000,0,871,1,0,0,0,2381,0,0,0,140,548,0,0,0,Book of Skill,LUSE552,Employ Furious Beast,Calling a tamed furious beast from the wild
+consumable_553,553,2390,314,30,100000,0,871,1,0,0,0,1731,0,0,0,140,548,0,0,0,Book of Skill,LUSE553,Calling Falcon,You call a well tamed falcon
+consumable_554,554,2390,314,30,100000,0,871,1,0,0,0,1754,0,0,0,140,548,0,0,0,Book of Skill,LUSE554,Cyclone Kick,Call upon a tornado to damage surrounding enemies.
+consumable_555,555,2390,314,30,100000,0,871,1,0,0,0,1760,0,0,0,140,548,0,0,0,Book of Skill,LUSE555,Aftershock,Release all of your energy all at once onto your enemy.
+consumable_556,556,2390,314,30,100000,0,871,1,0,0,0,1766,0,0,0,140,548,0,0,0,Book of Skill,LUSE556,Sphere of Hysteria,"Form a sphere of energy and release it onto surrounding enemies, causing their hitting and critical rates to decrease."
+consumable_557,557,2390,314,30,100000,0,871,1,0,0,0,1772,0,0,0,140,548,0,0,0,Book of Skill,LUSE557,Arrow Shower,Fire a quiver of arrows into the air to rain down upon surrounding enemies.
+consumable_558,558,2390,314,30,100000,0,871,1,0,0,0,1778,0,0,0,140,548,0,0,0,Book of Skill,LUSE558,Static Shot,Fire an arrow enchanted with electricity at your enemy.
+consumable_559,559,2390,314,30,100000,0,871,1,0,0,0,2652,0,0,0,140,548,0,0,0,Book of Skill,LUSE559,Camouflage,Use elite military tactics to blend into your surroundings.
+consumable_560,560,2390,314,30,100000,0,871,1,0,0,0,2658,0,0,0,140,548,0,0,0,Book of Skill,LUSE560,Bullet Shower,Fire an entire clip of bullets into the air to shower down upon multiple enemies.
+consumable_561,561,2390,314,30,100000,0,871,1,0,0,0,2664,0,0,0,140,548,0,0,0,Book of Skill,LUSE561,Cannon Smash,"Crash your cannon into your enemy, causing his speed to decrease."
+consumable_562,562,2390,314,30,100000,0,871,1,0,0,0,2670,0,0,0,140,548,0,0,0,Book of Skill,LUSE562,Pistol Whip,"Smack your enemy with your gun, causing his attack and defense to decrease."
+consumable_563,563,2390,314,30,100000,0,871,1,0,0,0,2676,0,0,0,140,548,0,0,0,Book of Skill,LUSE563,Spinning Shot,"Rotate around, firing bullets at multiple enemies in a short burst of rage."
+consumable_564,564,2390,314,30,100000,0,871,1,0,0,0,2682,0,0,0,140,548,0,0,0,Book of Skill,LUSE564,Earthquake,"Fire your gun into the ground, causing an earthquake to erupt and damage surrounding enemies."
+consumable_565,565,2390,314,30,100000,0,871,1,0,0,0,2688,0,0,0,140,548,0,0,0,Book of Skill,LUSE565,Elite Sniping,An impressive shot of extreme distance that will put your opponet into a coma.
+consumable_567,567,1703,314,99,10000,0,871,1,0,0,0,3229,0,0,0,140,548,0,0,0,Book of Skill,LUSE567,Summon Baby Spike,Summon a cute little puppy.
+consumable_568,568,1703,314,99,10000,0,871,1,0,0,0,3234,0,0,0,140,548,0,0,0,Book of Skill,LUSE568,Summon Baby Fluffy,Summon a cute little kitten.
+consumable_569,569,1703,314,99,10000,0,871,1,0,0,0,3239,0,0,0,140,548,0,0,0,Book of Skill,LUSE569,Summon Baby Melody,Summon a cute baby girl.
+consumable_570,570,1703,314,99,10000,0,871,1,0,0,0,3244,0,0,0,140,548,0,0,0,Book of Skill,LUSE570,Summon Baby Max,Summon a cute baby boy.
+consumable_571,571,1703,314,30,6600,0,871,1,0,0,0,691,0,0,0,140,548,0,0,0,Book of Skill,LUSE571,Staff Hit,Use a Staff to strike an enemy with great force and inflict the Stun status.
+consumable_573,573,2390,314,30,200000,0,871,1,0,0,0,548,0,0,0,140,548,0,0,0,Book of Skill,LUSE573,Phoenix Slash,Set your enemy on fire from a distance.
+consumable_574,574,2390,314,30,200000,0,871,1,0,0,0,554,0,0,0,140,548,0,0,0,Book of Skill,LUSE574,Bowling Bash,Set your enemy on fire in a wild spinning attack.
+consumable_575,575,2390,314,30,200000,0,871,1,0,0,0,1310,0,0,0,140,548,0,0,0,Book of Skill,LUSE575,Storm Gust,Freeze your enemies and those around it with the power of ice.
+consumable_576,576,2390,314,30,200000,0,871,1,0,0,0,1316,0,0,0,140,548,0,0,0,Book of Skill,LUSE576,Rebirth,"Rebirth your ally, regaining their lost exp."
+consumable_577,577,2390,314,30,200000,0,871,1,0,0,0,1784,0,0,0,140,548,0,0,0,Book of Skill,LUSE577,Shadow Assault,Assault your enemy with the power of shadow.
+consumable_578,578,2390,314,30,200000,0,871,1,0,0,0,1790,0,0,0,140,548,0,0,0,Book of Skill,LUSE578,Shadow Arrow,Fire an arrow enchanted with the power of shadow.
+consumable_579,579,2390,314,30,200000,0,871,1,0,0,0,2694,0,0,0,140,548,0,0,0,Book of Skill,LUSE579,Desperado,Fire a powerful shot enchanted with the power of storm.
+consumable_580,580,2390,314,30,200000,0,871,1,0,0,0,2700,0,0,0,140,548,0,0,0,Book of Skill,LUSE580,Elekitra,Fire a powerful shot enchanted with the power of thunder.
+consumable_581,581,2390,314,30,200000,0,871,1,0,0,0,1341,0,0,0,140,548,0,0,0,Book of Skill,LUSE581,Hurricane,"Call upon a hurricane to blow away your enemies. (In PvP, reduce their movement speed to 200.)"
+consumable_582,582,2390,314,30,200000,0,871,1,0,0,0,1347,0,0,0,140,548,0,0,0,Book of Skill,LUSE582,Mind Breaker,Concentrate your energy on a group of enemies to break their minds.
+consumable_583,583,2390,314,30,200000,0,871,1,0,0,0,1353,0,0,0,140,548,0,0,0,Book of Skill,LUSE583,Sand Storm,Call upon a sand storm to lower the evasion of surrounding enemies.
+consumable_584,584,2390,314,30,200000,0,871,1,0,0,0,1359,0,0,0,140,548,0,0,0,Book of Skill,LUSE584,Shield Breaker,Burst your energy around you causing your surrounding enemies to loose defense.
+consumable_585,585,2390,314,30,200000,0,871,1,0,0,0,1365,0,0,0,140,548,0,0,0,Book of Skill,LUSE585,Decelerate,Cast power from the ancients onto your enemy to decrease their movement speed.
+consumable_586,586,2390,314,30,200000,0,871,1,0,0,0,1371,0,0,0,140,548,0,0,0,Book of Skill,LUSE586,Weaken,Cast power from the ancients onto your enemy to decrease their attack power.
+consumable_587,587,2390,314,30,200000,0,871,1,0,0,0,1377,0,0,0,140,548,0,0,0,Book of Skill,LUSE587,Blind,Cast power from the ancients onto your enemy to decrease their attack accuracy.
+consumable_588,588,2390,314,30,200000,0,871,1,0,0,0,1383,0,0,0,140,548,0,0,0,Book of Skill,LUSE588,Slow,Cast power from the ancients onto your enemy to decrease their attack speed.
+consumable_589,589,2390,314,30,200000,0,871,1,0,0,0,1389,0,0,0,140,548,0,0,0,Book of Skill,LUSE589,Calm,Cast power from the ancients onto your enemy to decrease their critical rate.
+consumable_590,590,2390,314,30,200000,0,871,1,0,0,0,1395,0,0,0,140,548,0,0,0,Book of Skill,LUSE590,Shock,Fire a blast of energy at your enemy to stun them.
+consumable_592,592,2390,314,30,200000,0,871,1,0,0,0,1805,0,0,0,140,548,0,0,0,Book of Skill,LUSE516,Afterimage,Enables you to storm into the enemy and attack it at lightnig speed.
+consumable_593,593,2390,314,30,200000,0,871,1,0,0,0,1811,0,0,0,140,548,0,0,0,Book of Skill,LUSE517,Pressure,Release your mana to provoke enemies around you and draw their attention toward you.
+consumable_594,594,2390,314,30,200000,0,871,1,0,0,0,1322,0,0,0,140,548,0,0,0,Book of Skill,LUSE518,Vengeance,Call upon a meteor to damage sorrounding enemies.
+consumable_595,595,2390,314,30,200000,0,871,1,0,0,0,566,0,0,0,140,548,0,0,0,Book of Skill,LUSE519,Magnitude,Deals a serious damage to enemies around you by making an earthquake containing your determination to battle.
+consumable_596,596,2390,314,30,200000,0,871,1,0,0,0,560,0,0,0,140,548,0,0,0,Book of Skill,LUSE520,Furious Strike,The enmy faces a serious blow with his weak spot attacked.
+consumable_597,597,2390,314,30,200000,0,871,1,0,0,0,2329,0,0,0,140,548,0,0,0,Book of Skill,LUSE521,Hidden Power,"By understanding how inner power works, you can release a powerful aura unto your target, causing them m-def to decreased."
+consumable_598,598,2390,314,30,200000,0,871,1,0,0,0,2323,0,0,0,140,548,0,0,0,Book of Skill,LUSE522,Warfare,"By using your experience on wars, you can make your enemies step back and slow down temporarily."
+consumable_599,599,1705,314,30,200000,0,871,1,0,0,0,2323,0,0,0,140,548,0,0,0,Book of Skill,LUSE523,Guard Mastery,N/A
+consumable_601,601,1704,314,1,50,0,871,1,0,0,0,11,0,0,0,140,548,0,0,0,Book of Skill,LUSE601,Sit,Learn Basic Skill
+consumable_602,602,1704,314,1,50,0,871,1,0,0,0,12,0,0,0,140,548,0,0,0,Book of Skill,LUSE602,Pick Up,Learn Basic Skill
+consumable_603,603,1704,314,1,5000,0,871,1,0,0,0,13,0,0,0,140,548,0,0,0,Book of Skill,LUSE603,Jump,Learn Basic Skill
+consumable_604,604,1704,314,1,15000,0,871,1,0,0,0,14,0,0,0,140,548,0,0,0,Book of Skill,LUSE604,Levitation,Learn Basic Skill
+consumable_605,605,1704,314,1,15000,0,871,1,0,0,0,15,0,0,0,140,548,0,0,0,Book of Skill,LUSE605,Auto Target,Learn Basic Skill
+consumable_606,606,1704,314,1,50,0,871,1,0,0,0,16,0,0,0,140,548,0,0,0,Book of Skill,LUSE606,Normal Attack,Learn Basic Skill
+consumable_607,607,1704,314,1,50,0,871,1,0,0,0,17,0,0,0,140,548,0,0,0,Book of Skill,LUSE607,Drive Cart,Learn Basic Skill
+consumable_608,608,1704,314,1,500000,0,871,1,0,0,0,24,0,0,0,140,548,0,0,0,Book of Skill,LUSE608,Drive Castle Gear,Drive Castle Gear and Mount.
+consumable_609,609,1704,314,1,50,0,871,1,0,0,0,19,0,0,0,140,548,0,0,0,Book of Skill,LUSE609,Party,Learn Basic Skill
+consumable_610,610,1704,314,1,50,0,871,1,0,0,0,20,0,0,0,140,548,0,0,0,Book of Skill,LUSE610,Trade,Learn Basic Skill
+consumable_611,611,1704,314,1,50,0,871,1,0,0,0,21,0,0,0,140,548,0,0,0,Book of Skill,LUSE611,Vending,Learn Basic Skill
+consumable_612,612,1704,314,1,50,0,871,1,0,0,0,22,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_613,613,1704,314,1,50,0,871,1,0,0,0,23,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_614,614,1704,314,1,50,0,871,1,0,0,0,24,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_615,615,1704,314,1,50,0,871,1,0,0,0,25,0,0,0,140,548,0,0,0,Book of Skill,LUSE615,Ride Request,Learn Basic Skill
+consumable_616,616,1704,314,1,50,0,871,1,0,0,0,26,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_617,617,1704,314,1,50,0,871,1,0,0,0,27,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_618,618,1704,314,1,50,0,871,1,0,0,0,28,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_619,619,1704,314,1,50,0,871,1,0,0,0,29,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_620,620,1704,314,1,50,0,871,1,0,0,0,30,0,0,0,140,548,0,0,0,Book of Skill,LUSE620,Recovery Kiss,Learn Basic Skill
+consumable_621,621,1704,314,1,50,0,871,1,0,0,0,31,0,0,0,140,548,0,0,0,Book of Skill,LUSE621,Charming Kiss,Learn Basic Skill
+consumable_622,622,1704,314,1,50,0,871,1,0,0,0,32,0,0,0,140,548,0,0,0,Book of Skill,LUSE622,Massage,Learn emotive expression.
+consumable_623,623,1704,314,1,50,0,871,1,0,0,0,33,0,0,0,140,548,0,0,0,Book of Skill,LUSE623,Donation (10 Zulie),Learn emotive expression.
+consumable_624,624,1704,314,1,50,0,871,1,0,0,0,34,0,0,0,140,548,0,0,0,Book of Skill,LUSE624,Donation (100 Zulie),Learn emotive expression.
+consumable_625,625,1704,314,1,50,0,871,1,0,0,0,35,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_626,626,1704,314,1,50,0,871,1,0,0,0,36,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_627,627,1704,314,1,50,0,871,1,0,0,0,37,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_628,628,1704,314,1,50,0,871,1,0,0,0,38,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_629,629,1704,314,1,50,0,871,1,0,0,0,39,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_630,630,1704,314,1,50,0,871,1,0,0,0,40,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_631,631,1704,314,1,100,0,871,1,0,0,0,41,0,0,0,140,548,0,0,0,Book of Skill,LUSE631,Hi!,Learn emotive expression.
+consumable_632,632,1704,314,1,100,0,871,1,0,0,0,42,0,0,0,140,548,0,0,0,Book of Skill,LUSE632,Grateful Bow,Learn emotive expression.
+consumable_633,633,1704,314,1,100,0,871,1,0,0,0,43,0,0,0,140,548,0,0,0,Book of Skill,LUSE633,Salutation,Learn emotive expression.
+consumable_634,634,1704,314,1,100,0,871,1,0,0,0,44,0,0,0,140,548,0,0,0,Book of Skill,LUSE634,Recovery Kiss,Learn emotive expression.
+consumable_635,635,1704,314,1,100,0,871,1,0,0,0,45,0,0,0,140,548,0,0,0,Book of Skill,LUSE635,Charming Kiss,Learn emotive expression.
+consumable_636,636,1704,314,1,10000,0,871,1,0,0,0,46,0,0,0,140,548,0,0,0,Book of Skill,LUSE636,Laugh,Learn emotive expression.
+consumable_637,637,1704,314,1,10000,0,871,1,0,0,0,47,0,0,0,140,548,0,0,0,Book of Skill,LUSE637,Fight Cheer,Learn emotive expression.
+consumable_638,638,1704,314,1,10000,0,871,1,0,0,0,48,0,0,0,140,548,0,0,0,Book of Skill,LUSE638,Tantrum,Learn emotive expression.
+consumable_639,639,1704,314,1,10000,0,871,1,0,0,0,49,0,0,0,140,548,0,0,0,Book of Skill,LUSE639,,
+consumable_640,640,1704,314,1,100,0,871,1,0,0,0,50,0,0,0,140,548,0,0,0,Book of Skill,LUSE640,duel,x
+consumable_641,641,1704,314,1,100,0,871,1,0,0,0,52,0,0,0,140,548,0,0,0,Book of Skill,LUSE641,Duel,Challenge another player for a PvP Duel.
+consumable_642,642,1704,314,1,100,0,871,1,0,0,0,3660,0,0,0,140,548,0,0,0,Book of Skill,LUSE642,Cry,Basic Emotion.
+consumable_643,643,1704,314,1,100,0,871,1,0,0,0,3661,0,0,0,140,548,0,0,0,Book of Skill,LUSE643,Flip,Basic Emotion.
+consumable_644,644,1704,314,1,100,0,871,1,0,0,0,3662,0,0,0,140,548,0,0,0,Book of Skill,LUSE644,Lose,Basic Emotion.
+consumable_645,645,1704,314,1,100,0,871,1,0,0,0,3663,0,0,0,140,548,0,0,0,Book of Skill,LUSE645,Rest,Basic Emotion.
+consumable_646,646,1704,314,1,100,0,871,1,0,0,0,3664,0,0,0,140,548,0,0,0,Book of Skill,LUSE646,Sleep,Basic Emotion.
+consumable_647,647,1704,314,1,100,0,871,1,0,0,0,3665,0,0,0,140,548,0,0,0,Book of Skill,LUSE647,Work Out,Basic Emotion.
+consumable_648,648,1704,314,1,100,0,871,1,0,0,0,3666,0,0,0,140,548,0,0,0,Book of Skill,LUSE648,Mime,Basic Emotion.
+consumable_649,649,1704,314,1,100,0,871,1,0,0,0,3667,0,0,0,140,548,0,0,0,Book of Skill,LUSE649,Big Wave,Basic Emotion.
+consumable_650,650,1704,314,1,0,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_651,651,1705,314,10,1300,0,871,1,0,0,0,201,0,0,0,140,548,0,0,0,Book of Skill,LUSE651,Weapon Mastery,Increase Melee Weapon damage.
+consumable_652,652,1705,314,70,29200,0,871,1,0,0,0,211,0,0,0,140,548,0,0,0,Book of Skill,LUSE652,One-Handed Mastery,Increase One-Handed Weapon damage.
+consumable_653,653,1705,314,70,29200,0,871,1,0,0,0,221,0,0,0,140,548,0,0,0,Book of Skill,LUSE653,Two-Handed Mastery,Increase Two-Handed Weapon damage.
+consumable_654,654,1705,314,10,1300,0,871,1,0,0,0,231,0,0,0,140,548,0,0,0,Book of Skill,LUSE654,Harden Body,Increase Maximum HP amount.
+consumable_655,655,1705,314,20,3450,0,871,1,0,0,0,251,0,0,0,140,548,0,0,0,Book of Skill,LUSE655,Armor Mastery,Increase Defense.
+consumable_656,656,1705,314,40,10750,0,871,1,0,0,0,271,0,0,0,140,548,0,0,0,Book of Skill,LUSE656,Crossbow Mastery,Increase Crossbow damage. Only Knights can upgrade this skill above Level 5.
+consumable_657,657,1705,314,30,6600,0,871,1,0,0,0,281,0,0,0,140,548,0,0,0,Book of Skill,LUSE657,Quick Step,Increase Movement Speed. Only Champions can upgrade this skill above Level 5.
+consumable_658,658,1705,314,30,6600,0,871,1,0,0,0,291,0,0,0,140,548,0,0,0,Book of Skill,LUSE658,Mental Mastery,Increase Maximum MP amount.
+consumable_659,659,1703,314,10,1300,0,871,1,0,0,0,301,0,0,0,140,548,0,0,0,Book of Skill,LUSE659,Heavy Attack,Bash a target with crushing force while using a Melee Weapon. 
+consumable_660,660,1703,314,15,2250,0,871,1,0,0,0,321,0,0,0,140,548,0,0,0,Book of Skill,LUSE660,Double Attack,Deliver double blows onto a target while using a Melee Weapon.
+consumable_661,661,1703,314,30,6600,0,871,1,0,0,0,341,0,0,0,140,548,0,0,0,Book of Skill,LUSE661,Leap Attack,Enables its user to jump and attack at the same time when using a Melee Weapon. Inflicts Stun effect on the target. 
+consumable_662,662,1703,314,25,4900,0,871,1,0,0,0,361,0,0,0,140,548,0,0,0,Book of Skill,LUSE662,Berserk,Increase Attack Power of caster while decreasing caster's Defense for skill's duration.
+consumable_663,663,1703,314,30,6600,0,871,1,0,0,0,371,0,0,0,140,548,0,0,0,Book of Skill,LUSE663,Shield Protect,Increase Defense for skill's duration while using a Shield.
+consumable_664,664,1703,314,35,8550,0,871,1,0,0,0,381,0,0,0,140,548,0,0,0,Book of Skill,LUSE664,Shield Barrier,Increase Magic Resistance of the caster and party members for skill???s duration. Requires a Shield.
+consumable_665,665,1703,314,50,15900,0,871,1,0,0,0,391,0,0,0,140,548,0,0,0,Book of Skill,LUSE665,Divine Force,Shoot a holy sphere at a target from a distance. 
+consumable_666,666,1703,314,60,22050,0,871,1,0,0,0,401,0,0,0,140,548,0,0,0,Book of Skill,LUSE666,Spin Attack,?
+consumable_667,667,1703,314,45,13200,0,871,1,0,0,0,411,0,0,0,140,548,0,0,0,Book of Skill,LUSE667,Taunt,"Directs target's hate towards caster, causing target to attack caster for a while."
+consumable_668,668,1703,314,55,18850,0,871,1,0,0,0,421,0,0,0,140,548,0,0,0,Book of Skill,LUSE668,Endure,Increase Defense while decreasing the caster's Movement Speed for skill's duration.
+consumable_669,669,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_670,670,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_671,671,1705,314,70,29200,0,871,1,0,0,0,451,0,0,0,140,548,0,0,0,Book of Skill,LUSE671,Religious Study,Increase Strength and the Maximum MP amount.
+consumable_672,672,1703,314,55,18850,0,871,1,0,0,0,471,0,0,0,140,548,0,0,0,Book of Skill,LUSE672,Taunt Shot,Inflict damage and provoke a target at the same time when using a Bow.
+consumable_673,673,1703,314,45,13200,0,871,1,0,0,0,481,0,0,0,140,548,0,0,0,Book of Skill,LUSE673,Heavy Bow Shot,"Crossbow required. By focusing your energy before firing an arrow, you can inflict heavy damage on an enemy."
+consumable_674,674,1703,314,70,29200,0,871,1,0,0,0,491,0,0,0,140,548,0,0,0,Book of Skill,LUSE674,Slow Shot,"Inflict damage on a target, and decrease its Movement Speed."
+consumable_675,675,1703,314,80,37350,0,871,1,0,0,0,501,0,0,0,140,548,0,0,0,Book of Skill,LUSE675,Range Shot,Fire a powerful arrow shot at a target from a distance. Requires a Crossbow.
+consumable_676,676,1703,314,80,37350,0,871,1,0,0,0,511,0,0,0,140,548,0,0,0,Book of Skill,LUSE676,Impact Wave,Thrust a sword into the ground and crack the ground???s surface to do splash damage to many foes.  
+consumable_677,677,1703,314,90,46500,0,871,1,0,0,0,521,0,0,0,140,548,0,0,0,Book of Skill,LUSE677,Lightning Crasher,Deliver multiple blows after confusing the target. 
+consumable_678,678,1703,314,70,29200,0,871,1,0,0,0,531,0,0,0,140,548,0,0,0,Book of Skill,LUSE678,Holy Blood,Sacrifice one's HP to inflict more damage onto nearby enemies.
+consumable_679,679,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_680,680,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_681,681,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_682,682,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_683,683,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_684,684,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_685,685,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_686,686,1705,314,70,29200,0,871,1,0,0,0,601,0,0,0,140,548,0,0,0,Book of Skill,LUSE686,Championship Study,Increase Strength and Dexterity by 1 point.
+consumable_687,687,1703,314,70,29200,0,871,1,0,0,0,621,0,0,0,140,548,0,0,0,Book of Skill,LUSE687,Sharpen Blade,Increase Critical attack rate for skill's duration.
+consumable_688,688,1703,314,75,33150,0,871,1,0,0,0,631,0,0,0,140,548,0,0,0,Book of Skill,LUSE688,Raging Blood,Increase the Maximum HP amount for skill's duration.
+consumable_689,689,1703,314,75,33150,0,871,1,0,0,0,641,0,0,0,140,548,0,0,0,Book of Skill,LUSE689,Champion Clamor,Scream out loud to put nearby enemies to sleep.
+consumable_690,690,1703,314,40,10750,0,871,1,0,0,0,651,0,0,0,140,548,0,0,0,Book of Skill,LUSE690,Blood Attack,?
+consumable_691,691,1703,314,90,46500,0,871,1,0,0,0,661,0,0,0,140,548,0,0,0,Book of Skill,LUSE691,Tendon Slash,Slow your enemy from a distance by slinging energy from your sword aimed at their achilles tendon.
+consumable_692,692,1703,314,80,37350,0,871,1,0,0,0,671,0,0,0,140,548,0,0,0,Book of Skill,LUSE692,Champion Hit,Enables its caster to leap high into the air and strike the top of the enemys skull.
+consumable_693,693,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_694,694,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_695,695,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_696,696,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_697,697,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_698,698,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_699,699,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_700,700,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_701,701,1705,314,10,1300,0,871,1,0,0,0,801,0,0,0,140,548,0,0,0,Book of Skill,LUSE701,Magic Arms Mastery,Increase Magic Weapon damage.
+consumable_702,702,1705,314,10,1300,0,871,1,0,0,0,821,0,0,0,140,548,0,0,0,Book of Skill,LUSE702,Meditation,Increase Maximum MP and MP Recovery Rate.
+consumable_703,703,1705,314,10,1300,0,871,1,0,0,0,841,0,0,0,140,548,0,0,0,Book of Skill,LUSE703,Spell Mastery,Reduce MP consumption of skills by a certain percentage. 
+consumable_704,704,1705,314,40,10750,0,871,1,0,0,0,861,0,0,0,140,548,0,0,0,Book of Skill,LUSE704,Summon Mastery,Enables its caster to summon more monsters at a time. 
+consumable_705,705,1705,314,0,150,0,871,1,0,0,0,871,0,0,0,140,548,0,0,0,Book of Skill,LUSE705,0,
+consumable_706,706,1705,314,0,150,0,871,1,0,0,0,881,0,0,0,140,548,0,0,0,Book of Skill,LUSE706,0,
+consumable_707,707,1703,314,25,4900,0,871,1,0,0,0,911,0,0,0,140,548,0,0,0,Book of Skill,LUSE707,Fire Ring,Decrease the Defense of a target.
+consumable_708,708,1703,314,10,1300,0,871,1,0,0,0,901,0,0,0,140,548,0,0,0,Book of Skill,LUSE708,Mana Bolt,Shoot a Mana Bolt at a target from a distance.
+consumable_709,709,1703,314,20,3450,0,871,1,0,0,0,921,0,0,0,140,548,0,0,0,Book of Skill,LUSE709,Healing,Restore HP of the caster and nearby party members at the same time.
+consumable_710,710,1703,314,10,1300,0,871,1,0,0,0,931,0,0,0,140,548,0,0,0,Book of Skill,LUSE710,Cure,Restore HP of a target.
+consumable_711,711,1703,314,30,6600,0,871,1,0,0,0,941,0,0,0,140,548,0,0,0,Book of Skill,LUSE711,Meteor Strike,Use a Staff to strike an enemy with great force and inflict the Stun status.
+consumable_712,712,1703,314,35,8550,0,871,1,0,0,0,951,0,0,0,140,548,0,0,0,Book of Skill,LUSE712,Lightning,Cast Lightning on a target to stun it.
+consumable_713,713,1703,314,25,4900,0,871,1,0,0,0,961,0,0,0,140,548,0,0,0,Book of Skill,LUSE713,Support,Increase the Movement Speed of a target for the skill's duration. 
+consumable_714,714,1703,314,35,8550,0,871,1,0,0,0,971,0,0,0,140,548,0,0,0,Book of Skill,LUSE714,Blessing Body,Increase nearby party members' Maximum HP for the skill's duration.
+consumable_715,715,1703,314,15,2250,0,871,1,0,0,0,981,0,0,0,140,548,0,0,0,Book of Skill,LUSE715,Ice Bolt,Shoot an ice bolt at a target.
+consumable_716,716,1703,314,50,15900,0,871,1,0,0,0,991,0,0,0,140,548,0,0,0,Book of Skill,LUSE716,Blessing Armor,Increase one's Defense for skill's duration.
+consumable_717,717,1703,314,80,37350,0,871,1,0,0,0,1001,0,0,0,140,548,0,0,0,Book of Skill,LUSE717,Freezing,Decrease the Movement Speed of a target for skill's duration.
+consumable_718,718,1703,314,70,29200,0,871,1,0,0,0,1011,0,0,0,140,548,0,0,0,Book of Skill,LUSE718,Defense Aura,Increase nearby party members' Defense for skill's duration.
+consumable_719,719,1703,314,30,6600,0,871,1,0,0,0,1021,0,0,0,140,548,0,0,0,Book of Skill,LUSE719,Power Support,Increase the Attack Power of a target for skill's duration.
+consumable_720,720,1703,314,50,15900,0,871,1,0,0,0,1031,0,0,0,140,548,0,0,0,Book of Skill,LUSE720,Mild,Decrease the Attack Power of a target.
+consumable_721,721,1703,314,70,29200,0,871,1,0,0,0,1041,0,0,0,140,548,0,0,0,Book of Skill,LUSE721,Purify,Cancel harmful curse magic cast on a target.
+consumable_722,722,1703,314,55,18850,0,871,1,0,0,0,1051,0,0,0,140,548,0,0,0,Book of Skill,LUSE722,Blessed Mind,Increase nearby party members' Maximum MP for skill's duration.
+consumable_723,723,1703,314,75,33150,0,871,1,0,0,0,1061,0,0,0,140,548,0,0,0,Book of Skill,LUSE723,Fire Burn,Shoot a fire bolt at a target to inflict damage and decrease Defense at the same time.
+consumable_724,724,1703,314,75,33150,0,871,1,0,0,0,1071,0,0,0,140,548,0,0,0,Book of Skill,LUSE724,Silence,Blocks a target from casting magic spells for skill's duration.
+consumable_725,725,1703,314,55,18850,0,871,1,0,0,0,1081,0,0,0,140,548,0,0,0,Book of Skill,LUSE725,Wind Storm,Summon a storm to do enormous damage onto enemies near the caster.
+consumable_726,726,1703,314,90,46500,0,871,1,0,0,0,1091,0,0,0,140,548,0,0,0,Book of Skill,LUSE726,Lunar Stone,Summon a meteor from the sky to inflict damage on many foes.
+consumable_727,727,1703,314,95,51450,0,871,1,0,0,0,1101,0,0,0,140,548,0,0,0,Book of Skill,LUSE727,Ice Bang,Create ice poles within an area that inflict damage and decrease the Movement Speed of enemies when they walk inside the area.
+consumable_728,728,1703,314,0,150,0,871,1,0,0,0,1111,0,0,0,140,548,0,0,0,Book of Skill,LUSE728,,
+consumable_729,729,1703,314,0,150,0,871,1,0,0,0,1121,0,0,0,140,548,0,0,0,Book of Skill,LUSE729,,
+consumable_730,730,1703,314,70,29200,0,871,1,0,0,0,1131,0,0,0,140,548,0,0,0,Book of Skill,LUSE730,Resurrection,Revive a dead character on the current spot.
+consumable_731,731,1703,314,40,10750,0,871,1,0,0,0,1141,0,0,0,140,548,0,0,0,Book of Skill,LUSE731,Curse,Decreases the HP of a target.
+consumable_732,732,1704,314,25,4900,0,871,1,0,0,0,1151,0,0,0,140,548,0,0,0,Book of Skill,LUSE732,Call Butterfly,Summon a magic butterfly to confuse nearby enemies.
+consumable_733,733,1704,314,30,6600,0,871,1,0,0,0,1161,0,0,0,140,548,0,0,0,Book of Skill,LUSE733,Bonfire,Cast a magic campfire to aid party members in restoring HP and MP faster.
+consumable_734,734,1704,314,40,10750,0,871,1,0,0,0,1171,0,0,0,140,548,0,0,0,Book of Skill,LUSE734,Phantom Sword,Summon a magic sword to attack a target from a distance.
+consumable_735,735,1704,314,90,46500,0,871,1,0,0,0,1181,0,0,0,140,548,0,0,0,Book of Skill,LUSE735,Call Elemental,Summon an Elemental.
+consumable_736,736,1704,314,80,37350,0,871,1,0,0,0,1191,0,0,0,140,548,0,0,0,Book of Skill,LUSE736,Call Firegon,Summon a fire dragon.
+consumable_737,737,1703,314,75,33150,0,871,1,0,0,0,1201,0,0,0,140,548,0,0,0,Book of Skill,LUSE737,Battle Support,Increase the Attack Speed of a target for skill's duration.
+consumable_738,738,1703,314,85,41800,0,871,1,0,0,0,1211,0,0,0,140,548,0,0,0,Book of Skill,LUSE738,Damage Support,Increase target's normal attack and skill damage for skill's duration.
+consumable_739,739,1703,314,45,13200,0,871,1,0,0,0,1221,0,0,0,140,548,0,0,0,Book of Skill,LUSE739,Hit Support,Increase target's Attack Accuracy for skill's duration.
+consumable_740,740,1703,314,90,46500,0,871,1,0,0,0,1231,0,0,0,140,548,0,0,0,Book of Skill,LUSE740,Sharpen Support,Increase target's Critical attack rate for skill's duration.
+consumable_741,741,1703,314,80,37350,0,871,1,0,0,0,1241,0,0,0,140,548,0,0,0,Book of Skill,LUSE741,Magical Aura,Increase nearby party members' Magic Resistance for skill's duration.
+consumable_742,742,1703,314,85,41800,0,871,1,0,0,0,1251,0,0,0,140,548,0,0,0,Book of Skill,LUSE742,Evasion Aura,Increase nearby party members' Dodge Rate.
+consumable_743,743,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_744,744,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_745,745,1705,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,????????,
+consumable_746,746,1705,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_747,747,1705,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_748,748,1705,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,?????,
+consumable_749,749,1705,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_750,750,1705,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,???????????,
+consumable_751,751,1705,314,10,1300,0,871,1,0,0,0,1401,0,0,0,140,548,0,0,0,Book of Skill,LUSE751,Bow Mastery,Increase Attack Power of Bow weapons
+consumable_752,752,1705,314,10,1300,0,871,1,0,0,0,1421,0,0,0,140,548,0,0,0,Book of Skill,LUSE752,Combat Mastery,Increase Attack Power of Katar and Dual Wield weapons.
+consumable_753,753,1705,314,20,3450,0,871,1,0,0,0,1441,0,0,0,140,548,0,0,0,Book of Skill,LUSE753,Rest Mastery,Increase HP Recovery Rate while resting.
+consumable_754,754,1703,314,25,4900,0,871,1,0,0,0,1451,0,0,0,140,548,0,0,0,Book of Skill,LUSE754,Hawker Spirit,Increase the caster's Attack Accuracy for skill's duration.
+consumable_755,755,1705,314,20,3450,0,871,1,0,0,0,1461,0,0,0,140,548,0,0,0,Book of Skill,LUSE755,Battle Mastery,"Increase Attack Power and Attack Speed of Katar, Dual Wield and Bow weapons."
+consumable_756,756,1703,314,10,1300,0,871,1,0,0,0,1481,0,0,0,140,548,0,0,0,Book of Skill,LUSE756,Aim Shot,Shoot an arrow at a target with great force.
+consumable_757,757,1703,314,10,1300,0,871,1,0,0,0,1501,0,0,0,140,548,0,0,0,Book of Skill,LUSE757,Power Attack,Hit a target with mighty force while using a Knuckle or a Melee Weapon.
+consumable_758,758,1703,314,20,3450,0,871,1,0,0,0,1521,0,0,0,140,548,0,0,0,Book of Skill,LUSE758,Double Shot,Shoot 2 arrows at a target at once.
+consumable_759,759,1703,314,20,3450,0,871,1,0,0,0,1541,0,0,0,140,548,0,0,0,Book of Skill,LUSE759,Double Slash,Deliver 2 blows at a target at once. 
+consumable_760,760,1703,314,30,6600,0,871,1,0,0,0,1561,0,0,0,140,548,0,0,0,Book of Skill,LUSE760,Sprint,Increase the caster's Movement Speed for skill's duration.
+consumable_761,761,1703,314,40,10750,0,871,1,0,0,0,1571,0,0,0,140,548,0,0,0,Book of Skill,LUSE761,Spiral Kick,Enables its caster to spin and kick on a spot to do splash damage to nearby enemies.
+consumable_762,762,1703,314,35,8550,0,871,1,0,0,0,1581,0,0,0,140,548,0,0,0,Book of Skill,LUSE762,Trap Shot,"Shoot an arrow to bind a target to the ground, decreasing target's Movement Speed."
+consumable_763,763,1703,314,40,10750,0,871,1,0,0,0,1591,0,0,0,140,548,0,0,0,Book of Skill,LUSE763,Screw Attack,Enables its caster to spin wildly on a spot to inflict damage on a target. Requires Katar or Dual Wield weapon.
+consumable_764,764,1703,314,50,15900,0,871,1,0,0,0,1601,0,0,0,140,548,0,0,0,Book of Skill,LUSE764,Heart Hit,?
+consumable_765,765,1703,314,90,46500,0,871,1,0,0,0,1611,0,0,0,140,548,0,0,0,Book of Skill,LUSE765,Prime Hit,Inflict a great amount of damage to a nearby enemy.
+consumable_766,766,1703,314,75,33150,0,871,1,0,0,0,1621,0,0,0,140,548,0,0,0,Book of Skill,LUSE766,Poison Arrow,Shoot an arrow that will inflict the Poison status on an enemy.
+consumable_767,767,1703,314,70,29200,0,871,1,0,0,0,1511,0,0,0,140,548,0,0,0,Book of Skill,LUSE767,Power Burst,Advanced Power Attack skill. Hit a target with awesome might while using a Knuckle or a Melee Weapon.
+consumable_768,768,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_769,769,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,?????????,
+consumable_770,770,1703,314,70,29200,0,871,1,0,0,0,1641,0,0,0,140,548,0,0,0,Book of Skill,LUSE770,Flame Hawk,Summon a fire hawk to inflict damage to enemies from a distance.
+consumable_771,771,1705,314,70,29200,0,871,1,0,0,0,1651,0,0,0,140,548,0,0,0,Book of Skill,LUSE771,Natural Instinct,Increase Concentration and Sense status by 1.
+consumable_772,772,1703,314,70,29200,0,871,1,0,0,0,1671,0,0,0,140,548,0,0,0,Book of Skill,LUSE772,Detect,Detect hidden enemies around the caster.
+consumable_773,773,1703,314,55,18850,0,871,1,0,0,0,1681,0,0,0,140,548,0,0,0,Book of Skill,LUSE773,Speed Shot,Increase Attack Speed of Bow and Crossbow weapons for skill's duration.
+consumable_774,774,1703,314,70,29200,0,871,1,0,0,0,1691,0,0,0,140,548,0,0,0,Book of Skill,LUSE774,Sharpen Arrow,Increase Attack Power of Bow and Crossbow weapon for skill's duration.
+consumable_775,775,1703,314,80,37350,0,871,1,0,0,0,1701,0,0,0,140,548,0,0,0,Book of Skill,LUSE775,Hawk Shot,Attack an enemy from a long distance.
+consumable_776,776,1704,314,80,37350,0,871,1,0,0,0,1711,0,0,0,140,548,0,0,0,Book of Skill,LUSE776,Call Hawk,Summon a hawk.
+consumable_777,777,1703,314,50,15900,0,871,1,0,0,0,1721,0,0,0,140,548,0,0,0,Book of Skill,LUSE777,Interrogate,Threaten a target to run away from the caster.
+consumable_778,778,1703,314,0,150,0,871,1,0,0,0,1731,0,0,0,140,548,0,0,0,Book of Skill,LUSE778,,
+consumable_779,779,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_780,780,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_781,781,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,?????,
+consumable_782,782,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,????????,
+consumable_783,783,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_784,784,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_785,785,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,????????,
+consumable_786,786,1703,314,70,29200,0,871,1,0,0,0,2895,0,0,0,140,548,0,0,0,Book of Skill,LUSE639,????????,
+consumable_787,787,1703,314,70,29200,0,871,1,0,0,0,2896,0,0,0,140,548,0,0,0,Book of Skill,LUSE639,????????,
+consumable_788,788,1703,314,70,29200,0,871,1,0,0,0,1831,0,0,0,140,548,0,0,0,Book of Skill,LUSE788,Mana Blood,Regain MP by consuming HP. 
+consumable_789,789,1703,314,75,33150,0,871,1,0,0,0,1841,0,0,0,140,548,0,0,0,Book of Skill,LUSE789,Stealth,Enables its caster to be invisible while moving or resting.  Attacking enemy cancels the invisible mode.
+consumable_790,790,1703,314,80,37350,0,871,1,0,0,0,1851,0,0,0,140,548,0,0,0,Book of Skill,LUSE790,Poison Knife,Throw a poison shuriken at a target.
+consumable_791,791,1703,314,90,46500,0,871,1,0,0,0,1861,0,0,0,140,548,0,0,0,Book of Skill,LUSE791,Bloody Dust,Raise dust around the caster to decrease Dodge Rate of nearby enemies.
+consumable_792,792,1703,314,85,41800,0,871,1,0,0,0,1871,0,0,0,140,548,0,0,0,Book of Skill,LUSE792,Magic Knife,Throw a shuriken at a target to decrease its Magic Resistance.
+consumable_793,793,1703,314,0,150,0,871,1,0,0,0,1881,0,0,0,140,548,0,0,0,Book of Skill,LUSE793,0,
+consumable_794,794,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_795,795,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_796,796,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_797,797,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,?????,
+consumable_798,798,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,?????????,
+consumable_799,799,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_800,800,1703,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,?????????,
+consumable_801,801,1705,314,10,1300,0,871,1,0,0,0,2001,0,0,0,140,548,0,0,0,Book of Skill,LUSE801,Economy Research,Study economy. Increase Charm by 2 each time the level of this skill is increased.
+consumable_802,802,1705,314,10,1300,0,871,1,0,0,0,2021,0,0,0,140,548,0,0,0,Book of Skill,LUSE802,Gunshot Mastery,Increase Gun and Launcher damage.
+consumable_803,803,1705,314,15,2250,0,871,1,0,0,0,2041,0,0,0,140,548,0,0,0,Book of Skill,LUSE803,Pack Mastery,Increase the number of items which can be carried inside a Bagpack.
+consumable_804,804,1705,314,20,3450,0,871,1,0,0,0,2051,0,0,0,140,548,0,0,0,Book of Skill,LUSE804,Buying Trick,Enables its user to purchase items from NPC shops for less Zulie than the original price. 
+consumable_805,805,1705,314,70,29200,0,871,1,0,0,0,2071,0,0,0,140,548,0,0,0,Book of Skill,LUSE805,Sell Trick,Enables its user to sell items to NPC shops for more Zulie than the original price.  
+consumable_806,806,1705,314,30,6600,0,871,1,0,0,0,2091,0,0,0,140,548,0,0,0,Book of Skill,LUSE806,Gathering,Increase the chance of obtaining items from monsters. 
+consumable_807,807,1705,314,40,10750,0,871,1,0,0,0,2101,0,0,0,140,548,0,0,0,Book of Skill,LUSE807,Employ Troops,Increase Maximum Summon Gauge.
+consumable_808,808,1705,314,20,3450,0,871,1,0,0,0,2111,0,0,0,140,548,0,0,0,Book of Skill,LUSE808,Weapon Research,Allows its user to learn weapon crafting skills. Increase Concentration.
+consumable_809,809,1705,314,30,6600,0,871,1,0,0,0,2131,0,0,0,140,548,0,0,0,Book of Skill,LUSE809,Armor Research,Refine your fundamental armor crafting skills. Increase Defense.
+consumable_810,810,1705,314,20,3450,0,871,1,0,0,0,2141,0,0,0,140,548,0,0,0,Book of Skill,LUSE810,Combat Mastery,Refine combat techniques with a Gun. Increase Attack Speed when wielding a Gun or Launcher.
+consumable_811,811,1705,314,20,3450,0,871,1,0,0,0,2081,0,0,0,140,548,0,0,0,Book of Skill,LUSE811,Craft Mastery,Learn the essentials of crafting. Increase Maximum MP.
+consumable_812,812,1705,314,0,150,0,871,1,0,0,0,2161,0,0,0,140,548,0,0,0,Book of Skill,LUSE812,,
+consumable_813,813,1705,314,0,150,0,871,1,0,0,0,2171,0,0,0,140,548,0,0,0,Book of Skill,LUSE813,0,
+consumable_814,814,1705,314,0,150,0,871,1,0,0,0,2181,0,0,0,140,548,0,0,0,Book of Skill,LUSE814,0,
+consumable_815,815,1703,314,75,33150,0,871,1,0,0,0,2211,0,0,0,140,548,0,0,0,Book of Skill,LUSE815,Sniping Shot,Inflict a great amount of damage to a target.
+consumable_816,816,1703,314,10,1300,0,871,1,0,0,0,2201,0,0,0,140,548,0,0,0,Book of Skill,LUSE816,Power Gun Shot,Increase Gun and Launcher weapon damage.
+consumable_817,817,1703,314,20,3450,0,871,1,0,0,0,2221,0,0,0,140,548,0,0,0,Book of Skill,LUSE817,Twin Shot,Shoot 2 bullets at a target in a single attack.
+consumable_818,818,1703,314,25,4900,0,871,1,0,0,0,2241,0,0,0,140,548,0,0,0,Book of Skill,LUSE818,Union Weapon,Increase the caster's Attack Speed for skill's duration.
+consumable_819,819,1703,314,35,8550,0,871,1,0,0,0,2251,0,0,0,140,548,0,0,0,Book of Skill,LUSE819,Intensify Armor,Temporarily increase Defense by tapping into the hidden qualities of your armor.
+consumable_820,820,1703,314,70,29200,0,871,1,0,0,0,2261,0,0,0,140,548,0,0,0,Book of Skill,LUSE820,Aim Sight,Shoot a target from a considerably long distance.
+consumable_821,821,1703,314,40,10750,0,871,1,0,0,0,2271,0,0,0,140,548,0,0,0,Book of Skill,LUSE821,Poison Fang,?
+consumable_822,822,1703,314,30,6600,0,871,1,0,0,0,2281,0,0,0,140,548,0,0,0,Book of Skill,LUSE822,Smash Gun,Hit a nearby target with the barrel of your gun.
+consumable_823,823,1703,314,0,150,0,871,1,0,0,0,2291,0,0,0,140,548,0,0,0,Book of Skill,LUSE823,0,
+consumable_824,824,1703,314,80,37350,0,871,1,0,0,0,2301,0,0,0,140,548,0,0,0,Book of Skill,LUSE824,Zuly Storm,Throw many coins to inflict damage on enemies near the caster.
+consumable_825,825,1703,314,50,15900,0,871,1,0,0,0,2311,0,0,0,140,548,0,0,0,Book of Skill,LUSE825,Zuly Pink,Throw a coin at a target to cause damage from a distance.
+consumable_826,826,1703,314,0,150,0,871,1,0,0,0,2321,0,0,0,140,548,0,0,0,Book of Skill,LUSE826,0,
+consumable_827,827,1703,314,0,150,0,871,1,0,0,0,2331,0,0,0,140,548,0,0,0,Book of Skill,LUSE827,0,
+consumable_828,828,1703,314,0,150,0,871,1,0,0,0,2341,0,0,0,140,548,0,0,0,Book of Skill,LUSE828,0,
+consumable_829,829,1704,314,40,10750,0,871,1,0,0,0,2351,0,0,0,140,548,0,0,0,Book of Skill,LUSE829,Employ Warrior,Summon a melee attack warrior by spending Zulie. 
+consumable_830,830,1704,314,70,29200,0,871,1,0,0,0,2361,0,0,0,140,548,0,0,0,Book of Skill,LUSE830,Employ Hunter,Use Zulie to summon a Hunter that specializes in long distance attacks.
+consumable_831,831,1704,314,80,37350,0,871,1,0,0,0,2371,0,0,0,140,548,0,0,0,Book of Skill,LUSE831,Terror Knight,Summon a Terror Knight.
+consumable_832,832,1704,314,20,3450,0,871,1,0,0,0,2401,0,0,0,140,548,0,0,0,Book of Skill,LUSE832,Item Craft,Craft various items.
+consumable_833,833,1704,314,20,3450,0,871,1,0,0,0,2411,0,0,0,140,548,0,0,0,Book of Skill,LUSE833,SubItem Craft,"Craft Shields, Bags, Back equipment, Wings, etc."
+consumable_834,834,1704,314,25,4900,0,871,1,0,0,0,2431,0,0,0,140,548,0,0,0,Book of Skill,LUSE834,Sword Craft,"Create One-Handed Swords, Two-Handed Swords or Dual Wield weapons."
+consumable_835,835,1704,314,25,4900,0,871,1,0,0,0,2451,0,0,0,140,548,0,0,0,Book of Skill,LUSE835,Blunt Weapon Craft,"Create Axes, Spears, Katars or One-Handed Maces."
+consumable_836,836,1704,314,25,4900,0,871,1,0,0,0,2471,0,0,0,140,548,0,0,0,Book of Skill,LUSE836,Bow Craft,Create Bows or Crossbows. 
+consumable_837,837,1704,314,25,4900,0,871,1,0,0,0,2491,0,0,0,140,548,0,0,0,Book of Skill,LUSE837,Magic Weapon Craft,Create Magic Weapons such as Staffs or Wands.
+consumable_838,838,1704,314,25,4900,0,871,1,0,0,0,2511,0,0,0,140,548,0,0,0,Book of Skill,LUSE838,Gun Craft,Create Guns or Launchers. 
+consumable_839,839,1704,314,35,8550,0,871,1,0,0,0,2531,0,0,0,140,548,0,0,0,Book of Skill,LUSE839,Normal Armor Craft,"Create normal Clothing, Hats, Gloves, Shoes or Masks."
+consumable_840,840,1704,314,0,150,0,871,1,0,0,0,2541,0,0,0,140,548,0,0,0,Book of Skill,LUSE840,0,
+consumable_841,841,1704,314,35,8550,0,871,1,0,0,0,2551,0,0,0,140,548,0,0,0,Book of Skill,LUSE841,Combat Armor Craft,"Create Armor, Helms, Gauntlets and Boots. "
+consumable_842,842,1704,314,35,8550,0,871,1,0,0,0,2564,0,0,0,140,548,0,0,0,Book of Skill,LUSE842,Advance Combat Armor Craft,You can craft Advance Equipment for Soldier and Hawker.
+consumable_843,843,1704,314,35,8550,0,871,1,0,0,0,2571,0,0,0,140,548,0,0,0,Book of Skill,LUSE843,Magic Armor Craft,"Create Magic Clothing, Hats, Gloves and Boots. "
+consumable_844,844,1704,314,35,8550,0,871,1,0,0,0,2566,0,0,0,140,548,0,0,0,Book of Skill,LUSE844,Advance Magic Armor Craft,You can craft Advance Equipment for Muse and Dealer.
+consumable_845,845,1704,314,70,29200,0,871,1,0,0,0,2591,0,0,0,140,548,0,0,0,Book of Skill,LUSE845,Cart Craft,Create various Cart parts.
+consumable_846,846,1704,314,80,37350,0,871,1,0,0,0,2601,0,0,0,140,548,0,0,0,Book of Skill,LUSE846,CastleGear Craft,Create various Castle Gear parts.
+consumable_847,847,1704,314,70,29200,0,871,1,0,0,0,2611,0,0,0,140,548,0,0,0,Book of Skill,LUSE847,Gem Cutting,Produce a good quality gem from a low quality gem. 
+consumable_848,848,1704,314,50,15900,0,871,1,0,0,0,2621,0,0,0,140,548,0,0,0,Book of Skill,LUSE848,Item Divide,"Detach a gem from an item, or take an item apart in order to obtain its materials."
+consumable_849,849,1704,314,70,29200,0,871,1,0,0,0,2631,0,0,0,140,548,0,0,0,Book of Skill,LUSE849,Refine Item,Refine equipment to enhance its performance. Increase item class by 1 when successful.
+consumable_850,850,1704,314,70,29200,0,871,1,0,0,0,2641,0,0,0,140,548,0,0,0,Book of Skill,LUSE850,Accessory Craft,"Create various accessories such as Rings, Earrings and Necklaces."
+consumable_851,851,1704,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_852,852,1704,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_853,853,1704,314,0,150,0,871,1,0,0,0,0,0,0,0,140,548,0,0,0,Book of Skill,,,
+consumable_854,854,1704,314,70,29200,0,871,1,0,0,0,2634,0,0,0,140,548,0,0,0,Book of Skill,LUSE854,Hover Craft Mastery,Hover Craft Mastery
+consumable_856,856,2161,313,35,550,0,211,2,0,0,0,2850,0,0,0,140,548,0,0,0,Magic Item,LUSE856,Orogorudo Rock,An ancient rock which can be mined.
+consumable_857,857,2161,313,35,650,0,211,2,0,0,0,2851,0,0,0,140,548,0,0,0,Magic Item,LUSE856,Orogorudo Rock,An ancient rock which can be mined.
+consumable_858,858,2161,313,35,750,0,211,2,0,0,0,2852,0,0,0,140,548,0,0,0,Magic Item,LUSE856,Orogorudo Rock,An ancient rock which can be mined.
+consumable_859,859,2161,313,35,850,0,211,2,0,0,0,2853,0,0,0,140,548,0,0,0,Magic Item,LUSE856,Orogorudo Rock,An ancient rock which can be mined.
+consumable_860,860,2161,313,35,950,0,211,2,0,0,0,2854,0,0,0,140,548,0,0,0,Magic Item,LUSE856,Orogorudo Rock,An ancient rock which can be mined.
+consumable_861,861,2161,313,35,1050,0,211,2,0,0,0,2855,0,0,0,140,548,0,0,0,Magic Item,LUSE856,Orogorudo Rock,An ancient rock which can be mined.
+consumable_862,862,2390,314,30,200000,0,871,1,0,0,0,620,0,0,0,140,548,0,0,0,Book of Skill,LUSE862,ETC Tripple Attack,ETC iROSE 2ndSoldier Fencing Skill.
+consumable_863,863,2390,314,30,200000,0,871,1,0,0,0,572,0,0,0,140,548,0,0,0,Book of Skill,LUSE863,ETC Strike Raid,ETC iROSE 2ndSoldier Fencing Skill.
+consumable_864,864,2390,314,30,200000,0,871,1,0,0,0,578,0,0,0,140,548,0,0,0,Book of Skill,LUSE864,ETC Demon's Scratch,ETC iROSE 2ndSoldier Fencing Skill.
+consumable_865,865,2390,314,30,200000,0,871,1,0,0,0,584,0,0,0,140,548,0,0,0,Book of Skill,LUSE865,ETC Demon's Spin,ETC iROSE 2ndSoldier Fencing Skill.
+consumable_866,866,2390,314,30,200000,0,871,1,0,0,0,590,0,0,0,140,548,0,0,0,Book of Skill,LUSE866,ETC Trigger Surge,ETC iROSE 2ndSoldier Fencing Skill.
+consumable_867,867,2390,314,30,200000,0,871,1,0,0,0,596,0,0,0,140,548,0,0,0,Book of Skill,LUSE867,ETC Demon's Dive ,ETC iROSE 2ndSoldier Fencing Skill.
+consumable_868,868,2390,314,30,200000,0,871,1,0,0,0,602,0,0,0,140,548,0,0,0,Book of Skill,LUSE868,ETC Strike Pulse,ETC iROSE 2ndSoldier Fencing Skill.
+consumable_869,869,2390,314,30,200000,0,871,1,0,0,0,608,0,0,0,140,548,0,0,0,Book of Skill,LUSE869,ETC Demon Strike ,ETC iROSE 2ndSoldier Fencing Skill.
+consumable_870,870,2390,314,30,200000,0,871,1,0,0,0,614,0,0,0,140,548,0,0,0,Book of Skill,LUSE870,ETC Storm Spin Attack,ETC iROSE 2ndSoldier Fencing Skill.
+consumable_871,871,1705,314,0,0,0,0,0,0,0,0,3201,0,0,0,0,548,0,0,0,Book of Skill,LUSE871,Healing (All),GM Skill
+consumable_872,872,1705,314,0,0,0,0,0,0,0,0,3208,0,0,0,0,548,0,0,0,Book of Skill,LUSE872,"Atk Power, Hitting Rate (All)",GM Skill
+consumable_873,873,1705,314,0,0,0,0,0,0,0,0,3207,0,0,0,0,548,0,0,0,Book of Skill,LUSE873,"Defense, Magic Resist (All)",GM Skill
+consumable_874,874,1705,314,0,0,0,0,0,0,0,0,3206,0,0,0,0,548,0,0,0,Book of Skill,LUSE874,"Haste, Critical (All)",GM Skill
+consumable_875,875,1705,314,0,0,0,0,0,0,0,0,3209,0,0,0,0,548,0,0,0,Book of Skill,LUSE875,"Rapid Run, Dodge Rate (All)",GM Skill
+consumable_876,876,1705,314,0,0,0,0,0,0,0,0,3210,0,0,0,0,548,0,0,0,Book of Skill,LUSE880,Return to Normal (All),GM Skill
+consumable_877,877,1705,314,0,0,0,0,0,0,0,0,3211,0,0,0,0,548,0,0,0,Book of Skill,LUSE883,Add-Damage (All),GM Skill
+consumable_878,878,1705,314,0,0,0,0,0,0,0,0,3212,0,0,0,0,548,0,0,0,Book of Skill,LUSE885,HP/MP UP(All),GM Skill
+consumable_879,879,1705,314,0,0,0,0,0,0,0,0,3216,0,0,0,0,548,0,0,0,Book of Skill,LUSE886,Magic Attack (Target),GM Skill
+consumable_880,880,1705,314,0,0,0,0,0,0,0,0,3217,0,0,0,0,548,0,0,0,Book of Skill,LUSE887,Faint (Target),GM Skill
+consumable_881,881,1705,314,0,0,0,0,0,0,0,0,3218,0,0,0,0,548,0,0,0,Book of Skill,LUSE888,Dumb (Target),GM Skill
+consumable_882,882,1705,314,0,0,0,0,0,0,0,0,3219,0,0,0,0,548,0,0,0,Book of Skill,LUSE889,Target Cancelled,GM Skill
+consumable_884,884,1705,314,30,200000,0,871,1,0,0,0,3620,0,0,0,140,548,0,0,0,Book of Skill,LUSE523,Guard Mastery,N/A
+consumable_885,885,1705,314,30,200000,0,871,1,0,0,0,3622,0,0,0,140,548,0,0,0,Book of Skill,LUSE523,Guard Mastery,N/A
+consumable_886,886,1705,314,30,200000,0,871,1,0,0,0,3624,0,0,0,140,548,0,0,0,Book of Skill,LUSE523,Guard Mastery,N/A
+consumable_887,887,1705,314,30,200000,0,871,1,0,0,0,3626,0,0,0,140,548,0,0,0,Book of Skill,LUSE523,Guard Mastery,N/A
+consumable_888,888,1705,314,30,200000,0,871,1,0,0,0,3628,0,0,0,140,548,0,0,0,Book of Skill,LUSE523,Guard Mastery,N/A
+consumable_889,889,1705,314,30,200000,0,871,1,0,0,0,3630,0,0,0,140,548,0,0,0,Book of Skill,LUSE523,Guard Mastery,N/A
+consumable_890,890,1705,314,30,200000,0,871,1,0,0,0,3632,0,0,0,140,548,0,0,0,Book of Skill,LUSE523,Guard Mastery,N/A
+consumable_891,891,1705,314,30,200000,0,871,1,0,0,0,3634,0,0,0,140,548,0,0,0,Book of Skill,LUSE523,Guard Mastery,N/A
+consumable_892,892,1705,314,30,200000,0,871,1,0,0,0,3638,0,0,0,140,548,0,0,0,Book of Skill,LUSE523,Guard Mastery,N/A
+consumable_895,895,1705,314,0,150,0,211,0,0,0,0,3220,0,0,0,0,548,0,0,0,Book of Skill,LUSE895,GM Skill Mastery,GM Skill
+consumable_896,896,1705,314,0,150,0,211,0,0,0,0,3221,0,0,0,0,548,0,0,0,Book of Skill,LUSE896,Developer Skill Mastery,GM Skill
+consumable_897,897,1705,314,30,200000,0,871,1,0,0,0,3643,0,0,0,140,548,0,0,0,Book of Skill,LUSE523,Guard Mastery,N/A
+consumable_898,898,1705,314,30,200000,0,871,1,0,0,0,3643,0,0,0,140,548,0,0,0,Book of Skill,LUSE523,Guard Mastery,N/A
+consumable_899,899,1705,314,30,200000,0,871,1,0,0,0,3644,0,0,0,140,548,0,0,0,Book of Skill,LUSE523,Guard Mastery,N/A
+consumable_900,900,2071,316,10,5000,5,151,1,0,0,0,0,0,0,0,914,0,0,0,0,Quest scroll,LUSE964,Reset EXPScroll,Mainly used by players who dont want to level fast and loves farming but still want to maintain their level
+consumable_901,901,2071,316,10,5000,5,151,1,0,0,0,0,0,0,0,915,0,0,0,0,Quest scroll,LUSE965,Clan Teleport Scroll,Mainly used by Clan members to teleport the whole clan
+consumable_902,902,2071,316,10,5000,5,151,1,0,0,0,0,0,0,0,916,0,0,0,0,Quest scroll,LUSE966,,
+consumable_903,903,1705,323,40,200,1,211,1,0,0,0,100,0,0,0,1505,16,0,0,0,,LUSE903,,
+consumable_905,905,1705,323,40,200,1,211,1,0,0,0,100,0,0,0,1505,16,0,0,0,,LUSE903,,
+consumable_911,911,1612,311,80,2000,1,162,0,0,0,37,1,0,0,0,0,548,0,0,0,Medicine,LUSE911,Rose,A mysterious rose....
+consumable_912,912,2060,313,10,100,1,251,1,0,0,0,2891,0,0,0,140,549,0,0,0,Magic Item,LUSE910,????????,
+consumable_913,913,2045,313,10,20,1,162,1,0,0,0,3270,0,0,0,140,548,0,0,0,Magic Item,LUSE913,Firecracker,Firecrackers for celebrating the Christmas spirit.
+consumable_914,914,2048,313,10,100,1,251,1,0,0,0,2893,0,0,0,140,549,0,0,0,Magic Item,LUSE914,Grab Bag,These grab bags are distributed during New Year's. What ever could be inside?
+consumable_915,915,2047,313,10,100,1,251,1,0,0,0,2893,0,0,0,140,549,0,0,0,Magic Item,LUSE914,Grab Bag,These grab bags are distributed during New Year's. What ever could be inside?
+consumable_918,918,2065,313,50,10,1,251,1,0,0,0,2898,0,0,0,1192,548,0,0,0,Magic Item,LUSE918,Love Chocolate,A chocolate especially made for Valentine's Day.
+consumable_921,921,2045,313,10,20,1,162,1,0,0,0,3271,0,0,0,140,548,0,0,0,Magic Item,LUSE921,Fireworks,Fireworks for the summer beach festival.
+consumable_922,922,2045,313,10,20,1,162,1,0,0,0,3272,0,0,0,140,548,0,0,0,Magic Item,LUSE921,Fireworks,Fireworks for the summer beach festival.
+consumable_923,923,2045,313,10,20,1,162,1,0,0,0,3273,0,0,0,140,548,0,0,0,Magic Item,LUSE921,Fireworks,Fireworks for the summer beach festival.
+consumable_924,924,2045,313,10,20,1,162,1,0,0,0,3274,0,0,0,140,548,0,0,0,Magic Item,LUSE921,Fireworks,Fireworks for the summer beach festival.
+consumable_925,925,2045,313,10,20,1,162,1,0,0,0,3275,0,0,0,140,548,0,0,0,Magic Item,LUSE921,Fireworks,Fireworks for the summer beach festival.
+consumable_926,926,2045,313,10,20,1,162,1,0,0,0,3276,0,0,0,140,548,0,0,0,Magic Item,LUSE921,Fireworks,Fireworks for the summer beach festival.
+consumable_927,927,2045,313,10,20,1,162,1,0,0,0,3277,0,0,0,140,548,0,0,0,Magic Item,LUSE921,Fireworks,Fireworks for the summer beach festival.
+consumable_928,928,2045,313,10,20,1,162,1,0,0,0,3278,0,0,0,140,548,0,0,0,Magic Item,LUSE921,Fireworks,Fireworks for the summer beach festival.
+consumable_929,929,2045,313,10,20,1,162,1,0,0,0,3279,0,0,0,140,548,0,0,0,Magic Item,LUSE921,Fireworks,Fireworks for the summer beach festival.
+consumable_933,933,1541,313,10,100,1,61,1,0,0,0,2870,0,0,0,140,549,0,0,0,Magic Item,LUSE1000,Battleground Chest (F),A chest that contains a blessed item.
+consumable_934,934,1541,313,10,100,1,61,1,0,0,0,2871,0,0,0,140,549,0,0,0,Magic Item,LUSE1001,Battleground Chest (E),A chest that contains a blessed item.
+consumable_935,935,1541,313,10,100,1,61,1,0,0,0,2872,0,0,0,140,549,0,0,0,Magic Item,LUSE1002,Battleground Chest (D),A chest that contains a blessed item.
+consumable_936,936,1542,313,10,100,1,62,1,0,0,0,2873,0,0,0,140,549,0,0,0,Magic Item,LUSE1003,Battleground Chest (C),A chest that contains a blessed item.
+consumable_937,937,1542,313,10,100,1,62,1,0,0,0,2874,0,0,0,140,549,0,0,0,Magic Item,LUSE1004,Battleground Chest (B),A chest that contains a blessed item.
+consumable_938,938,1543,313,10,100,1,63,1,0,0,0,2875,0,0,0,140,549,0,0,0,Magic Item,LUSE1005,Battleground Chest (A),A chest that contains a blessed item.
+consumable_949,949,2113,321,0,5000,0,151,1,0,0,96,1440,0,0,0,140,0,0,0,0,Time Coupon,LUSE949,Normal Shop Coupon,"With this coupon, you can change your shop appearance back to its default look."
+consumable_950,950,2084,321,1,35000,0,151,1,31,65,96,1440,0,0,0,140,0,0,0,0,Time Coupon,LUSE954,Igloo Shop Coupon,"With this coupon, you can change the appearance of your Private Shop to an Igloo for 7 days."
+consumable_951,951,1896,315,60,150000,5,130,1,0,0,0,1,0,0,0,0,0,0,0,0,Repair tool,LUSE951,Perfect Repair Hammer,A special hammer that will repair items without causing any damage.
+consumable_952,952,2049,321,10,500000,0,151,1,0,0,94,1008,0,0,0,140,0,0,0,0,Time Coupon,LUSE952,Free Storage Coupon,"With this coupon, you can use the Storage for free for 7 days."
+consumable_953,953,2050,321,10,200000,0,151,1,0,0,95,1008,0,0,0,140,0,0,0,0,Time Coupon,LUSE953,Storage Expansion Coupon,"With this coupon, you use an additional 30 slots in your Storage for free for 7 days."
+consumable_954,954,2084,321,1,50000,0,151,1,0,0,96,1440,0,0,0,140,0,0,0,0,Time Coupon,LUSE954,Igloo Shop Coupon,"With this coupon, you can change the appearance of your Private Shop to an Igloo for 7 days."
+consumable_955,955,2085,321,3,55000,0,151,1,31,90,96,1440,0,0,0,140,0,0,0,0,Time Coupon,LUSE955,Panda Shop Coupon,"With this coupon, you can change the appearance of your Private Shop to a Panda for 7 days."
+consumable_956,956,2086,321,2,50000,0,151,1,31,30,96,1440,0,0,0,140,0,0,0,0,Time Coupon,LUSE956,Fish Shop Coupon,"With this coupon, you can change the appearance of your Private Shop to a Fish for 7 days."
+consumable_957,957,2112,321,5,75000,0,151,1,31,115,96,1440,0,0,0,140,0,0,0,0,Time Coupon,LUSE957,Moldie Shop Coupon,"With this coupon, you can change the appearance of your Private Shop to a Moldie for 7 days."
+consumable_958,958,1554,321,4,50000,0,151,1,0,0,96,1440,0,0,0,140,0,0,0,0,Time Coupon,LUSE958,Ghost Shop Coupon,"With this coupon, you can change the appearance of your Private Shop to a Ghost for 7 days."
+consumable_961,961,2080,313,30,100,5,151,1,0,0,0,3281,0,0,0,0,0,0,0,0,Magic Item,LUSE961,Damage Booster (Extra Max),Your attacks will inflict 50% more damage for 10 minutes
+consumable_962,962,2081,313,30,100,5,151,1,0,0,0,3282,0,0,0,0,0,0,0,0,Magic Item,LUSE962,Defense Booster (Extra Max),Your Defense and Magic Resistance will be boosted by 30% for 10 minutes
+consumable_963,963,2082,313,30,100,5,151,1,0,0,0,3283,0,0,0,0,0,0,0,0,Magic Item,LUSE963,HP&MP Booster (Extra Max),Your Max HP and Max MP will be boosted by 50% for 10 minutes
+consumable_964,964,2083,313,30,100,5,151,1,0,0,0,3284,0,0,0,0,0,0,0,0,Magic Item,LUSE964,Reset EXPScroll,Mainly used by players who dont want to level fast and loves farming but still want to maintain their level
+consumable_971,971,1699,313,10,20,5,151,0,0,0,0,41,0,0,0,0,0,0,0,0,Magic Item,LUSE971,Hi!,Emotive Expression.
+consumable_972,972,1701,313,10,20,5,151,0,0,0,0,42,0,0,0,0,0,0,0,0,Magic Item,LUSE972,Bow,Emotive Expression.
+consumable_973,973,1700,313,10,20,5,151,0,0,0,0,43,0,0,0,0,0,0,0,0,Magic Item,LUSE973,Gracious Bow,Emotive Expression.
+consumable_974,974,1707,313,10,20,5,151,0,0,0,0,46,0,0,0,0,0,0,0,0,Magic Item,LUSE974,Laugh,Emotive Expression.
+consumable_975,975,1708,313,10,20,5,151,0,0,0,0,47,0,0,0,0,0,0,0,0,Magic Item,LUSE975,Fight Cheer,Emotive Expression.
+consumable_976,976,1698,313,10,20,5,151,0,0,0,0,48,0,0,0,0,0,0,0,0,Magic Item,LUSE976,Breakdown,Emotive Expression.
+consumable_977,977,1709,313,10,20,5,151,0,0,0,0,49,0,0,0,0,0,0,0,0,Magic Item,LUSE977,Tantrum,Emotive Expression.
+consumable_978,978,1706,313,10,20,5,151,0,0,0,0,50,0,0,0,0,0,0,0,0,Magic Item,LUSE978,Applause,Emotive Expression.
+consumable_979,979,1693,313,10,20,5,151,0,0,0,0,0,0,0,0,0,0,0,0,0,Magic Item,,,
+consumable_980,980,1693,313,10,20,5,151,0,0,0,0,0,0,0,0,0,0,0,0,0,Magic Item,,,
+consumable_986,986,2045,313,10,20,1,151,1,0,0,0,3301,0,0,0,0,0,0,0,0,Magic Item,LUSE986,Firecracker,Happy Valentine's Day
+consumable_987,987,2045,313,10,450,1,151,1,0,0,0,3297,0,0,0,0,0,0,0,0,Magic Item,LUSE987,Firecracker,Happy New Year!
+consumable_988,988,2045,313,10,20,1,151,1,0,0,0,3298,0,0,0,0,0,0,0,0,Magic Item,LUSE988,Firecracker,Happy Halloween
+consumable_989,989,2045,313,10,20,1,151,1,0,0,0,3299,0,0,0,0,0,0,0,0,Magic Item,LUSE989,Firecracker,Happy Halloween 2007 - Spooky
+consumable_990,990,2045,313,10,20,1,151,1,0,0,0,3300,0,0,0,0,0,0,0,0,Magic Item,LUSE990,????,
+consumable_991,991,2045,313,10,50,5,162,0,0,0,0,3261,0,0,0,0,0,0,0,0,Magic Item,LUSE991,Firecracker,Congratulations!
+consumable_992,992,2045,313,10,50,5,162,0,0,0,0,3262,0,0,0,0,0,0,0,0,Magic Item,LUSE992,Firecracker,Happy Birthday!
+consumable_993,993,2045,313,10,50,5,162,0,0,0,0,3263,0,0,0,0,0,0,0,0,Magic Item,LUSE993,Firecracker,Thank You!
+consumable_994,994,2045,313,10,50,5,162,0,0,0,0,3264,0,0,0,0,0,0,0,0,Magic Item,LUSE994,Firecracker,I Love You!
+consumable_995,995,2045,313,10,50,5,162,0,0,0,0,3264,0,0,0,0,0,0,0,0,Magic Item,LUSE995,Firecracker,I love you.
+consumable_996,996,1552,313,10,20,1,151,1,0,0,0,3267,0,0,0,0,0,0,0,0,Magic Item,LUSE996,Gachapin Firework,Firework of Gachapin.
+consumable_997,997,1553,313,10,20,1,151,1,0,0,0,3268,0,0,0,0,0,0,0,0,Magic Item,LUSE997,Mukku Firework,Firework of Mukku.
+consumable_998,998,2045,313,10,20,1,151,1,0,0,0,3269,0,0,0,0,0,0,0,0,Magic Item,LUSE998,RuffROSE Firework,RuffROSE!
+consumable_999,999,2045,313,10,20,1,151,1,0,0,0,3280,0,0,0,0,0,0,0,0,Magic Item,LUSE999,Christmas Turkey,"A nice roasted turkey, ideal for Christmas dinner."

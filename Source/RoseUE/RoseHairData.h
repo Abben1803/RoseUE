@@ -1,0 +1,135 @@
+// Generated: hair id -> base (full) hair id.  Variants (base+1/2/3) are
+// the cap-clipped versions.  Used to snap selection to a base + validate variants.
+#pragma once
+#include "CoreMinimal.h"
+
+static int32 RoseHairBase(int32 Id)
+{
+	switch (Id)
+	{
+	case 2: return 1;
+	case 3: return 1;
+	case 4: return 1;
+	case 6: return 5;
+	case 7: return 5;
+	case 8: return 5;
+	case 11: return 10;
+	case 12: return 10;
+	case 13: return 10;
+	case 16: return 15;
+	case 17: return 15;
+	case 18: return 15;
+	case 21: return 20;
+	case 22: return 20;
+	case 23: return 20;
+	case 26: return 25;
+	case 27: return 25;
+	case 28: return 25;
+	case 31: return 30;
+	case 32: return 30;
+	case 33: return 30;
+	case 36: return 35;
+	case 37: return 35;
+	case 38: return 35;
+	case 41: return 40;
+	case 42: return 40;
+	case 43: return 40;
+	case 46: return 45;
+	case 47: return 45;
+	case 48: return 45;
+	case 51: return 50;
+	case 52: return 50;
+	case 53: return 50;
+	case 56: return 55;
+	case 57: return 55;
+	case 58: return 55;
+	case 61: return 60;
+	case 62: return 60;
+	case 63: return 60;
+	case 66: return 65;
+	case 67: return 65;
+	case 68: return 65;
+	case 71: return 70;
+	case 72: return 70;
+	case 73: return 70;
+	case 76: return 75;
+	case 77: return 75;
+	case 78: return 75;
+	case 81: return 80;
+	case 82: return 80;
+	case 83: return 80;
+	case 86: return 85;
+	case 87: return 85;
+	case 88: return 85;
+	case 91: return 90;
+	case 92: return 90;
+	case 93: return 90;
+	case 96: return 95;
+	case 97: return 95;
+	case 98: return 95;
+	case 101: return 100;
+	case 102: return 100;
+	case 106: return 105;
+	case 107: return 105;
+	case 111: return 110;
+	case 112: return 110;
+	case 113: return 110;
+	case 116: return 115;
+	case 117: return 115;
+	case 118: return 115;
+	case 121: return 120;
+	case 122: return 120;
+	case 123: return 120;
+	case 126: return 125;
+	case 127: return 125;
+	case 128: return 125;
+	case 131: return 130;
+	case 132: return 130;
+	case 136: return 135;
+	case 137: return 135;
+	case 138: return 135;
+	case 141: return 140;
+	case 142: return 140;
+	case 143: return 140;
+	case 146: return 145;
+	case 147: return 145;
+	case 148: return 145;
+	case 151: return 150;
+	case 152: return 150;
+	case 153: return 150;
+	case 156: return 155;
+	case 157: return 155;
+	case 158: return 155;
+	case 161: return 160;
+	case 162: return 160;
+	case 163: return 160;
+	case 166: return 165;
+	case 167: return 165;
+	case 176: return 175;
+	case 177: return 175;
+	case 178: return 175;
+	case 181: return 180;
+	case 182: return 180;
+	case 186: return 185;
+	case 187: return 185;
+	case 191: return 190;
+	case 192: return 190;
+	case 196: return 195;
+	case 197: return 195;
+	case 201: return 200;
+	case 202: return 200;
+	case 203: return 200;
+	case 206: return 205;
+	case 207: return 205;
+	case 208: return 205;
+	case 211: return 210;
+	case 212: return 210;
+	case 216: return 215;
+	case 217: return 215;
+	case 218: return 215;
+	case 221: return 220;
+	case 222: return 220;
+	case 223: return 220;
+	default: return Id;  // already a base (or unknown)
+	}
+}

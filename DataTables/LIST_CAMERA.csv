@@ -1,0 +1,13 @@
+Default,cameras\\camera01.zca,44,1.333,130,1,500,90,145,115,125
+Default,cameras\\camera01.zca,44,1.333,220,1,500,110,220,175,195
+Default,cameras\\camera01.zca,44,1.333,350,1,500,120,350,280,310
+Other,cameras\\camera01.zca,44,1.333,120,1,500,80,120,95,105
+Other,cameras\\camera01.zca,44,1.333,200,1,500,100,160,130,145
+Other,cameras\\camera01.zca,44,1.333,280,1,500,130,270,215,235
+Short Range,cameras\\camera01.zca,44,1.333,200,1,200,50,100,115,125
+Short Range,cameras\\camera01.zca,44,1.333,200,1,200,50,100,175,195
+Short Range,cameras\\camera01.zca,44,1.333,200,1,200,50,100,280,310
+Mines,cameras\\camera01.zca,44,1.333,50,1,200,30,45,30,45
+Mines,cameras\\camera01.zca,44,1.333,50,1,200,30,45,30,45
+Mines,cameras\\camera01.zca,44,1.333,50,1,200,30,45,30,45
+,,,,,,,,,,

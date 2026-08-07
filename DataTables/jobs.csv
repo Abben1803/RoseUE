@@ -1,0 +1,69 @@
+Name,Id,JobName,Job1,Job2,Job3,Job4,Job5,Job6,Job7,Job8,Job9,Job10,StlKey,DisplayName
+job_0,0,Visitor,0,0,0,0,0,0,0,0,0,0,LCLA000,Visitor
+job_1,1,Soldier,111,0,0,0,0,0,0,0,0,0,LCLA001,Soldier
+job_2,2,Muse,211,0,0,0,0,0,0,0,0,0,LCLA002,Muse
+job_3,3,Hawker,311,0,0,0,0,0,0,0,0,0,LCLA003,Hawker
+job_4,4,Dealer,411,0,0,0,0,0,0,0,0,0,LCLA004,Dealer
+job_5,5,Musician,511,0,0,0,0,0,0,0,0,0,LCLA075,Musician
+job_11,11,Knight,121,0,0,0,0,0,0,0,0,0,LCLA011,Knight
+job_12,12,Champ,122,0,0,0,0,0,0,0,0,0,LCLA012,Champ
+job_13,13,Magician,221,0,0,0,0,0,0,0,0,0,LCLA013,Magician
+job_14,14,Cleric,222,0,0,0,0,0,0,0,0,0,LCLA014,Cleric
+job_15,15,Raider,321,0,0,0,0,0,0,0,0,0,LCLA015,Raider
+job_16,16,Scouter,322,0,0,0,0,0,0,0,0,0,LCLA016,Scouter
+job_17,17,Bourgeois,421,0,0,0,0,0,0,0,0,0,LCLA017,Bourgeois
+job_18,18,Artisan,422,0,0,0,0,0,0,0,0,0,LCLA018,Artisan
+job_19,19,Bard,521,0,0,0,0,0,0,0,0,0,LCLA077,Bard
+job_20,20,Dancer,522,0,0,0,0,0,0,0,0,0,LCLA078,Dancer
+job_21,21,Crusader,621,0,0,0,0,0,0,0,0,0,LCLA081,Crusader
+job_22,22,Mercenary,622,0,0,0,0,0,0,0,0,0,LCLA082,Mercenary
+job_23,23,Paladin,623,0,0,0,0,0,0,0,0,0,LCLA084,Paladin
+job_24,24,Lord Knight,624,0,0,0,0,0,0,0,0,0,LCLA085,Lord Knight
+job_25,25,Wizard,721,0,0,0,0,0,0,0,0,0,LCLA087,Wizard
+job_26,26,Sage,722,0,0,0,0,0,0,0,0,0,LCLA088,Sage
+job_27,27,Acolyte,723,0,0,0,0,0,0,0,0,0,LCLA090,Acolyte
+job_28,28,Monk,724,0,0,0,0,0,0,0,0,0,LCLA091,Monk
+job_29,29,Assassin,821,0,0,0,0,0,0,0,0,0,LCLA093,Assassin
+job_30,30,Rogue,822,0,0,0,0,0,0,0,0,0,LCLA094,Rogue
+job_31,31,Hunter,823,0,0,0,0,0,0,0,0,0,LCLA096,Hunter
+job_32,32,Stalker,824,0,0,0,0,0,0,0,0,0,LCLA097,Stalker
+job_33,33,Blacksmith,921,0,0,0,0,0,0,0,0,0,LCLA099,Blacksmith
+job_34,34,Designer,922,0,0,0,0,0,0,0,0,0,LCLA100,Designer
+job_35,35,Scavenger,923,0,0,0,0,0,0,0,0,0,LCLA102,Scavenger
+job_36,36,Sniper,924,0,0,0,0,0,0,0,0,0,LCLA103,Sniper
+job_37,37,Minstral,996,0,0,0,0,0,0,0,0,0,LCLA105,Minstral
+job_38,38,Rock Star,997,0,0,0,0,0,0,0,0,0,LCLA106,Rock Star
+job_39,39,Gypsy,998,0,0,0,0,0,0,0,0,0,LCLA108,Gypsy
+job_40,40,Ballerina,999,0,0,0,0,0,0,0,0,0,LCLA109,Ballerina
+job_41,41,Soldier Class,111,121,122,621,622,623,624,0,0,0,LCLA041,Soldier Class
+job_42,42,Muse Class,211,221,222,721,722,723,724,0,0,0,LCLA042,Muse Class
+job_43,43,Hawker Class,311,321,322,821,822,823,824,0,0,0,LCLA043,Hawker Class
+job_44,44,Dealer Class,411,421,422,921,922,923,924,0,0,0,LCLA044,Dealer Class
+job_45,45,Musician Class,511,521,522,996,997,998,999,0,0,0,LCLA074,Musician Class
+job_46,46,First Job Class,111,211,311,411,511,0,0,0,0,0,LCLA046,First Job Class
+job_47,47,Second Job Class,121,122,221,222,321,322,421,422,0,0,LCLA047,Second Job Class
+job_48,48,Third Job Class,621,622,623,624,721,722,723,724,996,997,LCLA048,Third Job Class
+job_49,49,Third Job Class,821,822,823,824,921,922,923,924,998,999,LCLA048,Third Job Class
+job_51,51,Soldier Second Job,121,122,0,0,0,0,0,0,0,0,LCLA051,Soldier Second Job
+job_52,52,Muse Second Job,221,222,0,0,0,0,0,0,0,0,LCLA052,Muse Second Job
+job_53,53,Hawker Second Job,321,322,0,0,0,0,0,0,0,0,LCLA053,Hawker Second Job
+job_54,54,Dealer Second Job,421,422,0,0,0,0,0,0,0,0,LCLA054,Dealer Second Job
+job_55,55,Musician Second Job,521,522,0,0,0,0,0,0,0,0,LCLA076,Musician Second Job
+job_56,56,Soldier Third Job,621,622,623,624,0,0,0,0,0,0,LCLA056,Soldier Third Job
+job_57,57,Muse Third Job,721,722,723,724,0,0,0,0,0,0,LCLA057,Muse Third Job
+job_58,58,Hawker Third Job,821,822,823,824,0,0,0,0,0,0,LCLA058,Hawker Third Job
+job_59,59,Dealer Third Job,921,922,923,924,0,0,0,0,0,0,LCLA059,Dealer Third Job
+job_60,60,Musician Third Job,996,997,998,999,0,0,0,0,0,0,LCLA079,Musician Third Job
+job_61,61,Knight Class,121,623,624,0,0,0,0,0,0,0,LCLA061,Knight Class
+job_62,62,Champ Class,122,621,622,0,0,0,0,0,0,0,LCLA062,Champ Class
+job_63,63,Magician Class,221,721,722,0,0,0,0,0,0,0,LCLA063,Magician Class
+job_64,64,Cleric Class,222,723,724,0,0,0,0,0,0,0,LCLA064,Cleric Class
+job_65,65,Raider Class,321,821,822,0,0,0,0,0,0,0,LCLA065,Raider Class
+job_66,66,Scouter Class,322,823,824,0,0,0,0,0,0,0,LCLA066,Scouter Class
+job_67,67,Bourgeois Class,421,921,922,0,0,0,0,0,0,0,LCLA067,Bourgeois Class
+job_68,68,Artisan Class,422,923,924,0,0,0,0,0,0,0,LCLA068,Artisan Class
+job_69,69,Bard Class,511,521,996,997,0,0,0,0,0,0,LCLA111,Dancer Class
+job_70,70,Dancer Class,511,522,998,999,0,0,0,0,0,0,LCLA110,Bard Class
+job_71,71,Soldier and Hawker Class,111,121,122,621,622,311,321,322,623,624,LCLA071,Soldier and Hawker Class
+job_72,72,Soldier and Hawker Class,821,822,823,824,0,0,0,0,0,0,LCLA071,Soldier and Hawker Class
+job_73,73,Non-Muse,121,122,321,322,421,422,0,0,0,0,LCLA072,Non-Muse

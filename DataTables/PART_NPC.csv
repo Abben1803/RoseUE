@@ -1,0 +1,697 @@
+,
+¶ó¹Ù±âº»[¸Ó¸®+¸öÅë],3DData\NPC\animal\larva\larva1.txt
+¹ú ±âº»¸Ó¸®,3DData\NPC\animal\bee\head01.txt
+¹ú ±âº»¸öÅë,3DData\NPC\animal\bee\body01.txt
+°³¹Ì ±âº»¸Ó¸®,3DData\NPC\animal\ant\head01.txt
+°³¹Ì ±âº»¸öÅë,3DData\NPC\animal\ant\body01.txt
+´ÞÆØÀÌ¸Ó¸®1,3DData\NPC\animal\snail\head01.txt
+´ÞÆØÀÌ¸öÅë1,3DData\NPC\animal\snail\body01.txt
+´ÞÆØÀÌ¸Ó¸®2,3DData\NPC\animal\snail\head02.txt
+´ÞÆØÀÌ¸öÅë2,3DData\NPC\animal\snail\body02.txt
+³Ê±¸¸®¸Ó¸®1,3DData\NPC\animal\raccoon\head01.txt
+³Ê±¸¸®¸öÅë1,3DData\NPC\animal\raccoon\body01.txt
+°í¸±¶ó¸Ó¸®1,3DData\NPC\animal\gorilla\head01.txt
+°í¸±¶ó¸öÅë1,3DData\NPC\animal\gorilla\body01.txt
+°í¸±¶ó¸Ó¸®2[Àº»ö],3DData\NPC\animal\gorilla\head02.txt
+°í¸±¶ó¸öÅë2[Àº»ö],3DData\NPC\animal\gorilla\body02.txt
+°í¸±¶ó¸Ó¸®3[±Ý»ö],3DData\NPC\animal\gorilla\head03.txt
+°í¸±¶ó¸öÅë3[±Ý»ö],3DData\NPC\animal\gorilla\body03.txt
+¾Ç¾îÅõ±¸1,3DData\NPC\animal\alligator\head01.txt
+¾Ç¾î¸öÅë1,3DData\NPC\animal\alligator\body01.txt
+¾Ç¾îÅõ±¸2,3DData\NPC\animal\alligator\head02.txt
+»ç½¿¹ú·¹¸Ó¸®1,3DData\NPC\animal\stagbeetle\head01.txt
+»ç½¿¹ú·¹¸öÅë1,3DData\NPC\animal\stagbeetle\body01.txt
+µÎ´õÁö¸Ó¸®1,3DData\NPC\animal\mole\head01.txt
+µÎ´õÁö¸öÅë1,3DData\NPC\animal\mole\body01.txt
+µÅÁö¸Ó¸®1,3DData\NPC\animal\pigwarrier\head01.txt
+µÅÁö¸öÅë1,3DData\NPC\animal\pigwarrier\body01.txt
+°¡Àç¸Ó¸®1,3DData\NPC\animal\lobster\head01.txt
+°¡Àç¸öÅë1,3DData\NPC\animal\lobster\body01.txt
+´Á´ë¸Ó¸®1,3DData\NPC\animal\wolf\head01.txt
+´Á´ë¸öÅë1,3DData\NPC\animal\wolf\body01.txt
+¸®ºñ´Ù¸Ó¸®1,3DData\NPC\plant\livida\head01.txt
+¸®ºñ´Ù¸öÅë1,3DData\NPC\plant\livida\body01.txt
+STONY1,3DData\NPC\etc\stony\head01.txt
+È£¹Ú¸Ó¸®1,3DData\NPC\plant\pumpkin\head01.txt
+Äá¸öÅë1,3DData\NPC\plant\jellybean1\body01.txt
+°³¹Ì3¸Ó¸®,3DData\NPC\animal\ant3\head01.txt
+°³¹Ì3¸öÅë,3DData\NPC\animal\ant3\body01.txt
+³ª¹«±«¹°,3Ddata\NPC\plant\smallree1\body01.txt
+Ä¸Æ¾µÅÁö¸Ó¸®,3Ddata\NPC\animal\Captain_pig1\head01.txt
+Ä¸Æ¾µÅÁö¸ö,3Ddata\NPC\animal\Captain_pig1\body01.txt
+¹é¼öµÅÁö¸Ó¸®,3Ddata\NPC\animal\Pig1\head01.txt
+¹é¼öµÅÁö¸ö,3Ddata\NPC\animal\Pig1\body01.txt
+°ÅºÏÀÌ¸Ó¸®,3Ddata\NPC\animal\Turtle_beetle1\head01.txt
+°ÅºÏÀÌ¸ö,3Ddata\NPC\animal\Turtle_beetle1\body01.txt
+Ç³µ­ÀÌ¸Ó¸®,3Ddata\NPC\animal\stagbeetle\head02.txt
+Ç³µ­ÀÌ¸ö,3Ddata\NPC\animal\stagbeetle\body02.txt
+¿©¿Õ¹ú¸Ó¸®,3Ddata\NPC\animal\Queen_Bee1\head01.txt
+¿©¿Õ¹ú¸ö1,3Ddata\NPC\animal\Queen_Bee1\body01.txt
+¿©¿Õ¹ú¸ö2,3Ddata\NPC\animal\Queen_Bee1\body01.txt
+º¸½º¸÷_JD01 ¸ö01(¸®¹Ù½Ã¶ó°ï),3Ddata\NPC\animal\MOP_BOSS_JD01\MOP_BOSS_JD01_BODY01_01.txt
+º¸½º¸÷_JD01 ¸ö02(¸®¹Ù½Ã¶ó°ï),3Ddata\NPC\animal\MOP_BOSS_JD01\MOP_BOSS_JD01_BODY01_02.txt
+º¸½º¸÷_JD01 ¸Ó¸®01(¸®¹Ù½Ã¶ó°ï),3Ddata\NPC\animal\MOP_BOSS_JD01\MOP_BOSS_JD01_HEAD01_01.txt
+,
+½º¸ô°íºí¸°¸Ó¸®,3Ddata\NPC\animal\smallGoblin1\head01.txt
+½º¸ô°íºí¸°¸öÅë,3Ddata\NPC\animal\smallGoblin1\body01.txt
+Á©¸®¹Ù¸öÅë,3Ddata\NPC\etc\Jellyjar1\body01.txt
+Äµµé°í½ºÆ®¸ö1,3Ddata\NPC\etc\CandleGhost1\body01.txt
+Äµµé°í½ºÆ®¸ö2,3Ddata\NPC\etc\CandleGhost1\body02.txt
+Äá2¸öÅë,3DData\NPC\plant\jellybean2\body01.txt
+ÇÇ½¬¸Ç1¸Ó¸®,3Ddata\NPC\animal\fishman1\head01.txt
+ÇÇ½¬¸Ç1¸öÅë,3Ddata\NPC\animal\fishman1\body01.txt
+´ÞÆØÀÌ3¸Ó¸®,3DData\NPC\animal\snail3\head01.txt
+´ÞÆØÀÌ3¸öÅë,3DData\NPC\animal\snail3\body01.txt
+¸»¹ú¸Ó¸®,3DData\NPC\animal\bee3\head01.txt
+¸»¹ú¸öÅë,3DData\NPC\animal\bee3\body01.txt
+¹åµ¥¸®±Í½Å¸Ó¸®,3Ddata\NPC\etc\spark\head01.txt
+¹åµ¥¸®±Í½Å¸öÅë,3Ddata\NPC\etc\spark\body01.txt
+½ºÅæ°ñ·½¸Ó¸®,3Ddata\NPC\etc\stonegollem\head01.txt
+½ºÅæ°ñ·½¸öÅë,3Ddata\NPC\etc\stonegollem\body01.txt
+¿¤ÇÁÀÇ°Ë¸öÅë,3Ddata\NPC\etc\weapon\head01.txt
+¸ð´ÚºÒ¸öÅë,3Ddata\NPC\etc\etc12\etc12.txt
+Á©¸®³Óº¯Çü2,3Ddata\NPC\plant\jellybean1\body02.txt
+Á©¸®ºóº¯Çü2,3Ddata\NPC\plant\jellybean2\body02.txt
+¾î¹ÌÃÊ·ÎÇÇ¸ö,3Ddata\NPC\animal\larva\larva2.txt
+È£¶ûÃÊ·ÎÇÇ¸ö,3Ddata\NPC\animal\larva\larva3.txt
+ÇØº´´ÞÆØÀÌ¸Ó¸®,3Ddata\NPC\animal\snail3\head02.txt
+ÇØº´´ÞÆØÀÌ¸ö,3Ddata\NPC\animal\snail3\body02.txt
+¿Ãµå½º¸ô¸®¸ö,3Ddata\NPC\plant\smallree1\body02.txt
+·¹µåÇÃ¶ó³Ý¸ö1,3Ddata\NPC\plant\livida\body02.txt
+·¹µåÇÃ¶ó³Ý¸ö2,3Ddata\NPC\plant\livida\head02.txt
+·¹µåÀÏ²Û°³¹Ì2¸Ó¸®,3DData\NPC\animal\ant3\head02.txt
+·¹µåÀÏ²Û°³¹Ì2¸ö,3DData\NPC\animal\ant3\body02.txt
+·¹µåÀÏ²Û°³¹Ì3¸Ó¸®,3DData\NPC\animal\ant3\head03.txt
+·¹µåÀÏ²Û°³¹Ì3¸ö,3DData\NPC\animal\ant3\body03.txt
+³Ê±¸¸®2¸Ó¸®,3DData\NPC\animal\raccoon\head02.txt
+³Ê±¸¸®2¸ö,3DData\NPC\animal\raccoon\body02.txt
+´Á´ë2¸Ó¸®,3Ddata\NPC\animal\wolf2\head02.txt
+´Á´ë2¸ö,3Ddata\NPC\animal\wolf2\body02.txt
+°¡Àç2¸Ó¸®,3DData\NPC\animal\lobster\head02.txt
+°¡Àç2¸ö,3DData\NPC\animal\lobster\body02.txt
+¾Ç¾î2¸Ó¸®,3DData\NPC\animal\alligator2\head02.txt
+¾Ç¾î2¸ö,3DData\NPC\animal\alligator2\body02.txt
+°ñ·½2¸Ó¸®,3DData\NPC\etc\stony\head02.txt
+½ºÅæ°ñ·½2¸Ó¸®,3Ddata\NPC\etc\stonegollem\head02.txt
+½ºÅæ°ñ·½2¸ö,3Ddata\NPC\etc\stonegollem\body02.txt
+ÇÇ½Ã¸Ç2¸Ó¸®,3Ddata\NPC\animal\fishman1\head02.txt
+ÇÇ½Ã¸Ç2¸ö,3Ddata\NPC\animal\fishman1\body02.txt
+½º¸ô°íºí¸°2¸Ó¸®,3Ddata\NPC\animal\smallGoblin1\head02.txt
+½º¸ô°íºí¸°2¸ö,3Ddata\NPC\animal\smallGoblin1\body02.txt
+,
+¹ß¸í°¡¸Ó¸®1,3DData\NPC\npc\inventor\head01.txt
+¹ß¸í°¡¸öÅë1,3DData\NPC\npc\inventor\body01.txt
+Áý½Ã´ÜÀå¸Ó¸®,3Ddata\NPC\npc\GYPSY\head01.txt
+Áý½Ã´ÜÀå¸öÅë,3Ddata\NPC\npc\GYPSY\body01.txt
+¹«»çÁ¶ÇÕÀå¸Ó¸®1,3DData\NPC\npc\warrior\head01.txt
+¹«»çÁ¶ÇÕÀå¸ö1,3DData\NPC\npc\warrior\body01.txt
+¿©ÀÚ¸¶¼ú»ç¸Ó¸®1,3Ddata\NPC\npc\magician\head01.txt
+¿©ÀÚ¸¶¼ú»ç¸ö1,3Ddata\NPC\npc\magician\body01.txt
+ÁÖ±³¸Ó¸®1,3Ddata\NPC\npc\ARCHBISHOP\head01.txt
+ÁÖ±³¸öÅë1,3Ddata\NPC\npc\ARCHBISHOP\body01.txt
+¿ëº´´ëÀå¸Ó¸®1,3Ddata\NPC\npc\mercenaries\head01.txt
+¿ëº´´ëÀå¸öÅë1,3Ddata\NPC\npc\mercenaries\body01.txt
+ÁÖÁ¡ÁÖÀÎ¸Ó¸®1,3Ddata\NPC\npc\barkeeper\head01.txt
+ÁÖÁ¡ÁÖÀÎ¸öÅë1,3Ddata\NPC\npc\barkeeper\body01.txt
+´ëÀåÀåÀÌ¸Ó¸®1,3Ddata\NPC\npc\smith\head01.txt
+´ëÀåÀåÀÌ¸öÅë1,3Ddata\NPC\npc\smith\body01.txt
+ÇÐÀÚ¸Ó¸®1,3Ddata\NPC\npc\scholar\head01.txt
+ÇÐÀÚ¸öÅë1,3Ddata\NPC\npc\scholar\body01.txt
+ÀÇÀû´ÜÀå¸Ó¸®1,3Ddata\NPC\npc\robber\head01.txt
+ÀÇÀû´ÜÀå¸öÅë1,3Ddata\NPC\npc\robber\body01.txt
+²¿¸¶1,3Ddata\NPC\npc\child1\body01.txt
+Áö³ª°¡´Â¿©ÀÚ¸Ó¸®1,3Ddata\NPC\npc\woman1\head01.txt
+Áö³ª°¡´Â¿©ÀÚ¸öÅë1,3Ddata\NPC\npc\woman1\body01.txt
+Ã»³â¸Ó¸®1,3Ddata\NPC\npc\youngman1\head01.txt
+Ã»³â¸ö1,3Ddata\NPC\npc\youngman1\body01.txt
+³ªºñ1,3Ddata\NPC\npc\nabi\body01.txt
+³ªºñ2,3Ddata\NPC\npc\nabi\body02.txt
+³ªºñ3,3Ddata\NPC\npc\nabi\body03.txt
+Ç³¼±¸Ó¸®,3Ddata\NPC\npc\pungsun\head01.txt
+Ç³¼±¸ö1,3Ddata\NPC\npc\pungsun\body01.txt
+Ç³¼±¸ö2,3Ddata\NPC\npc\pungsun\body02.txt
+¹°°í±â1,3Ddata\NPC\npc\tropical1\body01.txt
+¹°°í±â2,3Ddata\NPC\npc\tropical1\body02.txt
+¹°°í±â3,3Ddata\NPC\npc\tropical3\body01.txt
+¹Ýµ÷ºÒ,3Ddata\NPC\npc\ban1\body01.txt
+Ä«³ª¸®¾Æ,3Ddata\NPC\etc\kana\kana.txt
+¹«±â»óÀÎ¸Ó¸®,3Ddata\NPC\npc\weapondealer\head01.txt
+¹«±â»óÀÎ¸öÅë,3Ddata\NPC\npc\weapondealer\body01.txt
+¾È³»°É¸Ó¸®,3Ddata\NPC\npc\guide\head01.txt
+¾È³»°É¸öÅë,3Ddata\NPC\npc\guide\body01.txt
+ÀÜÆ®Àç´Ü»ç¸Ó¸®,3Ddata\NPC\npc\cutter\head01.txt
+ÀÜÆ®Àç´Ü»ç¸öÅë,3Ddata\NPC\npc\cutter\body01.txt
+ÀÜÆ®Ä«¿ìº¸ÀÌ¸Ó¸®,3Ddata\NPC\npc\cowboy\head01.txt
+ÀÜÆ®Ä«¿ìº¸ÀÌ¸öÅë,3Ddata\NPC\npc\cowboy\body01.txt
+ÀÜÆ®ÃÌÀå¸Ó¸®,3Ddata\NPC\npc\chief\head01.txt
+ÀÜÆ®ÃÌÀå¸öÅë,3Ddata\NPC\npc\chief\body01.txt
+ÀÎ°£ÁÖÁ¡ÁÖÀÎ¸Ó¸®,3Ddata\NPC\npc\landlady\head01.txt
+ÀÎ°£ÁÖÁ¡ÁÖÀÎ¸öÅë,3Ddata\NPC\npc\landlady\body01.txt
+,
+È£¹Ú2¸Ó¸®,3DData\NPC\plant\pumpkin2\head02.txt
+È£¹Ú2¸ö,3DData\NPC\plant\pumpkin2\body02.txt
+È£¹Ú3¸Ó¸®,3DData\NPC\plant\pumpkin2\head03.txt
+È£¹Ú3¸ö,3DData\NPC\plant\pumpkin2\body03.txt
+µÎ´õÁö2¸Ó¸®,3DData\NPC\animal\mole2\head02.txt
+µÎ´õÁö2¸ö,3DData\NPC\animal\mole2\body02.txt
+±î¸¸ °í¸±¶ó¸Ó¸®,3DData\NPC\animal\gorilla\head04.txt
+±î¸¸ °í¸±¶ó¸ö,3DData\NPC\animal\gorilla\body04.txt
+,
+´Ù·»¸Ó¸®,3Ddata\NPC\npc\daren\head01.txt
+´Ù·»¸öÅë,3Ddata\NPC\npc\daren\body01.txt
+°íºí¸°Çì´õ¸Ó¸®,3Ddata\NPC\etc\Goblinheader\head01.txt
+°íºí¸°Çì´õ¸öÅë,3Ddata\NPC\etc\Goblinheader\body01.txt
+°íºí¸°¸Ó¸®,3Ddata\NPC\etc\Goblin\head01.txt
+°íºí¸°¸öÅë,3Ddata\NPC\etc\Goblin\body01.txt
+°íºí¸°¸¶¹ý»ç¸Ó¸®,3Ddata\NPC\etc\Goblinmagic\head01.txt
+°íºí¸°¸¶¹ý»ç¸öÅë,3Ddata\NPC\etc\Goblinmagic\body01.txt
+°íºí¸°´ë¿Õ¸öÅë,3Ddata\NPC\etc\Goblinking\body01.txt
+¼Òµå¸¶½ºÅÍ¸Ó¸®,3Ddata\NPC\npc\sordmaster\head01.txt
+¼Òµå¸¶½ºÅÍ¸öÅë,3Ddata\NPC\npc\sordmaster\body01.txt
+¿äÁ¤¸Ó¸®,3Ddata\NPC\npc\fairy\head01.txt
+¿äÁ¤¸öÅë,3Ddata\NPC\npc\fairy\body01.txt
+¹ÚÁã¸Ó¸®,3DDATA\NPC\animal\batman\head01.txt
+¹ÚÁã¸öÅë,3DDATA\NPC\animal\batman\body01.txt
+¹ÚÁã±×·ì¸öÅë,3DDATA\NPC\animal\batmangroup\head01.txt
+¹ÚÁã±×·ì¸öÅë,3DDATA\NPC\animal\batmangroup\body01.txt
+¿äÁ¤ºÒ,3Ddata\NPC\etc\fairyfire\body01.txt
+º¸¿ì¸¶½ºÅÍ¸Ó¸®,3Ddata\NPC\npc\bowmaster\head01.txt
+º¸¿ì¸¶½ºÅÍ¸öÅü,3Ddata\NPC\npc\bowmaster\body01.txt
+ÀÌ±Û¸Ó¸®,3Ddata\NPC\npc\eagle\head01.txt
+ÀÌ±Û¸öÅë,3Ddata\NPC\npc\eagle\body01.txt
+ÃÊ¼Ò°æºñº´¸Ó¸®,3Ddata\NPC\npc\guard\head01.txt
+ÃÊ¼Ò°æºñº´¸öÅë,3Ddata\NPC\npc\guard\body01.txt
+ºÒµ¶¸Ó¸®,3Ddata\NPC\npc\bulldog\head01.txt
+ºÒµ¶¸öÅë,3Ddata\NPC\npc\bulldog\body01.txt
+Å×·¯³ªÀÌÆ®¸Ó¸®,3Ddata\NPC\npc\terrorist\head01.txt
+Å×·¯³ªÀÌÆ®¸öÅë,3Ddata\NPC\npc\terrorist\body01.txt
+È¦¸®µå·¡°ï¸Ó¸®,3Ddata\NPC\npc\hollydragon\head01.txt
+È¦¸®µå·¡°ï¸öÅë,3Ddata\NPC\npc\hollydragon\body01.txt
+¾ÆÅ°³×½º´ÜÀå¸Ó¸®,3Ddata\NPC\npc\akines\head01.txt
+¾ÆÅ°³×½º´ÜÀå¸öÅë,3Ddata\NPC\npc\akines\body01.txt
+´ÜÅæ¸Ó¸®,3Ddata\NPC\npc\danton\head01.txt
+´ÜÅæ¸öÅë,3Ddata\NPC\npc\danton\body01.txt
+¸¶¸£½Ã¾Æ³ë¸Ó¸®,3Ddata\NPC\npc\marsiano\head01.txt
+¸¶¸£½Ã¾Æ³ë¸öÅë,3Ddata\NPC\npc\marsiano\body01.txt
+·Ð¿þ¸Ó¸®,3Ddata\NPC\npc\ronwea\head01.txt
+·Ð¿þ¸öÅë,3Ddata\NPC\npc\ronwea\body01.txt
+Æ®¶ó¸Ó¸®,3Ddata\NPC\etc\tyrant\head01.txt
+Æ®¶ó¸öÅë,3Ddata\NPC\etc\tyrant\body01.txt
+Æ®¶ó¸ÅÁ÷¸Ó¸®Åë,3Ddata\NPC\etc\tyrantmagic\head01.txt
+Æ®¶ó¸ÅÁ÷¸öÅë,3Ddata\NPC\etc\tyrantmagic\body01.txt
+Æ®¶ó¶óÀÌ´õ¸Ó¸®,3Ddata\NPC\etc\tyrantrider\head01.txt
+Æ®¶ó¶óÀÌ´õ¸öÅë,3Ddata\NPC\etc\tyrantrider\body01.txt
+¿¹Æ¼Æ®¶ó¸öÅë,3Ddata\NPC\etc\yetityrant\body01.txt
+¸¾¸ð½º¸Ó¸®Åë,3Ddata\NPC\animal\husehorn\head01.txt
+¸¾¸ð½º¸öÅë,3Ddata\NPC\animal\husehorn\body01.txt
+ÇÁ·ÐÁðÀ®¸Ó¸®Åë,3Ddata\NPC\etc\fronzenwing\head01.txt
+ÇÁ·ÐÁðÀ®¸öÅë,3Ddata\NPC\etc\fronzenwing\body01.txt
+À©ÅÍ¸ô¸öÅë,3Ddata\NPC\etc\wintermaul\body01.txt
+ºÒÄ­¸Ó¸®Åë,3Ddata\NPC\etc\bulcan\head01.txt
+ºÒÄ­¸öÅë,3Ddata\NPC\etc\bulcan\body01.txt
+ÆÄºê¸®Å©¸Ó¸®Åë,3Ddata\NPC\npc\fabri\head01.txt
+ÆÄºê¸®Å©¸öÅë,3Ddata\NPC\npc\fabri\body01.txt
+pvpÆ®·ÎÇÇ,3Ddata\NPC\etc\pvp\body01.txt
+pvpÆ®·ÎÇÇ¿©ÀÚ,3Ddata\NPC\etc\pvp2\body01.txt
+·ç³ª¼öÁ¤ºí·ç01,3Ddata\NPC\etc\sujung\sujung_blue01.txt
+·ç³ª¼öÁ¤±×¸°01,3Ddata\NPC\etc\sujung\sujung_green01.txt
+·ç³ª¼öÁ¤·¹µå01,3Ddata\NPC\etc\sujung\sujung_red01.txt
+·ç³ª¼öÁ¤ºí·¢01,3Ddata\NPC\etc\sujung\sujung_black01.txt
+¿¤¸®¾Æ¸öÅë,3Ddata\NPC\npc\elia\body01.txt
+Æ®·¥ÇÁ¸Ó¸®Åë,3Ddata\NPC\animal\trample\head01.txt
+Æ®·¥ÇÁ¸öÅë,3Ddata\NPC\animal\trample\body01.txt
+º£È÷¸ð½º¸öÅë,3Ddata\NPC\animal\behemoth\body01.txt
+¿¡ÀÌµå¸Ó¸®Åë,3Ddata\NPC\npc\aid\head01.txt
+¿¡ÀÌµå¸öÅë,3Ddata\NPC\npc\aid\body01.txt
+¿¤¸®¾ù¸Ó¸®Åë,3Ddata\NPC\npc\eliot\head01.txt
+¿¤¸®¾ù¸öÅë,3Ddata\NPC\npc\eliot\body01.txt
+Å¸ÀÏ·±Æ®°¡´õ(³ë¶û»öº¯Çü)¸Ó¸®,3Ddata\NPC\etc\tyrant\head02.txt
+Å¸ÀÏ·±Æ®°¡´õ(³ë¶û»öº¯Çü)¸öÅë,3Ddata\NPC\etc\tyrant\body02.txt
+¸ÅÁö¼Ç¾Ù´õ(»¡°£»öº¯Çü)¸Ó¸®Åë,3Ddata\NPC\etc\tyrantmagic\head02.txt
+¸ÅÁö¼Ç¾Ù´õ(»¡°£»öº¯Çü)¸öÅë,3Ddata\NPC\etc\tyrantmagic\body02.txt
+ºí·ç¿ïÇÁ¸Ó¸®Åë,3Ddata\NPC\etc\bluewolf\head01.txt
+ºí·ç¿ïÇÁ¸öÅë,3Ddata\NPC\etc\bluewolf\body01.txt
+¸ÅÁö¼Ç¶óÀÌ´õ¸Ó¸®Åë,3Ddata\NPC\etc\magitionrider\head01.txt
+¸ÅÁö¼Ç¶óÀÌ´õ¸öÅë,3Ddata\NPC\etc\magitionrider\body01.txt
+·ç³ª¿ïÇÁ¸Ó¸®Åë,3Ddata\NPC\etc\runawolf\head01.txt
+·ç³ª¿ïÇÁ¸öÅë,3Ddata\NPC\etc\runawolf\body01.txt
+¶óÀÌ´õÄ¸Æ¾¸öÅë,3Ddata\NPC\etc\tyrantrider\head02.txt
+¶óÀÌÅÍ°¸Æ¾¸öÅë,3Ddata\NPC\etc\tyrantrider\body02.txt
+¿¹Æ¼¸Ó¸®Åë,3Ddata\NPC\etc\yeti\head01.txt
+¿¹Æ¼¸öÅë,3Ddata\NPC\etc\yeti\body01.txt
+½½·¡±×¸öÅë1,3Ddata\NPC\etc\slag\body01.txt
+½½·¡±×¸öÅë2,3Ddata\NPC\etc\slag\body02.txt
+ÀÌ½´Å»¸Ó¸®Åë,3Ddata\NPC\npc\isutal\head01.txt
+ÀÌ½´Å»¸öÅë,3Ddata\NPC\npc\isutal\body01.txt
+¿Ã·¢¸Ó¸®Åë,3Ddata\NPC\npc\olag\head01.txt
+¿Ã·¢¸öÅë,3Ddata\NPC\npc\olag\body01.txt
+¹Ù½Ç¸®½ºÅ©¸Ó¸®Åë,3Ddata\NPC\animal\basilisk\head01.txt
+¹Ù½Ç¸®½ºÅ©¸öÅë,3Ddata\NPC\animal\basilisk\body01.txt
+Çï½ºÅæ¸öÅë,3Ddata\NPC\etc\healstone\body01.txt
+¾ÈÁ©¸®Ä«¸Ó¸®Åë,3Ddata\NPC\npc\angelica\head01.txt
+¾ÈÁ©¸®Ä«¸öÅë,3Ddata\NPC\npc\angelica\body01.txt
+¸¸Æ¼ÄÚ¾î¸Ó¸®Åë,3Ddata\NPC\etc\manticore\head01.txt
+¸¸Æ¼ÄÚ¾î¸öÅë,3Ddata\NPC\etc\manticore\body01.txt
+¿¤¸®¸ÕÆ®¸Ó¸®Åë,3Ddata\NPC\etc\elimental\head01.txt
+¿¤¸®¸ÕÆ®¸öÅë,3Ddata\NPC\etc\elimental\body01.txt
+ÀÌ¹Ý¸Ó¸®Åë,3Ddata\NPC\npc\Ivan\head01.txt
+ÀÌ¹Ý¸öÅë,3Ddata\NPC\npc\Ivan\body01.txt
+¸¶¸£½Ã¾Æ³ë01¸Ó¸®Åë,3Ddata\NPC\npc\marsiano01\head01.txt
+¸¶¸£½Ã¾Æ³ë01¸öÅë,3Ddata\NPC\npc\marsiano01\body01.txt
+Ä³½½±â¾îÆÈ,3DData\pat\CASTLEGEAR\CastleGear02\ARMS\CastleGear02_ARM01.txt
+Ä³½½±â¾î¸ö,3DData\pat\CASTLEGEAR\CastleGear02\BODY\CastleGear02_BODY01.txt
+Ä³½½±â¾î¿£Áö,3DData\pat\CASTLEGEAR\CastleGear02\ENGINE\CastleGear02_ENGINE01.txt
+Ä³½½±â¾î´Ù¸®,3DData\pat\CASTLEGEAR\CastleGear02\LEG\CastleGear02_LEG01.txt
+Ä³½½±â¾îÆÈ02,3DData\pat\CASTLEGEAR\CastleGear02\ARMS\CastleGear02_ARM02R.txt
+Ä³½½±â¾îÆÈ03,3DData\pat\CASTLEGEAR\CastleGear02\ARMS\CastleGear02_ARM03R.txt
+Ä³½½±â¾îÆÈ04,3DData\pat\CASTLEGEAR\CastleGear02\ARMS\CastleGear02_ARM04R.txt
+Ä³½½±â¾îÆÈ05,3DData\pat\CASTLEGEAR\CastleGear02\ARMS\CastleGear02_ARM05R.txt
+¾Þ¸Ç2¸Ó¸®Åë,3Ddata\NPC\npc\youngman2\head01.txt
+¿µ¸Ç2¸öÅë,3Ddata\NPC\npc\youngman2\body01.txt
+ÀÌº¥Æ®Æ®¸®¸Ó¸®Åë,3Ddata\NPC\npc\tree\head01.txt
+ÀÌº¥Æ®Æ®¸®¸öÅë,3Ddata\NPC\npc\tree\body01.txt
+ÂøÇÑ»êÅ¸¸Ó¸®,3Ddata\NPC\npc\santa\head01.txt
+ÂøÇÑ»êÅ¸¸öÅë,3Ddata\NPC\npc\santa\body01.txt
+³ª»Ó»êÅ¸¸Ó¸®,3Ddata\NPC\npc\santa\headbad01.txt
+³ª»Ó»êÅ¸¸öÅë,3Ddata\NPC\npc\santa\bodybad01.txt
+Å°·Î·Î¸Ó¸®Åë,3Ddata\NPC\npc\Kiroro\head01.txt
+Å°·Î·Î¸öÅë,3Ddata\NPC\npc\Kiroro\body01.txt
+ÆøÁ×,3Ddata\NPC\npc\pokjuk\body01.txt
+·ç³ª¹åµ¥¸®±Í½Å¸Ó¸®Åë,3Ddata\NPC\etc\spark\head02.txt
+·ç³ª¹åµ¥¸®±Í½Å¸öÅë,3Ddata\NPC\etc\spark\body02.txt
+Æ®·¦1,3Ddata\NPC\etc\trap\body01.txt
+Æ®·¦2,3Ddata\NPC\etc\trap\body02.txt
+Æ®·¦3,3Ddata\NPC\etc\trap\body03.txt
+Æ¼¸£À©¸Ó¸®,3Ddata\NPC\etc\Tirwin\head01.txt
+Æ¼¸£À©¸öÅë,3Ddata\NPC\etc\Tirwin\body01.txt
+¹öµåÀÌÃÄ¸öÅë,3Ddata\NPC\etc\budeater\body01.txt
+¾Á½ºÅæ¸öÅë,3Ddata\NPC\etc\sealstone1\body01.txt
+ÀÌÃÄ¸öÅë,3Ddata\NPC\etc\eater\body01.txt
+Æ¼¸£À©¸Ó¸®2,3Ddata\NPC\etc\Tirwin2\head01.txt
+Æ¼¸£À©¸öÅë2,3Ddata\NPC\etc\Tirwin2\body01.txt
+¿¡½ºÆ®¸Ó¸®,3Ddata\NPC\npc\est\head01.txt
+¿¡½ºÆ®¸ö,3Ddata\NPC\npc\est\body01.txt
+Ä«Æ®¸ö,3Ddata\PAT\CART\BODY\cart01_BODY01.txt
+Ä«Æ®¿£Áø,3Ddata\PAT\CART\ENGINE\cart01_ENGINE01.txt
+Ä«Æ®ÈÙ,3Ddata\PAT\CART\WHEEL\cart01_WHEEL01.txt
+¾Æ½ºÅ¸·ÎÆ®¸Ó¸®,3Ddata\NPC\etc\astarot\head01.txt
+¾Æ½ºÅ¸·ÎÆ®¸ö1,3Ddata\NPC\etc\astarot\body01.txt
+¾Æ½ºÅ¸·ÎÆ®¸ö2,3Ddata\NPC\etc\astarot\body02.txt
+¾Æ½ºÅ¸·ÎÆ®¸ö3,3Ddata\NPC\etc\astarot\body03.txt
+½ÃÄíÄí¾Ï»ìÀÚ¸Ó¸®,3Ddata\NPC\animal\sikukuA\head01.txt
+½ÃÄíÄí¾Ï»ìÀÚ¸ö,3Ddata\NPC\animal\sikukuA\body01.txt
+½ÃÄíÄíÀü»ç¸Ó¸®,3Ddata\NPC\animal\sikukuF\head01.txt
+½ÃÄíÄíÀü»ç¸ö,3Ddata\NPC\animal\sikukuF\body01.txt
+°¡½Ã´Ù¸®°Å¹Ì¸Ó¸®,3Ddata\NPC\animal\spiderE\head01.txt
+°¡½Ã´Ù¸®°Å¹Ì¸ö,3Ddata\NPC\animal\spiderE\body01.txt
+Ã­·ç_¸Ó¸®,3Ddata\NPC\npc\ChaReu\head01.txt
+Ã­·ç_¸ö,3Ddata\NPC\npc\ChaReu\body01.txt
+½ÃÄíÄíµµ»ìÀÚ¸Ó¸®,3Ddata\NPC\animal\sikukuB\head02.txt
+½ÃÄíÄíµµ»ìÀÚ¸ö,3Ddata\NPC\animal\sikukuB\body02.txt
+³×Ææµ¥½º¸Ó¸®,3Ddata\NPC\plant\nepenthes\head01.txt
+³×Ææµ¥½º¸öÅë,3Ddata\NPC\plant\nepenthes\body01.txt
+ÄíÆÛ_¸Ó¸®,3Ddata\NPC\npc\kuper\head01.txt
+ÄíÆÛ_¸ö,3Ddata\NPC\npc\kuper\body01.txt
+ÇÉ¼­ ¸Ó¸®,3Ddata\NPC\animal\pincers\head01.txt
+ÇÉ½º ¸öÅë,3Ddata\NPC\animal\pincers\body01.txt
+³Ú_¸Ó¸®,3Ddata\NPC\npc\nel\head01.txt
+³Ú_¸ö,3Ddata\NPC\npc\nel\body01.txt
+Ä­_¸Ó¸®,3Ddata\NPC\npc\KHAN\head01.txt
+Ä­_¸ö,3Ddata\NPC\npc\KHAN\body01.txt
+´õ½ºÆ¾_¸Ó¸®,3Ddata\NPC\npc\Dustin\head01.txt
+´õ½ºÆ¾_¸ö,3Ddata\NPC\npc\Dustin\body01.txt
+´õ½ºÆ¾_ÀÇÀÚ,3Ddata\NPC\npc\Dustin\chair01.txt
+ÀÌº¥Æ®¿ë¹þ²É±«¹°,3Ddata\NPC\plant\smallree1\body03.txt
+ÈÄÄ¿¸Ó¸®Åë,3Ddata\NPC\animal\hooker\head01.txt
+ÈÄÄ¿¸öÅë,3Ddata\NPC\animal\hooker\body01.txt
+ÆäÇÇ_¸Ó¸®,3Ddata\NPC\npc\peppi\head01.txt
+ÆäÇÇ_¸ö,3Ddata\NPC\npc\peppi\body01.txt
+½ÃÄíÄíÁÖ¼ú»ç¸Ó¸®,3Ddata\NPC\animal\s_shaman01\head01.txt
+½ÃÄíÄíÁÖ¼ú»ç¸öÅë,3Ddata\NPC\animal\s_shaman01\body01.txt
+·ÎÆ°Æ®¸®¸öÅë,3Ddata\NPC\plant\smallree1\body04.txt
+½ÃÄíÄí¿¤¸®Æ®¾Ï»ìÀÚ¸Ó¸®,3Ddata\NPC\animal\sikukuA\head02.txt
+½ÃÄíÄí¿¤¸®Æ®¾Ï»ìÀÚ¸öÅë,3Ddata\NPC\animal\sikukuA\body02.txt
+½ÃÄíÄíºñ¼ú»ç¸Ó¸®,3Ddata\NPC\animal\s_shaman01\head02.txt
+½ÃÄíÄíºñ¼ú»ç¸öÅë,3Ddata\NPC\animal\s_shaman01\body02.txt
+ºÎÁ·Àå¸Ó¸®,3Ddata\NPC\animal\s_shaman01\head03.txt
+ºÎÁ·Àå¸öÅë,3Ddata\NPC\animal\s_shaman01\body03.txt
+µµ»ìÀÚ¸Ó¸®,3Ddata\NPC\animal\sikukuB\head02.txt
+µµ»ìÀÚ¸öÅë,3Ddata\NPC\animal\sikukuB\body02.txt
+½ÃÄíÄíÄ¸Æ¾¸Ó¸®,3Ddata\NPC\animal\sikukuB\head02.txt
+½ÃÄíÄí°¸Æ¾¸öÅë,3Ddata\NPC\animal\sikukuB\body02.txt
+½ÃÄíÄí»ç³É²Û¸Ó¸®,3Ddata\NPC\animal\sikukuB\head01.txt
+½ÃÄíÄí»ç³É²Û¸öÅë,3Ddata\NPC\animal\sikukuB\body01.txt
+½ÃÄíÄí¸®´õ¸Ó¸®,3Ddata\NPC\animal\sikukuF\head01.txt
+½ÃÄíÄí¸®´õ¸öÅë,3Ddata\NPC\animal\sikukuF\body01.txt
+½ÃÄíÄíÀü»ç¸Ó¸®,3Ddata\NPC\animal\sikukuF\head03.txt
+½ÃÄíÄíÀü»ç¸öÅë,3Ddata\NPC\animal\sikukuF\body03.txt
+½ÃÄíÄíÆ¯Àü»ç¸Ó¸®,3Ddata\NPC\animal\sikukuF\head04.txt
+½ÃÄíÄíÆ¯Àü»ç¸öÅë,3Ddata\NPC\animal\sikukuF\body04.txt
+½ÃÄíÄí¿¤¸®Æ®Àü»ç¸Ó¸®,3Ddata\NPC\animal\sikukuF\head05.txt
+½ÃÄíÄí¿¤¸®Æ®Àü»ç¸öÅë,3Ddata\NPC\animal\sikukuF\body05.txt
+Á¦ÇÁ¸® ·ÎÀÌµå ¸Ó¸®,3Ddata\NPC\npc\Jeffrey\head01.txt
+Á¦ÇÁ¸® ·ÎÀÌµå ¸ö,3Ddata\NPC\npc\Jeffrey\body01.txt
+¹Ýµ÷ºÒ3¸öÅë,3Ddata\NPC\etc\ban3\ban3.txt
+´õ½ºÆ¾1_¸Ó¸®,3Ddata\NPC\npc\Dustin1\head01.txt
+´õ½ºÆ¾1_¸ö,3Ddata\NPC\npc\Dustin1\body01.txt
+Åõ¶óÅ©¸Ó¸®,3Ddata\NPC\animal\turak\head01.txt
+Åõ¶óÅ©¸öÅë,3Ddata\NPC\animal\turak\body01.txt
+¿ø¼þÀÌ,3Ddata\NPC\npc\monkey\head01.txt
+¿ä¸®µµ±¸,3Ddata\NPC\npc\yori\yori.txt
+·ÎÆ°Æ®¸®,3Ddata\NPC\plant\smallree1\body05.txt
+Áêµð ¸Ó¸®,3Ddata\NPC\npc\Judy\head01.txt
+Áêµð ¸öÅë,3Ddata\NPC\npc\Judy\body01.txt
+ÇÁ·¹µ¥ÅÍ°Å¹Ì¸Ó¸®,3Ddata\NPC\animal\spiderE\head02.txt
+ÇÁ·¹Å×ÅÍ°Å¹Ì¸öÅë,3Ddata\NPC\animal\spiderE\body02.txt
+¶óÅ©´©Àü»ç ¸Ó¸®,3Ddata\NPC\npc\Raknu\head01.txt
+¶óÅ©´©Àü»ç ¸öÅë,3Ddata\NPC\npc\Raknu\body01.txt
+¸ð½º°ñ·½¸Ó¸®Åë,3Ddata\NPC\etc\moss1\head01.txt
+¸ð½º°ñ·½¸öÅë,3Ddata\NPC\etc\moss1\body01.txt
+Çì·²µå ¸Ó¸®,3Ddata\NPC\npc\Harold\head01.txt
+Çì·²µå ¸öÅë 01,3Ddata\NPC\npc\Harold\body01.txt
+Çì·²µå ¸öÅë 02,3Ddata\NPC\npc\Harold\body02.txt
+¸áÆ®¸öÅë,3Ddata\NPC\etc\Melt1\body01.txt
+¸áÆ®¸Ó¸®Åë,3Ddata\NPC\etc\Melt1\head01.txt
+Å°¸£ ÀüÃ¼,3Ddata\NPC\npc\Kir\body01.txt
+¸ð½º¿£Æ®¸Ó¸®Åë,3Ddata\NPC\plant\Moss_Ent\head01.txt
+¸ð½º¿£Æ®¸öÅë,3Ddata\NPC\plant\Moss_Ent\body01.txt
+¸Þ¸£µð¾È¸öÅë,3Ddata\NPC\plant\merdian\body01.txt
+¿À¸£Æä¸Ó¸®,3Ddata\NPC\animal\orphe01\head01.txt
+¿À¸£Æä¸öÅë,3Ddata\NPC\animal\orphe01\body01.txt
+ÀÌÄ«³×½º_³ëµ¿ÀÚ_¸Ó¸®,3Ddata\NPC\etc\Icanes\head01.txt
+ÀÌÄ«³×½º_³ëµ¿ÀÚ_¸öÅë,3Ddata\NPC\etc\Icanes\body01.txt
+ÀÌ°í¸£ ¸Ó¸®,3Ddata\NPC\etc\igor01\head01.txt
+ÀÌ°í¸£ ¸öÅë,3Ddata\NPC\etc\igor01\body01.txt
+´ÏµéÆ÷¹Í ¸Ó¸®,3Ddata\NPC\animal\ant01\head01.txt
+´ÏµéÆ÷¹Í ¸öÅë,3Ddata\NPC\animal\ant01\body01.txt
+Á»ºñ¸Ó¸®,3Ddata\NPC\animal\monster\head01.txt
+Á»ºñ¸öÅë,3Ddata\NPC\animal\monster\body01.txt
+»þ¸® ¸Ó¸®,3Ddata\NPC\npc\shari\head01.txt
+»þ¸® ¸öÅë,3Ddata\NPC\npc\shari\body01.txt
+Á¤È­µÈ ·¹Å° ³ì»ö ¸Ó¸®Åë,3Ddata\NPC\animal\raccoon01\head01.txt
+Á¤È­µÈ ·¹Å° ³ì»ö ¸öÅë,3Ddata\NPC\animal\raccoon01\body01.txt
+Á¤È­µÈ ·¹Å° Ã¶¸ð ¸Ó¸®Åë,3Ddata\NPC\animal\raccoon01\head02.txt
+Á¤È­µÈ ·¹Å° Ã¶¸ð ¸öÅë,3Ddata\NPC\animal\raccoon01\body02.txt
+¿¡¿ìµð ¸Ó¸®,3Ddata\NPC\animal\eudy01\head01.txt
+¿¡¿ìµð ¸öÅë,3Ddata\NPC\animal\eudy01\body01.txt
+¾Æ·ç¾Æ¿©½Å¸öÅë,3Ddata\NPC\npc\arua_ghost\body01.txt
+¿ï¹ö¸° ¸Ó¸®,3Ddata\NPC\animal\wolf3\head02.txt
+¿ï¹ö¸° ¸öÅë,3Ddata\NPC\animal\wolf3\body02.txt
+Áßµ¶µÈ¸Å¸Óµå ¸Ó¸®,3Ddata\NPC\animal\husehorn2\head01.txt
+Áßµ¶µÈ¸Å¸Óµå ¸ö,3Ddata\NPC\animal\husehorn2\body01.txt
+¹Ù·ç½º ¸Ó¸®,3Ddata\NPC\etc\tyrantmagic4\head01.txt
+¹Ù·ç½º ¸öÅë,3Ddata\NPC\etc\tyrantmagic4\body02.txt
+Å¸ÀÌÅº ¸Ó¸®,3Ddata\NPC\etc\bulcan2\head01.txt
+Å¸ÀÌÅº ¸öÅë,3Ddata\NPC\etc\bulcan2\body01.txt
+´Ï±×·ë,3Ddata\NPC\animal\behemoth2\body01.txt
+ÆÛÇÃ¹Ù½Ç ¸Ó¸®,3Ddata\NPC\animal\basilisk2\head01.txt
+ÆÛÇÃ¹Ù½Ç ¸ö,3Ddata\NPC\animal\basilisk2\body01.txt
+»çÀÌÅ§·¯½º ¸Ó¸®,3Ddata\NPC\animal\basilisk3\head01.txt
+»çÀÌÅ§·¯½º ¸ö,3Ddata\NPC\animal\basilisk3\body01.txt
+¸»·ç½º³ëÆ® ¸Ó¸®,3Ddata\NPC\animal\trample2\head01.txt
+¸»·ç½º³ëÆ® ¸ö,3Ddata\NPC\animal\trample2\body01.txt
+Æä¸£µµ³ëÆ® ¸Ó¸®,3Ddata\NPC\animal\trample3\head01.txt
+Æä¸£µµ³ëÆ® ¸ö,3Ddata\NPC\animal\trample3\body01.txt
+¹ÂÁîº¯½Å1¸Ó¸®Åë,3Ddata\NPC\npc\muse1\head01.txt
+¹ÂÁîº¯½Å1¸öÅë,3Ddata\NPC\npc\muse1\body01.txt
+ÀÌÄ«³×½º_¿£Áö´Ï¾î ¸Ó¸®,3Ddata\NPC\etc\Icanes_E\head01.txt
+ÀÌÄ«³×½º_¿£Áö´Ï¾î ¸ö,3Ddata\NPC\etc\Icanes_E\body01.txt
+ÀÌÄ«³×½º_°¨½Ã´Ü¿ø ¸Ó¸®,3Ddata\NPC\etc\Icanes_O\head01.txt
+ÀÌÄ«³×½º_°¨½Ã´Ü¿ø ¸ö,3Ddata\NPC\etc\Icanes_O\body01.txt
+ÀÌÄ«³×½º_º´»ç ¸Ó¸®,3Ddata\NPC\etc\Icanes_g\head01.txt
+ÀÌÄ«³×½º_º´»ç ¸ö01,3Ddata\NPC\etc\Icanes_g\body01.txt
+ÀÌÄ«³×½º_º´»ç ¸ö02,3Ddata\NPC\etc\Icanes_g\body02.txt
+¹Ì½ºÅÍ ºÀ,3Ddata\NPC\etc\mrbong\body01.txt
+¹Ì½ºÅÍ Äµ,3Ddata\NPC\etc\mrcan\body01.txt
+ÀÌÄ«·ç½º·Îº¿¸Ó¸®,3Ddata\NPC\etc\icanes05\head01.txt
+ÀÌÄ«·ç½º·Îº¿¸ö,3Ddata\NPC\etc\icanes05\body01.txt
+ÀÌÄ«·ç½ºÅ¾½Â¸Ó¸®,3Ddata\NPC\etc\icanes05\e_head01.txt
+ÀÌÄ«·ç½ºÅ¾½Â¸ö,3Ddata\NPC\etc\icanes05\e_body01.txt
+·ç³ª¸®½º¸ôµð¸Ó¸®Åë,3Ddata\NPC\animal\Lunarismoldy\head01.txt
+·ç³ª¸®½º¸ôµð¸öÅë,3Ddata\NPC\animal\Lunarismoldy\body01.txt
+ÀÌ±Û·ç ÅÍÆ² ¸Ó¸®,3Ddata\NPC\animal\eglooturtle\head01.txt
+ÀÌ±Û·ç ÅÍÆ² ¸öÅë,3Ddata\NPC\animal\eglooturtle\body01.txt
+µ¥µð¾ÆÀÌ¸öÅë,3Ddata\NPC\etc\Dedieye\body01.txt
+±×·£µå µàÅ© ¸Ó¸®,3Ddata\NPC\animal\grandduke\head01.txt
+±×·£µå µàÅ© ¸ö,3Ddata\NPC\animal\grandduke\body01.txt
+µ¥ÀÌÁö ¸Ó¸®,3Ddata\NPC\animal\daisy\head01.txt
+µ¥ÀÌÁö ¸ö,3Ddata\NPC\animal\daisy\body01.txt
+¿£Å°µÎ ¸Ó¸®,3Ddata\NPC\npc\enkidu\head01.txt
+¿£Å°µÎ ¸ö,3Ddata\NPC\npc\enkidu\body01.txt
+½º³ë¿ì¸Ç ºù±Û ´«,3Ddata\NPC\etc\snowman1\head01.txt
+½º³ë¿ì¸Ç µ¿±Û ´«,3Ddata\NPC\etc\snowman2\head01.txt
+Æë±Ï5¸Ó¸®,3Ddata\NPC\animal\Penguin05\head05.txt
+Æë±Ï5¸öÅë,3Ddata\NPC\animal\Penguin05\body05.txt
+Æë±Ï6¸Ó¸®,3Ddata\NPC\animal\Penguin06\head06.txt
+Æë±Ï6¸öÅë,3Ddata\NPC\animal\Penguin06\body06.txt
+Æë±Ï7¸Ó¸®,3Ddata\NPC\animal\Penguin07\head07.txt
+Æë±Ï7¸öÅë,3Ddata\NPC\animal\Penguin07\body07.txt
+Æë±Ï2¸Ó¸®,3Ddata\NPC\animal\Penguin02\head02.txt
+Æë±Ï2¸öÅë,3Ddata\NPC\animal\Penguin02\body02.txt
+Æë±Ï3,3Ddata\NPC\animal\penguin03\body01.txt
+»þ¸Ó´Ï½ºÆ® ¸Ó¸®,3Ddata\NPC\npc\shamo\head01.txt
+»þ¸Ó´Ï½ºÆ® ¸ö1,3Ddata\NPC\npc\shamo\body01.txt
+»þ¸Ó´Ï½ºÆ® ¸ö2,3Ddata\NPC\npc\shamo\body02.txt
+Æë±Ï4¸Ó¸®,3Ddata\NPC\animal\Penguin04\head04.txt
+Æë±Ï4¸öÅë,3Ddata\NPC\animal\Penguin04\body04.txt
+Æë±Ï4°ÅºÏ¸Ó¸®,3Ddata\NPC\animal\Penguin04\head01.txt
+Æë±Ï4°ÅºÏ¸öÅë,3Ddata\NPC\animal\Penguin04\body01.txt
+ÅºµÎ¸®¸Ó¸®Åë,3Ddata\NPC\animal\chicken\head01.txt
+ÅºµÎ¸®¸öÅë,3Ddata\NPC\animal\chicken\body01.txt
+ÅºµÎ¸®»õ³¢¸öÅë,3Ddata\NPC\animal\chicken\body02.txt
+½ºÇÊ¹ö±×(¹ÙÄû),3Ddata\NPC\etc\bug\body01.txt
+·ç³ª ÇåÅÍ ¸Ó¸®,3Ddata\NPC\npc\Lunar_hunter/head01.txt
+·ç³ª ÇåÅÍ ¸ö1,3Ddata\NPC\npc\Lunar_hunter/body01.txt
+·ç³ª ÇåÅÍ ¸ö2,3Ddata\NPC\npc\Lunar_hunter/body02.txt
+½ºÄÌ·¹Åë¸Ó¸®,3Ddata\NPC\etc\tong\head01.txt
+½ºÄÌ·¹Åë¸öÅë,3Ddata\NPC\etc\tong\body01.txt
+¿£Æ®,3Ddata\NPC\etc\ent\body01.txt
+¸®ÀÚµå(µµ¸¶¹ì),3Ddata\NPC\animal\lizard\head01.txt
+¸á·»µð³ë ¸Ó¸®(NPC),3Ddata\NPC\npc\redmelendino\head01.txt
+¸á·»µð³ë ¸ö(NPC),3Ddata\NPC\npc\redmelendino\body01.txt
+¸á·»µð³ë ¸Ó¸®,3Ddata\NPC\animal\melendino\head01.txt
+¸á·»µð³ë ¸ö,3Ddata\NPC\animal\melendino\body01.txt
+Äù½ºÆ®_ºê¸°Åä ¸Ó¸®,3Ddata\NPC\npc\Quest_brinto\head01.txt
+Äù½ºÆ®_ºê¸°Åä ¸ö,3Ddata\NPC\npc\Quest_brinto\body01.txt
+Äù½ºÆ®¿¤·»¸Ó¸®,3Ddata\NPC\npc\Quest_ghost\head01.txt
+Äù½ºÆ®¿¤·»¸öÅë,3Ddata\NPC\npc\Quest_ghost\body01.txt
+³Ì³ª°£ ¸ÁÀÚ ¸Ó¸®(Á»ºñ),3Ddata\NPC\animal\zombi\head01.txt
+³Ì³ª°£ ¸ÁÀÚ ¸ö(Á»ºñ),3Ddata\NPC\animal\zombi\body01.txt
+ÇÏ¸°_npc_¸Ó¸®,3Ddata\NPC\npc\harin\head01.txt
+ÇÏ¸°_npc_¸ö,3Ddata\NPC\npc\harin\body01.txt
+ºê¸°Åä¸Ó¸®Åë,3Ddata\NPC\animal\Brinto1\head01.txt
+ºê¸°Åä¸öÅë,3Ddata\NPC\animal\Brinto1\body01.txt
+°¨¿°µÈ ºê¸°Åä ¸Ó¸®,3Ddata\NPC\etc\brinto2\head01.txt
+°¨¿°µÈ ºê¸°Åä ¸ö,3Ddata\NPC\etc\brinto2\body01.txt
+°í¼­1¸öÅë,3Ddata\NPC\etc\Book1\body01.txt
+°í¼­2¸öÅë,3Ddata\NPC\etc\Book1\body02.txt
+°í¼­3¸öÅë,3Ddata\NPC\etc\Book1\body03.txt
+ÇÁ·ÎÁð ÅÒºí·¯ ¸Ó¸®,3Ddata\NPC\etc\tumbler1\head01.txt
+ÇÁ·ÎÁð ÅÒºí·¯ ¸ö,3Ddata\NPC\etc\tumbler1\body01.txt
+»þ¸Ó´Ï½ºÆ® »çÁ¦ ¸Ó¸®_1,3Ddata\NPC\etc\priest1\head01.txt
+»þ¸Ó´Ï½ºÆ® »çÁ¦ ¸ö_1,3Ddata\NPC\etc\priest1\body01.txt
+»þ¸Ó´Ï½ºÆ® »çÁ¦ ¸ö_2,3Ddata\NPC\etc\priest1\body02.txt
+»þ¸Ó´Ï½ºÆ® ½Åµµ ¹«¸® ¸Ó¸®,3Ddata\NPC\etc\tombstone1\head01.txt
+»þ¸Ó´Ï½ºÆ® ½Åµµ ¹«¸® ¸ö,3Ddata\NPC\etc\tombstone1\body01.txt
+»þ¸Ó´Ï½ºÆ® »çÁ¦2 ¸Ó¸®_1,3Ddata\NPC\etc\priest2\head01.txt
+»þ¸Ó´Ï½ºÆ® »çÁ¦2 ¸ö_1,3Ddata\NPC\etc\priest2\body01.txt
+»þ¸Ó´Ï½ºÆ® »çÁ¦2 ¸ö_2,3Ddata\NPC\etc\priest2\body02.txt
+¿¡¹Ð¸Ó¸®,3Ddata\NPC\animal\King_male01\head01.txt
+¿¡¹Ð¸öÅë,3Ddata\NPC\animal\King_male01\body01.txt
+Å¸¶ôÇÑ ¾Æ·ç¾Æ ¿äÁ¤ ¸Ó¸®,3Ddata\NPC\npc\quest_arua\head01.txt
+Å¸¶ôÇÑ ¾Æ·ç¾Æ ¿äÁ¤ ¸ö,3Ddata\NPC\npc\quest_arua\body01.txt
+»þ¸Ó´Ï½ºÆ® »çÁ¦3 ¸Ó¸®_1,3Ddata\NPC\etc\priest3\head01.txt
+»þ¸Ó´Ï½ºÆ® »çÁ¦3 ¸ö_1,3Ddata\NPC\etc\priest3\body01.txt
+»þ¸Ó´Ï½ºÆ® »çÁ¦3 ¸ö_2,3Ddata\NPC\etc\priest3\body02.txt
+Á¤Ã¼ºÒ¸í¸ó½ºÅÍ,3Ddata\NPC\animal\Unknown\body01.txt
+Áö¿ÁºÒ²É,3Ddata\NPC\npc\quest_fire\body01.txt
+»ìÂð²¤ÆÐµÅÁö½ÃÅ°,3Ddata\NPC\animal\pig_poky\head01.txt
+Å¥ÇÇÆ®,3Ddata\NPC\npc\Quest_qupid\head01.txt
+Æë±ÏÀå±º¸Ó¸®,3Ddata\NPC\animal\G_Penguin04\head01.txt
+Æë±ÏÀå±º¸öÅë,3Ddata\NPC\animal\G_Penguin04\body01.txt
+¿°È­ÀÇ ÁÖÀÎ,3Ddata\NPC\plant\pumpkin_K\head01.txt
+¾ÈÅ¸·¹½º,3Ddata\NPC\animal\Antares\body01.txt
+·¹ÀÎÀú ÆÄ·¼,3Ddata\NPC\npc\robber\parel.txt
+¸Á·É»çÁ¦ ¶õÅä¸£,3Ddata\NPC\npc\ARCHBISHOP\rantor.txt
+¸Íµ¶ÀÇÁö¹èÀÚ,3Ddata\NPC\animal\Antares_k\body01.txt
+½ºÄÉºóÁ®,3Ddata\NPC\animal\scavenger\head01.txt
+´ÙÅ© ½ºÄÉºóÁ®,3Ddata\NPC\animal\scavenger-D\head01.txt
+"¸Ó¹ÌÅè ¸Ó¸®,¸ö",3Ddata\NPC\animal\Mummy_male01\head01.txt
+¸Ó¹ÌÅè ºØ´ë,3Ddata\NPC\animal\Mummy_male01\body01.txt
+¸ð·¡ÆøÇ³½ºÄÉºóÁ®,3Ddata\NPC\animal\scavenger-s\head01.txt
+Åä¿ì,3Ddata\NPC\etc\sandman01\body01.txt
+¸®¼¿_npc,3Ddata\NPC\npc\reesel\head01.txt
+Åä¿ì¿ö¸®¾î1,3Ddata\NPC\etc\sandman02\body01.txt
+Åä¿ì¿ö¸®¾î2,3Ddata\NPC\etc\sandman02\body02.txt
+Åä¿ìÀÚÀÌ¾ðÆ®,3Ddata\NPC\etc\sandman04\body01.txt
+±×·¹ÀÌÆ®Åä¿ì,3Ddata\NPC\etc\sandman05\body01.txt
+"¸Ó¹ÌÃ¼½Ã ¸Ó¸®,¸ö",3Ddata\NPC\animal\Mummy_Female01\head01.txt
+¸Ó¹ÌÃ¼½Ã ºØ´ë,3Ddata\NPC\animal\Mummy_Female01\body01.txt
+¸Ó¹ÌÅè ¼ÖÁ®,3Ddata\NPC\animal\Mummy_male03\head01.txt
+½ºÅæ°¡µå01,3Ddata\NPC\animal\stoneguard01\head01.txt
+½ºÄÝÇÇ¾ðÅ·,3Ddata\NPC\animal\Antares_king\body01.txt
+¸Ó¹ÌÅè Ä¿¸à´õ,3Ddata\NPC\animal\Mummy_male05\head01.txt
+½ºÄÝÇÇ¾ð°ñ¸®¾ù,3Ddata\NPC\animal\Antares_g\body01.txt
+¸Ó¹ÌÅè Å·,3Ddata\NPC\animal\Mummy_male06\head01.txt
+¾ÆÀÌ¾ðÅä¿ì,3Ddata\NPC\etc\sandman03\body01.txt
+½ºÅæ°¡µå02,3Ddata\NPC\animal\stoneguard02\head01.txt
+½ºÅæ°¡µå03,3Ddata\NPC\animal\stoneguard03\head01.txt
+½ºÅæ°¡µå04,3Ddata\NPC\animal\stoneguard04\head01.txt
+ÄÉÀÌºìÇÏÀÌ¿¡³ª,3Ddata\NPC\animal\Scavenger-C\head01.txt
+¸Ó¹ÌÃ¼½Ã Äý,3Ddata\NPC\animal\Mummy_Female05\head01.txt
+¸Ó¹ÌÃ¼½Ã ¸Þ½ÅÁ®,3Ddata\NPC\animal\Mummy_Female04\head01.txt
+¸Ó¹ÌÃ¼½Ã ¼ÖÁ®,3Ddata\NPC\animal\Mummy_Female02\head01.txt
+¸Ó¹ÌÃ¼½Ã ·¹ÀÎÁ®,3Ddata\NPC\animal\Mummy_Female02\head02.txt
+¸®Ä¡¸ö01,3Ddata\NPC\animal\Lich01\body01.txt
+¸®Ä¡¸ö02,3Ddata\NPC\animal\Lich01\body02.txt
+¸®Ä¡02¸ö01,3Ddata\NPC\animal\Lich02\body01.txt
+¸®Ä¡02¸ö02,3Ddata\NPC\animal\Lich02\body02.txt
+¾îºñ½ºÇÏÀÌ¿¡³ª,3Ddata\NPC\animal\Scavenger-A\head01.txt
+¾ÆÀÌ¾ðÇÏÀÌ¿¡³ª,3Ddata\NPC\animal\Scavenger-i\head01.txt
+ÀúÁÖ¹ÞÀº¹æÈ²ÀÇ¿£Æ®,3Ddata\NPC\plant\roam01_Fighter\body01.txt
+°¡°íÀÏ ¸ö,3Ddata\NPC\animal\Gargoyle_01_Fighter\head01.txt
+°¡°íÀÏ ³¯°³,3Ddata\NPC\animal\Gargoyle_01_Fighter\body01.txt
+°¡°íÀÏ Ã¶Åð,3Ddata\NPC\animal\Gargoyle_01_Fighter\body02.txt
+¶óÀÌ¿Â01ÆÄÀÌÅÍ¸ö1,3Ddata\NPC\animal\lion01_Fighter\body01.txt
+¶óÀÌ¿Â01ÆÄÀÌÅÍ¸ö2,3Ddata\NPC\animal\lion01_Fighter\body02.txt
+½ÃÄíÄíÈ£¶ûÀÌ_01,3Ddata\NPC\animal\tiger01_Fighter\head01.txt
+¶óÀÌ¿Â02ÆÄÀÌÅÍ¸ö1,3Ddata\NPC\animal\lion02_Fighter\body01.txt
+¶óÀÌ¿Â02ÆÄÀÌÅÍ¸ö2,3Ddata\NPC\animal\lion02_Fighter\body02.txt
+¶óÀÌ¿Â03ÆÄÀÌÅÍ¸ö1,3Ddata\NPC\animal\lion03_Fighter\body01.txt
+¶óÀÌ¿Â03ÆÄÀÌÅÍ¸ö2,3Ddata\NPC\animal\lion03_Fighter\body02.txt
+½ÃÄíÄíÈ£¶ûÀÌ_02_¾ÈÀå,3Ddata\NPC\animal\tiger02_Fighter\head01.txt
+½ÃÄíÄíÈ£¶ûÀÌ_03_¾ÈÀå,3Ddata\NPC\animal\tiger03_Fighter\head01.txt
+Ã¶Åð °¡°íÀÏ ¸ö,3Ddata\NPC\animal\Gargoyle_01_Fighter\head02.txt
+°è¶õ,3Ddata\NPC\etc\easteregg\head01.txt
+ºÎÈ°Àý Åä³¢,3Ddata\NPC\animal\EasterBunny\body01.txt
+¾Æ±â¼ø·Ï,3Ddata\NPC\animal\stag02\head01.txt
+¿ùµåÄÅÀÌº¥Æ®_Æê,3Ddata\NPC\etc\ball_pet\head01.txt
+¿ùµåÄÅÀÌº¥Æ®_¸ó½ºÅÍ,3Ddata\NPC\etc\flying_ball\head01.txt
+¿ì¶ó¸Þ½Ã¾ßÀ¯·É,3Ddata\NPC\npc\Jghost01\body01.txt
+ºñº¤1,3Ddata\NPC\animal\Vivec1\head01.txt
+ºñº¤2,3Ddata\NPC\animal\Vivec2\head01.txt
+¼ø·Ï1,3Ddata\NPC\animal\stag01\head01.txt
+¼º³­¼ø·Ï,3Ddata\NPC\animal\stag03\head01.txt
+·ç³ª¿ïÇÁ04,3Ddata\NPC\animal\Runa_wolf04\head01.txt
+¼¼ÀÌ¹öÅõ½º,3Ddata\NPC\animal\Sabretooth1\head01.txt
+ÇÁ·ÎÁðÅõ½º,3Ddata\NPC\animal\Sabretooth2\head01.txt
+½ÃÄíÄíÆ÷·Î_³²,3Ddata\NPC\etc\slave_male01\head01.txt
+ºí·çµå·¡°ï,3Ddata\NPC\animal\Dragon01\body01.txt
+½ÃÄíÄí°¨¼öº´,3Ddata\NPC\animal\s_warder01\body01.txt
+µå·¡°ï½Ãµå,3Ddata\NPC\animal\Just_big_egg\body01.txt
+·¹µåµå·¹°ï,3Ddata\NPC\animal\Dragon02\body01.txt
+·ç½Ã¿À½º,3Ddata\NPC\npc\Saber01\head01.txt
+½ÃÄíÄí°¨½Ãº´,3Ddata\NPC\animal\s_woman01\body01.txt
+½ÃÄíÄíÆ÷·Î_¿©,3Ddata\NPC\etc\slave_female01\head01.txt
+½ÃÄíÄí_½ÄÀÎÁ¾,3Ddata\NPC\etc\s_eater01\\head01.txt
+½ÃÄíÄí_Æ÷½ÄÀÚ,3Ddata\NPC\etc\s_eater02\\head01.txt
+ÄÉ¶ó,3Ddata\NPC\animal\s_kera01\body01.txt
+¸ÞÅ»¸ôµð,3Ddata\NPC\animal\mole3\head01.txt
+½ÃÄíÄí_¿ä¸®»ç,3Ddata\NPC\etc\s_eater03\\head01.txt
+Å¬·£Àü Àýº®02,
+½Ã·ç¸ö,
+ºÓÀº½ÉÀåµÅÁö,
+Å¬·£Àü Àýº®03,
+º¹µÅÁö,3Ddata\NPC\animal\EV_PigMon\head01.txt
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
