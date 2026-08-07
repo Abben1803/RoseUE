@@ -1,0 +1,156 @@
+[
+	{
+		"type": 211,
+		"left": false,
+		"loc_x": 10,
+		"loc_y": 0,
+		"loc_z": 0,
+		"pitch": 0,
+		"yaw": 143.83908081054688,
+		"roll": 90,
+		"scale": 1
+	},
+	{
+		"type": 212,
+		"left": false,
+		"loc_x": 10,
+		"loc_y": 0,
+		"loc_z": 0,
+		"pitch": -5,
+		"yaw": 143.8388671875,
+		"roll": 90,
+		"scale": 1
+	},
+	{
+		"type": 271,
+		"left": false,
+		"loc_x": 9,
+		"loc_y": 2,
+		"loc_z": 0,
+		"pitch": 0,
+		"yaw": 114,
+		"roll": 90,
+		"scale": 1
+	},
+	{
+		"type": 251,
+		"left": false,
+		"loc_x": 9,
+		"loc_y": 2,
+		"loc_z": 0,
+		"pitch": 0,
+		"yaw": 120,
+		"roll": 90,
+		"scale": 1
+	},
+	{
+		"type": 221,
+		"left": false,
+		"loc_x": 9,
+		"loc_y": 0,
+		"loc_z": 0,
+		"pitch": -5,
+		"yaw": 90,
+		"roll": 90,
+		"scale": 1
+	},
+	{
+		"type": 223,
+		"left": false,
+		"loc_x": 9,
+		"loc_y": 0,
+		"loc_z": 0,
+		"pitch": 0,
+		"yaw": 90,
+		"roll": 90,
+		"scale": 1
+	},
+	{
+		"type": 222,
+		"left": false,
+		"loc_x": 9,
+		"loc_y": 0,
+		"loc_z": 0,
+		"pitch": 0,
+		"yaw": 90,
+		"roll": 90,
+		"scale": 1
+	},
+	{
+		"type": 231,
+		"left": false,
+		"loc_x": 8,
+		"loc_y": 2,
+		"loc_z": 0,
+		"pitch": -5,
+		"yaw": 90.900001525878906,
+		"roll": 0,
+		"scale": 1
+	},
+	{
+		"type": 232,
+		"left": false,
+		"loc_x": 9,
+		"loc_y": 0,
+		"loc_z": 0,
+		"pitch": 0,
+		"yaw": 0,
+		"roll": 0,
+		"scale": 1
+	},
+	{
+		"type": 233,
+		"left": false,
+		"loc_x": 9,
+		"loc_y": 0,
+		"loc_z": 6.9380874633789062,
+		"pitch": 0,
+		"yaw": 90,
+		"roll": 90,
+		"scale": 1
+	},
+	{
+		"type": 241,
+		"left": false,
+		"loc_x": 9,
+		"loc_y": 2,
+		"loc_z": 0,
+		"pitch": 0,
+		"yaw": 90,
+		"roll": 90,
+		"scale": 1
+	},
+	{
+		"type": 242,
+		"left": false,
+		"loc_x": 9,
+		"loc_y": 0,
+		"loc_z": 0,
+		"pitch": 0,
+		"yaw": 90,
+		"roll": 90,
+		"scale": 1
+	},
+	{
+		"type": 252,
+		"left": false,
+		"loc_x": 9,
+		"loc_y": 0,
+		"loc_z": 0,
+		"pitch": 0,
+		"yaw": 90,
+		"roll": 90,
+		"scale": 1
+	},
+	{
+		"type": 261,
+		"left": true,
+		"loc_x": -10,
+		"loc_y": 0,
+		"loc_z": 0,
+		"pitch": 0,
+		"yaw": -64,
+		"roll": -90,
+		"scale": 1
+	}
+]
