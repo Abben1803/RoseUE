@@ -1,0 +1,2340 @@
+{
+ "zone": "JPT01",
+ "materials": [
+  {
+   "name": "M0_T030_02",
+   "texture": "M0_T030_02.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T030_02.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M1_T030_01",
+   "texture": "M1_T030_01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T030_01.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M2_T030_04",
+   "texture": "M2_T030_04.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T030_04.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M3_T030_03",
+   "texture": "M3_T030_03.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T030_03.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M4_T029_04",
+   "texture": "M4_T029_04.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T029_04.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M5_T029_02",
+   "texture": "M5_T029_02.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T029_02.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M6_T030_05",
+   "texture": "M6_T030_05.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T030_05.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M7_T029_03",
+   "texture": "M7_T029_03.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T029_03.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M8_T029_05",
+   "texture": "M8_T029_05.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T029_05.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M9_T029_01",
+   "texture": "M9_T029_01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T029_01.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M10_T029_01",
+   "texture": "M10_T029_01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T029_01.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M11_T029_02",
+   "texture": "M11_T029_02.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T029_02.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M12_T029_03",
+   "texture": "M12_T029_03.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T029_03.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M13_T029_05",
+   "texture": "M13_T029_05.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T029_05.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M14_T028_01",
+   "texture": "M14_T028_01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T028_01.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M15_T028_05",
+   "texture": "M15_T028_05.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T028_05.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M16_T028_03",
+   "texture": "M16_T028_03.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T028_03.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M17_TREE020B",
+   "texture": "M17_TREE020B.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\TREE020\\TREE020B.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M18_TREE020",
+   "texture": "M18_TREE020.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\TREE020\\TREE020.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M19_T008_05",
+   "texture": "M19_T008_05.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T008_05.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M20_T008_04",
+   "texture": "M20_T008_04.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T008_04.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M21_T008_02",
+   "texture": "M21_T008_02.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T008_02.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M22_T008_03",
+   "texture": "M22_T008_03.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T008_03.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M23_T008_01",
+   "texture": "M23_T008_01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T008_01.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M24_T008_03",
+   "texture": "M24_T008_03.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T008_03.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M25_T008_02",
+   "texture": "M25_T008_02.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T008_02.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M26_T008_05",
+   "texture": "M26_T008_05.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T008_05.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M27_T008_01",
+   "texture": "M27_T008_01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T008_01.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M28_color",
+   "texture": "M28_color.png",
+   "texture_src": null,
+   "alpha": false,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": [
+    0.1,
+    0.32,
+    0.46,
+    0.8
+   ],
+   "kind": "water"
+  },
+  {
+   "name": "M29_T025_03",
+   "texture": "M29_T025_03.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T025_03.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M30_T025_05",
+   "texture": "M30_T025_05.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T025_05.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M31_T025_01",
+   "texture": "M31_T025_01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T025_01.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M32_T025_02",
+   "texture": "M32_T025_02.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T025_02.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M33_T025_04",
+   "texture": "M33_T025_04.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T025_04.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M34_T030_02",
+   "texture": "M34_T030_02.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T030_02.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M35_T030_01",
+   "texture": "M35_T030_01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T030_01.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M36_T030_03",
+   "texture": "M36_T030_03.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T030_03.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M37_T030_05",
+   "texture": "M37_T030_05.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T030_05.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M38_TREE011B",
+   "texture": "M38_TREE011B.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\TREE011\\TREE011B.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M39_TREE011",
+   "texture": "M39_TREE011.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\TREE011\\TREE011.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M40_GRASS005",
+   "texture": "M40_GRASS005.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\GRASS\\GRASS005\\GRASS005.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M41_TREE022",
+   "texture": "M41_TREE022.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\TREE025\\TREE022.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M42_TREE011",
+   "texture": "M42_TREE011.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\TREE025\\TREE011.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M43_GRASS004",
+   "texture": "M43_GRASS004.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\GRASS\\GRASS004\\GRASS004.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M44_PORTTREE006B",
+   "texture": "M44_PORTTREE006B.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\PORTTREE006\\PORTTREE006B.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M45_PORTTREE006",
+   "texture": "M45_PORTTREE006.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\PORTTREE006\\PORTTREE006.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M46_STONE012",
+   "texture": "M46_STONE012.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\STONE\\STONE012\\STONE012.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M47_TREE020B",
+   "texture": "M47_TREE020B.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\TREE021\\TREE020B.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M48_TREE021",
+   "texture": "M48_TREE021.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\TREE021\\TREE021.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M49_GRASS021B",
+   "texture": "M49_GRASS021B.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\GRASS\\GRASS021\\GRASS021B.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M50_GRASS021",
+   "texture": "M50_GRASS021.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\GRASS\\GRASS021\\GRASS021.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M51_GRASS020B",
+   "texture": "M51_GRASS020B.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\GRASS\\GRASS020\\GRASS020B.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M52_GRASS020",
+   "texture": "M52_GRASS020.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\GRASS\\GRASS020\\GRASS020.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M53_T028_01",
+   "texture": "M53_T028_01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T028_01.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M54_T001_03",
+   "texture": "M54_T001_03.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T001_03.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M55_T028_03",
+   "texture": "M55_T028_03.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T028_03.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M56_T028_05",
+   "texture": "M56_T028_05.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T028_05.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M57_T028_04",
+   "texture": "M57_T028_04.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T028_04.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M58_T001_04",
+   "texture": "M58_T001_04.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T001_04.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M59_T001_05",
+   "texture": "M59_T001_05.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T001_05.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M60_T001_01",
+   "texture": "M60_T001_01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T001_01.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M61_T028_02",
+   "texture": "M61_T028_02.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T028_02.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M62_T001_05",
+   "texture": "M62_T001_05.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T001_05.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M63_T001_03",
+   "texture": "M63_T001_03.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T001_03.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M64_T001_02",
+   "texture": "M64_T001_02.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T001_02.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M65_T001_01",
+   "texture": "M65_T001_01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T001_01.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M66_T001_04",
+   "texture": "M66_T001_04.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T001_04.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M67_T028_02",
+   "texture": "M67_T028_02.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T028_02.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M68_T028_04",
+   "texture": "M68_T028_04.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T028_04.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M69_CASTLEGATE03",
+   "texture": "M69_CASTLEGATE03.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\CASTLEGATE03\\CASTLEGATE03.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M70_CASTLEGATE02",
+   "texture": "M70_CASTLEGATE02.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\CASTLEGATE02\\CASTLEGATE02.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M71_PORTSTAIR",
+   "texture": "M71_PORTSTAIR.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\PORTSTAIR\\PORTSTAIR.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M72_BUGLE01",
+   "texture": "M72_BUGLE01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\MORPH\\BUGLE01\\BUGLE01.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M73_T008_04",
+   "texture": "M73_T008_04.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T008_04.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M74_TREE030B",
+   "texture": "M74_TREE030B.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\TREE030\\TREE030B.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M75_TREE030",
+   "texture": "M75_TREE030.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\TREE030\\TREE030.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M76_WATERWAY",
+   "texture": "M76_WATERWAY.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\WATERWAY01\\WATERWAY.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M77_color",
+   "texture": "M77_color.png",
+   "texture_src": null,
+   "alpha": false,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": [
+    0.85,
+    0.2,
+    0.2,
+    0.35
+   ],
+   "kind": null
+  },
+  {
+   "name": "M78_TREE011B",
+   "texture": "M78_TREE011B.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\TREE012\\TREE011B.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M79_TREE012",
+   "texture": "M79_TREE012.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\TREE012\\TREE012.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M80_PORTSHIP",
+   "texture": "M80_PORTSHIP.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\PORTSHIP\\PORTSHIP.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M81_PARKPILLAR",
+   "texture": "M81_PARKPILLAR.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\PARKPILLAR\\PARKPILLAR.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M82_PORTTREE001B",
+   "texture": "M82_PORTTREE001B.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\PORTTREE001\\PORTTREE001B.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M83_PORTTREE005",
+   "texture": "M83_PORTTREE005.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\PORTTREE005\\PORTTREE005.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M84_DONGSANGB",
+   "texture": "M84_DONGSANGB.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\ETC\\DONGSANGH\\DONGSANGB.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M85_DONGSANGS",
+   "texture": "M85_DONGSANGS.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\ETC\\DONGSANGS\\DONGSANGS.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M86_DONGSANGH",
+   "texture": "M86_DONGSANGH.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\ETC\\DONGSANGH\\DONGSANGH.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M87_STREETLIGHTB",
+   "texture": "M87_STREETLIGHTB.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\STREETLIGHT01\\STREETLIGHTB.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M88_STREETLIGHTG",
+   "texture": "M88_STREETLIGHTG.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\STREETLIGHT01\\STREETLIGHTG.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M89_PORTTREE002B",
+   "texture": "M89_PORTTREE002B.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\PORTTREE002\\PORTTREE002B.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M90_PORTTREE004",
+   "texture": "M90_PORTTREE004.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\PORTTREE004\\PORTTREE004.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M91_GARDEN",
+   "texture": "M91_GARDEN.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\GARDEN\\GARDEN.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M92_PORTTREE001",
+   "texture": "M92_PORTTREE001.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\PORTTREE001\\PORTTREE001.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M93_PORTTREE002",
+   "texture": "M93_PORTTREE002.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\PORTTREE002\\PORTTREE002.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M94_PORTTONG",
+   "texture": "M94_PORTTONG.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\ETC\\PORTTONG\\PORTTONG.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M95_LYCHURSB",
+   "texture": "M95_LYCHURSB.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\LYCHURS\\LYCHURSB.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M96_LYCHURSS",
+   "texture": "M96_LYCHURSS.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\LYCHURS\\LYCHURSS.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M97_LYCHURSF",
+   "texture": "M97_LYCHURSF.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\LYCHURS\\LYCHURSF.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M98_T026_01",
+   "texture": "M98_T026_01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T026_01.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M99_T026_04",
+   "texture": "M99_T026_04.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T026_04.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M100_T026_03",
+   "texture": "M100_T026_03.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T026_03.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M101_S002_01",
+   "texture": "M101_S002_01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\S002_01.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M102_S002_02",
+   "texture": "M102_S002_02.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\S002_02.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M103_T026_01",
+   "texture": "M103_T026_01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T026_01.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M104_T026_02",
+   "texture": "M104_T026_02.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T026_02.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M105_T026_03",
+   "texture": "M105_T026_03.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T026_03.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M106_T026_05",
+   "texture": "M106_T026_05.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T026_05.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M107_PORTBRIDGE",
+   "texture": "M107_PORTBRIDGE.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\PORTBRIDGE\\PORTBRIDGE.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M108_PORTBRIDGESTONE",
+   "texture": "M108_PORTBRIDGESTONE.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\PORTBRIDGE\\PORTBRIDGESTONE.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M109_PORTKNIGHT",
+   "texture": "M109_PORTKNIGHT.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\ETC\\PORTKNIGHT\\PORTKNIGHT.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M110_PORTKNIGHTF",
+   "texture": "M110_PORTKNIGHTF.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\ETC\\PORTKNIGHT\\PORTKNIGHTF.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M111_PORTKNIGHTT",
+   "texture": "M111_PORTKNIGHTT.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\ETC\\PORTKNIGHT\\PORTKNIGHTT.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M112_WATERWAY04",
+   "texture": "M112_WATERWAY04.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\WATERWAY04\\WATERWAY04.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M113_PORTKNIGHT2",
+   "texture": "M113_PORTKNIGHT2.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\ETC\\PORTKNIGHT2\\PORTKNIGHT2.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M114_PORTBURDEN2",
+   "texture": "M114_PORTBURDEN2.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\ETC\\PORTBURDEN02\\PORTBURDEN2.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M115_PORTSTAIR03",
+   "texture": "M115_PORTSTAIR03.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\ETC\\PORTSTAIR03\\PORTSTAIR03.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M116_JONGTAP",
+   "texture": "M116_JONGTAP.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\JONGTAP\\JONGTAP.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M117_PORTTREE003",
+   "texture": "M117_PORTTREE003.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\PORTTREE003\\PORTTREE003.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M118_T001_02",
+   "texture": "M118_T001_02.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T001_02.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M119_CASTLEGATE04",
+   "texture": "M119_CASTLEGATE04.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\CASTLEGATE07\\CASTLEGATE04.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M120_RAILLINGB",
+   "texture": "M120_RAILLINGB.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\RAILLING\\RAILLINGB.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M121_RAILLING",
+   "texture": "M121_RAILLING.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\RAILLING\\RAILLING.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M122_CHURCH01",
+   "texture": "M122_CHURCH01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\CHURCH\\CHURCH01.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M123_CHURCH02",
+   "texture": "M123_CHURCH02.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\CHURCH\\CHURCH02.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M124_CHURCH03",
+   "texture": "M124_CHURCH03.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\CHURCH\\CHURCH03.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M125_MULGUYL01",
+   "texture": "M125_MULGUYL01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\EFFECT\\EFFECTMESH\\WATER\\MULGUYL01.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M126_VINE02",
+   "texture": "M126_VINE02.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\VINE01\\VINE02.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M127_VINE01",
+   "texture": "M127_VINE01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\VINE01\\VINE01.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M128_VINE02",
+   "texture": "M128_VINE02.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\VINE02\\VINE02.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M129_VINE01",
+   "texture": "M129_VINE01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\VINE02\\VINE01.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M130_VINE02",
+   "texture": "M130_VINE02.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\VINE03\\VINE02.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M131_VINE01",
+   "texture": "M131_VINE01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\VINE03\\VINE01.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M132_TREE007B",
+   "texture": "M132_TREE007B.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\TREE007\\TREE007B.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M133_TREE008",
+   "texture": "M133_TREE008.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\TREE008\\TREE008.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M134_TREE009B",
+   "texture": "M134_TREE009B.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\TREE009\\TREE009B.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M135_TREE009",
+   "texture": "M135_TREE009.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\TREE009\\TREE009.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M136_TREE007",
+   "texture": "M136_TREE007.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\TREE\\TREE007\\TREE007.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M137_CASTLEGATE01",
+   "texture": "M137_CASTLEGATE01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\CASTLEGATE01\\CASTLEGATE01.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M138_CASTLEGATE01F",
+   "texture": "M138_CASTLEGATE01F.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\CASTLEGATE01\\CASTLEGATE01F.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M139_CASTLEGATE01COLL",
+   "texture": "M139_CASTLEGATE01COLL.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\CASTLEGATE01\\CASTLEGATE01COLL.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M140_CASTLEGATE01T",
+   "texture": "M140_CASTLEGATE01T.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\CASTLEGATE01\\CASTLEGATE01T.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M141_PORTPIPE",
+   "texture": "M141_PORTPIPE.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\ETC\\PORTPIPE\\PORTPIPE.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M142_PARKPILLARTREE",
+   "texture": "M142_PARKPILLARTREE.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\PARKPILLAR\\PARKPILLARTREE.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M143_PARKPILLARTREEB",
+   "texture": "M143_PARKPILLARTREEB.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\PARKPILLAR\\PARKPILLARTREEB.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M144_PORTBENCH",
+   "texture": "M144_PORTBENCH.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\PORTBENCH\\PORTBENCH.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M145_PORTBENCHB",
+   "texture": "M145_PORTBENCHB.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\PORTBENCH\\PORTBENCHB.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M146_INFORHOUSE",
+   "texture": "M146_INFORHOUSE.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\INFORHOUSE\\INFORHOUSE.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M147_INFORHOUSEB",
+   "texture": "M147_INFORHOUSEB.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\INFORHOUSE\\INFORHOUSEB.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M148_INFORHOUSEL",
+   "texture": "M148_INFORHOUSEL.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\INFORHOUSE\\INFORHOUSEL.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M149_FOUNTAIN",
+   "texture": "M149_FOUNTAIN.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\FOUNTAIN\\FOUNTAIN.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M150_FOUNTAINB",
+   "texture": "M150_FOUNTAINB.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\FOUNTAIN\\FOUNTAINB.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M151_FOUNTAING",
+   "texture": "M151_FOUNTAING.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\FOUNTAIN\\FOUNTAING.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M152_FOUNTAINT",
+   "texture": "M152_FOUNTAINT.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\FOUNTAIN\\FOUNTAINT.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M153_PORTLIGHT",
+   "texture": "M153_PORTLIGHT.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\FOUNTAIN\\PORTLIGHT.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M154_PORTLIGHTG",
+   "texture": "M154_PORTLIGHTG.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\FOUNTAIN\\PORTLIGHTG.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M155_FOUNTAINGARDEN",
+   "texture": "M155_FOUNTAINGARDEN.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\ETC\\FOUNTAINGARDEN\\FOUNTAINGARDEN.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M156_OCEANWAVE01",
+   "texture": "M156_OCEANWAVE01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\EFFECT\\EFFECTMESH\\WATER\\OCEANWAVE01.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M157_T026_02",
+   "texture": "M157_T026_02.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T026_02.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M158_PORTVESSEL",
+   "texture": "M158_PORTVESSEL.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\PORTVESSEL\\PORTVESSEL.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M159_PORTVESSELC",
+   "texture": "M159_PORTVESSELC.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\PORTVESSEL\\PORTVESSELC.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M160_PORTVESSELS",
+   "texture": "M160_PORTVESSELS.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\PORTVESSEL\\PORTVESSELS.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M161_PORTSHIPLINE",
+   "texture": "M161_PORTSHIPLINE.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\PORTVESSEL\\PORTSHIPLINE.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M162_PORTVESSELT",
+   "texture": "M162_PORTVESSELT.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\PORTVESSEL\\PORTVESSELT.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M163_PORTSHIPGARD",
+   "texture": "M163_PORTSHIPGARD.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\ETC\\PORTSHIPGARD\\PORTSHIPGARD.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M164_PORTVESSELDIEY",
+   "texture": "M164_PORTVESSELDIEY.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\ETC\\PORTVESSELDIEY\\PORTVESSELDIEY.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M165_PORTVESSELDIEYT",
+   "texture": "M165_PORTVESSELDIEYT.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\ETC\\PORTVESSELDIEY\\PORTVESSELDIEYT.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M166_FLOODGATE",
+   "texture": "M166_FLOODGATE.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\FLOODGATE\\FLOODGATE.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M167_PORTSHIP02T",
+   "texture": "M167_PORTSHIP02T.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\PORTSHIP02\\PORTSHIP02T.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M168_PORTSHIP01S",
+   "texture": "M168_PORTSHIP01S.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\PORTSHIP01\\PORTSHIP01S.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M169_PORTCRANEBOX",
+   "texture": "M169_PORTCRANEBOX.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\ETC\\PORTBOX\\PORTCRANEBOX.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M170_PORTBEACON",
+   "texture": "M170_PORTBEACON.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\PORTBEACON\\PORTBEACON.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M171_PORTBEACONG",
+   "texture": "M171_PORTBEACONG.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\PORTBEACON\\PORTBEACONG.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M172_INOUT_JG",
+   "texture": "M172_INOUT_JG.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\INOUT-JG\\INOUT-JG.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M173_STONE012",
+   "texture": "M173_STONE012.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\STONE\\STONE018\\STONE012.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M174_PERELSANGDAN",
+   "texture": "M174_PERELSANGDAN.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\PERELLSANGDAN\\PERELSANGDAN.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M175_PERELSANGDANSIGN",
+   "texture": "M175_PERELSANGDANSIGN.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\PERELLSANGDAN\\PERELSANGDANSIGN.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M176_MINGA04",
+   "texture": "M176_MINGA04.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\PARMOR\\MINGA04.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M177_ARMOR01",
+   "texture": "M177_ARMOR01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\PARMOR\\ARMOR01.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M178_ARMOR02",
+   "texture": "M178_ARMOR02.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\PARMOR\\ARMOR02.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M179_MINGA04A",
+   "texture": "M179_MINGA04A.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\PARMOR\\MINGA04A.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M180_MINGA04B",
+   "texture": "M180_MINGA04B.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\PARMOR\\MINGA04B.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M181_MINGA04C",
+   "texture": "M181_MINGA04C.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\PARMOR\\MINGA04C.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M182_CLOCKTAP",
+   "texture": "M182_CLOCKTAP.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\CLOCKTAP\\CLOCKTAP.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M183_CLOCKTAPRAIL",
+   "texture": "M183_CLOCKTAPRAIL.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\CLOCKTAP\\CLOCKTAPRAIL.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M184_CLOCKTAPRAILB",
+   "texture": "M184_CLOCKTAPRAILB.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\CLOCKTAP\\CLOCKTAPRAILB.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M185_MANKOOKGI",
+   "texture": "M185_MANKOOKGI.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\ETC\\MANKOOKGI\\MANKOOKGI.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M186_MINGA04",
+   "texture": "M186_MINGA04.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\PRISA\\MINGA04.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M187_MINGA04A",
+   "texture": "M187_MINGA04A.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\PRISA\\MINGA04A.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M188_MINGA04B",
+   "texture": "M188_MINGA04B.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\PRISA\\MINGA04B.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M189_RISA01",
+   "texture": "M189_RISA01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\PRISA\\RISA01.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M190_RISA02",
+   "texture": "M190_RISA02.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\PRISA\\RISA02.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M191_MINGA02",
+   "texture": "M191_MINGA02.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\PMINGA02\\MINGA02.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M192_MINGA02A",
+   "texture": "M192_MINGA02A.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\PMINGA02\\MINGA02A.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M193_MINGA02B",
+   "texture": "M193_MINGA02B.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\PMINGA02\\MINGA02B.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M194_MINGA02",
+   "texture": "M194_MINGA02.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\PWINE\\MINGA02.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M195_MINGA02A",
+   "texture": "M195_MINGA02A.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\PWINE\\MINGA02A.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M196_MINGA02B",
+   "texture": "M196_MINGA02B.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\PWINE\\MINGA02B.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M197_PWINE",
+   "texture": "M197_PWINE.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\PWINE\\PWINE.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M198_MINGA01",
+   "texture": "M198_MINGA01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\PMACHINE\\MINGA01.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M199_MACHINE01",
+   "texture": "M199_MACHINE01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\PMACHINE\\MACHINE01.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M200_MACHINE02",
+   "texture": "M200_MACHINE02.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\PMACHINE\\MACHINE02.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M201_MINGA04",
+   "texture": "M201_MINGA04.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\PJEWELRY\\MINGA04.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M202_JEWELRY01",
+   "texture": "M202_JEWELRY01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\PJEWELRY\\JEWELRY01.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M203_JEWELRY02",
+   "texture": "M203_JEWELRY02.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\PJEWELRY\\JEWELRY02.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M204_MINGA04A",
+   "texture": "M204_MINGA04A.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\PJEWELRY\\MINGA04A.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M205_MINGA04B",
+   "texture": "M205_MINGA04B.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\PJEWELRY\\MINGA04B.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M206_WEAPON01",
+   "texture": "M206_WEAPON01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\PWEAPON\\WEAPON01.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M207_T026_04",
+   "texture": "M207_T026_04.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T026_04.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M208_PORTCRANE",
+   "texture": "M208_PORTCRANE.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\ETC\\PORTCRANE\\PORTCRANE.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M209_PORTCRANEBOX",
+   "texture": "M209_PORTCRANEBOX.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\ETC\\PORTCRANE\\PORTCRANEBOX.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M210_PORTBURDEN",
+   "texture": "M210_PORTBURDEN.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\ETC\\PORTBURDEN\\PORTBURDEN.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M211_PORTCRANEBOX2",
+   "texture": "M211_PORTCRANEBOX2.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\ETC\\PORTBURDEN\\PORTCRANEBOX2.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M212_DONGSANGM",
+   "texture": "M212_DONGSANGM.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\ETC\\DONGSANGM\\DONGSANGM.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M213_ARUMICT",
+   "texture": "M213_ARUMICT.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\ARUMIC\\ARUMICT.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M214_ARUMICB",
+   "texture": "M214_ARUMICB.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\ARUMIC\\ARUMICB.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M215_ARUMICRAIL",
+   "texture": "M215_ARUMICRAIL.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\ARUMIC\\ARUMICRAIL.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M216_ARUMICRAILB",
+   "texture": "M216_ARUMICRAILB.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\HOUSE\\ARUMIC\\ARUMICRAILB.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M217_T026_05",
+   "texture": "M217_T026_05.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T026_05.DDS",
+   "alpha": false,
+   "mode": "OPAQUE",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M218_PORTSHIP01",
+   "texture": "M218_PORTSHIP01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\PORTSHIP01\\PORTSHIP01.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M219_PORTSHIP01T",
+   "texture": "M219_PORTSHIP01T.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\PORTSHIP01\\PORTSHIP01T.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M220_PORTSHIP01F",
+   "texture": "M220_PORTSHIP01F.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\PORTSHIP01\\PORTSHIP01F.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M221_PORTSHIPDIE",
+   "texture": "M221_PORTSHIPDIE.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\ETC\\PORTSHIPDIE\\PORTSHIPDIE.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M222_FARMGATE01",
+   "texture": "M222_FARMGATE01.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\FARMGATE\\FARMGATE01.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M223_FARMGATE02",
+   "texture": "M223_FARMGATE02.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\FARMGATE\\FARMGATE02.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M224_ETC002",
+   "texture": "M224_ETC002.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\ETC\\ETC002\\ETC002.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M225_PUNGCHA",
+   "texture": "M225_PUNGCHA.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\M_PUNGCHA\\PUNGCHA.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M226_PUNGCHA_SIDE",
+   "texture": "M226_PUNGCHA_SIDE.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\M_SIDEHOUSE\\PUNGCHA_SIDE.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M227_WOOMUL",
+   "texture": "M227_WOOMUL.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\WOOMUL\\WOOMUL.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M228_MOVEHOUSE",
+   "texture": "M228_MOVEHOUSE.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\VILLAGE\\MOVEHOUSE\\MOVEHOUSE.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M229_ETC006",
+   "texture": "M229_ETC006.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\JUNON\\ETC\\ETC006\\ETC006.DDS",
+   "alpha": true,
+   "mode": "MASK",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M230_T029_04",
+   "texture": "M230_T029_04.png",
+   "texture_src": "C:\\rose-next-classic\\client\\out\\3DDATA\\TERRAIN\\TILES\\JUNON\\JG\\T029_04.DDS",
+   "alpha": true,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": null,
+   "kind": null
+  },
+  {
+   "name": "M231_color",
+   "texture": "M231_color.png",
+   "texture_src": null,
+   "alpha": false,
+   "mode": "BLEND",
+   "twosided": true,
+   "color": [
+    0.9,
+    0.2,
+    0.2,
+    0.4
+   ],
+   "kind": null
+  }
+ ]
+}
